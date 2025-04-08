@@ -6,7 +6,7 @@
 # sys.path.append('..')
 
 # %%
-from model_llm.minbpe import BasicTokenizer
+from feynmanllm.model_llm.minbpe import BasicTokenizer
 
 tokenizer = BasicTokenizer()
 tokenizer.load("model_llm/output/tokenizer/my_tokenizer.model")
@@ -26,7 +26,7 @@ import torch
 torch.manual_seed(3647)
 
 # %%
-from model_llm.transformer.model import GPTLanguageModel
+from feynmanllm.model_llm.transformer.model import GPTLanguageModel
 
 block_size = 256
 n_embd = 512
@@ -302,7 +302,7 @@ def train_model(
     eval_interval=100,
     eval_iters=200,
     checkpoint_path="checkpoint.pth",
-    checkpoint_interval=500  # Save checkpoint every N batches
+    checkpoint_interval=500,  # Save checkpoint every N batches
     train_test_loss=1.5
 ):
     # Try to load existing checkpoint
