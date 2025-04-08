@@ -6,10 +6,10 @@ import sys
 sys.path.append('..')
 
 # %%
-from feynmanllm.model_llm.minbpe import BasicTokenizer
+from minbpe import BasicTokenizer
 
 tokenizer = BasicTokenizer()
-tokenizer.load("feynmanllm/model_llm/output/tokenizer/my_tokenizer.model")
+tokenizer.load("../output/tokenizer/my_tokenizer.model")
 
 
 def get_vocab_size(tokenizer: BasicTokenizer) -> int:
@@ -26,7 +26,7 @@ import torch
 torch.manual_seed(3647)
 
 # %%
-from feynmanllm.model_llm.transformer.model import GPTLanguageModel
+from transformer.model import GPTLanguageModel
 
 block_size = 512
 n_embd = 128
@@ -57,7 +57,7 @@ print(sum(p.numel() for p in model.parameters())/1e6, 'M parameters')
 # ### 1. Load the data
 
 # %%
-with open("feynmanllm/model_llm/data/feynman_combined_text.txt", "r") as f:
+with open("../data/feynman_combined_text.txt", "r") as f:
     text_sequence = f.read()
 
 encoded_text_sequence = tokenizer.encode(text_sequence)
@@ -164,7 +164,7 @@ for iteration in range(max_iters):
             optimizer=optimizer,
             epoch=iteration,
             loss=loss.item(),
-            file_path=f"feynmanllm/model_llm/output/pre_training/run_1/checkpoint_{iteration}.pth"
+            file_path=f"../output/pre_training/run_1/checkpoint_{iteration}.pth"
         )
 
 # %%

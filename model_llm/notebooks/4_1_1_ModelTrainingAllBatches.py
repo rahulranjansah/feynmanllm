@@ -2,14 +2,14 @@
 # ## Load the tokenizer
 
 # %%
-# import sys
-# sys.path.append('..')
+import sys
+sys.path.append('..')
 
 # %%
-from feynmanllm.model_llm.minbpe import BasicTokenizer
+from minbpe import BasicTokenizer
 
 tokenizer = BasicTokenizer()
-tokenizer.load("model_llm/output/tokenizer/my_tokenizer.model")
+tokenizer.load("../output/tokenizer/my_tokenizer.model")
 
 
 def get_vocab_size(tokenizer: BasicTokenizer) -> int:
@@ -26,7 +26,7 @@ import torch
 torch.manual_seed(3647)
 
 # %%
-from feynmanllm.model_llm.transformer.model import GPTLanguageModel
+from transformer.model import GPTLanguageModel
 
 block_size = 256
 n_embd = 512
@@ -57,7 +57,7 @@ print(sum(p.numel() for p in model.parameters())/1e6, 'M parameters')
 # ### 1. Load the data
 
 # %%
-with open("model_llm/data/feynman_combined_text.txt", "r") as f:
+with open("../data/feynman_combined_text.txt", "r") as f:
     text_sequence = f.read()
 
 encoded_text_sequence = tokenizer.encode(text_sequence)
@@ -162,219 +162,38 @@ def estimate_loss(
 # Training modularized to save and load checkpoints
 
 # %%
-import torch
-from tqdm import tqdm
-import os
-
 def save_checkpoint(
     model: GPTLanguageModel,
     optimizer: torch.optim.Optimizer,
     epoch: int,
-    batch_idx: int,
     loss: float,
-    train_losses: list,
-    val_losses: list,
     file_path: str = "checkpoint.pth"
 ) -> None:
     checkpoint = {
         'epoch': epoch,
-        'batch_idx': batch_idx,
         'model_state_dict': model.state_dict(),
         'optimizer_state_dict': optimizer.state_dict(),
-        'loss': loss,
-        'train_losses': train_losses,
-        'val_losses': val_losses,
+        'loss': loss
     }
     torch.save(checkpoint, file_path)
 
 # %%
-def load_checkpoint(file_path, model, optimizer):
-    if not os.path.exists(file_path):
-        return 0, 0, [], []  # Start fresh if no checkpoint exists
 
+
+# %%
+# loading the checkpoint where stopped
+def load_checkpoint(file_path, model, optimizer):
     checkpoint = torch.load(file_path)
     model.load_state_dict(checkpoint['model_state_dict'])
     optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
-    start_epoch = checkpoint['epoch']
-    start_batch_idx = checkpoint['batch_idx'] + 1  # Resume from next batch
-    train_losses = checkpoint.get('train_losses', [])
-    val_losses = checkpoint.get('val_losses', [])
-
-    return start_epoch, start_batch_idx, train_losses, val_losses
+    start_epoch = checkpoint['epoch'] + 1  # Resume from the next epoch
+    return start_epoch
 
 # %%
-def train_model(
-    model,
-    optimizer,
-    train_loader,
-    val_loader,
-    max_iters=1,
-    eval_interval=100,
-    eval_iters=200,
-    checkpoint_path="checkpoint.pth",
-    checkpoint_interval=500,  # Save checkpoint every N batches
-    target_train_loss=1.5  # Early stopping threshold
-):
-    # Try to load existing checkpoint
-    start_epoch, start_batch_idx, train_losses, val_losses = load_checkpoint(
-        checkpoint_path, model, optimizer
-    )
-
-    for iteration in range(start_epoch, max_iters):
-        # Skip already processed batches in the current epoch
-        train_loader_iter = enumerate(train_loader)
-        if iteration == start_epoch and start_batch_idx > 0:
-            for _ in range(start_batch_idx):
-                next(train_loader_iter)
-
-        for batch_idx, (x_batch, y_batch) in tqdm(train_loader_iter, desc=f"Epoch {iteration + 1}"):
-            # Evaluation
-            if (batch_idx % eval_interval == 0) or (batch_idx == len(train_loader) - 1):
-                losses = estimate_loss(
-                    model=model,
-                    train_loader=train_loader,
-                    val_loader=val_loader,
-                    eval_iters=min(eval_iters, len(val_loader))
-                )
-                train_losses.append(losses['train'])
-                val_losses.append(losses['val'])
-
-                print(
-                    f"iteration {iteration} / step {batch_idx}: "
-                    f"train loss {losses['train']:.4f}, "
-                    f"val loss {losses['val']:.4f}"
-                )
-
-                # Early stopping condition
-                if losses['train'] < target_train_loss:
-                    print(f"Early stopping triggered: Train loss {losses['train']:.4f} < {target_train_loss}")
-                    # Save the final checkpoint before exiting
-                    save_checkpoint(
-                        model=model,
-                        optimizer=optimizer,
-                        epoch=iteration,
-                        batch_idx=batch_idx,
-                        loss=losses['train'],
-                        train_losses=train_losses,
-                        val_losses=val_losses,
-                        file_path=checkpoint_path
-                    )
-                    return  # Exit the training loop
-
-            # Training step
-            logits, loss = model(x_batch, y_batch)
-            optimizer.zero_grad(set_to_none=True)
-            loss.backward()
-            optimizer.step()
-
-            # Save checkpoint periodically
-            if batch_idx % checkpoint_interval == 0:
-                save_checkpoint(
-                    model=model,
-                    optimizer=optimizer,
-                    epoch=iteration,
-                    batch_idx=batch_idx,
-                    loss=loss.item(),
-                    train_losses=train_losses,
-                    val_losses=val_losses,
-                    file_path=checkpoint_path
-                )
-
-        # Save checkpoint at end of epoch
-        save_checkpoint(
-            model=model,
-            optimizer=optimizer,
-            epoch=iteration,
-            batch_idx=len(train_loader) - 1,  # Mark epoch as complete
-            loss=loss.item(),
-            train_losses=train_losses,
-            val_losses=val_losses,
-            file_path=checkpoint_path
-        )
-
-# %%
-def train_model(
-    model,
-    optimizer,
-    train_loader,
-    val_loader,
-    max_iters=1,
-    eval_interval=100,
-    eval_iters=200,
-    checkpoint_path="checkpoint.pth",
-    checkpoint_interval=500,  # Save checkpoint every N batches
-    train_test_loss=1.5
-):
-    # Try to load existing checkpoint
-    start_epoch, start_batch_idx, train_losses, val_losses = load_checkpoint(
-        checkpoint_path, model, optimizer
-    )
-
-    for iteration in range(start_epoch, max_iters):
-        # Skip already processed batches in the current epoch
-        train_loader_iter = enumerate(train_loader)
-        if iteration == start_epoch and start_batch_idx > 0:
-            for _ in range(start_batch_idx):
-                next(train_loader_iter)
-
-        for batch_idx, (x_batch, y_batch) in (tqdm(train_loader_iter, desc=f"Epoch {iteration + 1}")):
-            # Evaluation
-            if (batch_idx % eval_interval == 0) or (batch_idx == len(train_loader) - 1):
-                losses = estimate_loss(
-                    model=model,
-                    train_loader=train_loader,
-                    val_loader=val_loader,
-                    eval_iters=min(eval_iters, len(val_loader))
-                )
-                train_losses.append(losses['train'])
-                val_losses.append(losses['val'])
-
-                print(
-                    f"iteration {iteration} / step {batch_idx}: "
-                    f"train loss {losses['train']:.4f}, "
-                    f"val loss {losses['val']:.4f}"
-                )
-
-            # Training step
-            logits, loss = model(x_batch, y_batch)
-            optimizer.zero_grad(set_to_none=True)
-            loss.backward()
-            optimizer.step()
-
-            # Save checkpoint periodically
-            if batch_idx % checkpoint_interval == 0:
-                save_checkpoint(
-                    model=model,
-                    optimizer=optimizer,
-                    epoch=iteration,
-                    batch_idx=batch_idx,
-                    loss=loss.item(),
-                    train_losses=train_losses,
-                    val_losses=val_losses,
-                    file_path=checkpoint_path
-                )
-
-        # Save checkpoint at end of epoch
-        save_checkpoint(
-            model=model,
-            optimizer=optimizer,
-            epoch=iteration,
-            batch_idx=len(train_loader) - 1,  # Mark epoch as complete
-            loss=loss.item(),
-            train_losses=train_losses,
-            val_losses=val_losses,
-            file_path=checkpoint_path
-        )
-
-# %%
-# Train with vals
-max_iters = 1  # Total epochs you want to run
+max_iters = 1 # epoch
 eval_interval = 100
 eval_iters = 200
 learning_rate = 3e-4
-checkpoint_path = "model_llm/output/pre_training/run_4/checkpoint.pth"
-
-os.makedirs(os.path.dirname(checkpoint_path), exist_ok=True)
 
 optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
 train_loader, val_loader = get_dataloaders(
@@ -385,158 +204,97 @@ train_loader, val_loader = get_dataloaders(
     device=device
 )
 
-train_model(
-    model=model,
-    optimizer=optimizer,
-    train_loader=train_loader,
-    val_loader=val_loader,
-    max_iters=max_iters,
-    eval_interval=eval_interval,
-    eval_iters=eval_iters,
-    checkpoint_path=checkpoint_path
+train_losses = []
+val_losses = []
+
+for iteration in range(max_iters):
+    for batch_idx, (x_batch, y_batch) in enumerate(tqdm(train_loader, desc=f"Epoch {iteration + 1}")):
+        # Evaluation
+        if batch_idx % eval_interval == 0 or batch_idx == len(train_loader) - 1:
+            losses = estimate_loss(
+                model=model,
+                train_loader=train_loader,
+                val_loader=val_loader,
+                eval_iters=min(eval_iters, len(val_loader))
+            )
+            train_losses.append(losses['train'])
+            val_losses.append(losses['val'])
+
+            print(
+                f"iteration {iteration} / step {batch_idx}: "
+                f"train loss {losses['train']:.4f}, "
+                f"val loss {losses['val']:.4f}"
+            )
+
+        # Training step
+        logits, loss = model(x_batch, y_batch)
+        optimizer.zero_grad(set_to_none=True)
+        loss.backward()
+        optimizer.step()
+
+    # Save checkpoint
+    save_checkpoint(
+        model=model,
+        optimizer=optimizer,
+        epoch=iteration,
+        loss=loss.item(),
+        file_path=f"../output/pre_training/run_4/checkpoint_{iteration}.pth"
+    )
+
+# %%
+
+
+# %%
+max_iters = 1 # epoch
+eval_interval = 100
+eval_iters = 200
+learning_rate = 3e-4
+
+optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
+train_loader, val_loader = get_dataloaders(
+    train_data=train_data,
+    val_data=val_data,
+    block_size=block_size,
+    batch_size=batch_size,
+    device=device
 )
 
-# %% [markdown]
-# done
-#
+train_losses = []
+val_losses = []
 
-# %%
+for iteration in range(max_iters):
+    for batch_idx, (x_batch, y_batch) in enumerate(tqdm(train_loader, desc=f"Epoch {iteration + 1}")):
+        # Evaluation
+        if batch_idx % eval_interval == 0 or batch_idx == len(train_loader) - 1:
+            losses = estimate_loss(
+                model=model,
+                train_loader=train_loader,
+                val_loader=val_loader,
+                eval_iters=min(eval_iters, len(val_loader))
+            )
+            train_losses.append(losses['train'])
+            val_losses.append(losses['val'])
 
+            print(
+                f"iteration {iteration} / step {batch_idx}: "
+                f"train loss {losses['train']:.4f}, "
+                f"val loss {losses['val']:.4f}"
+            )
 
-# %%
-# def save_checkpoint(
-#     model: GPTLanguageModel,
-#     optimizer: torch.optim.Optimizer,
-#     epoch: int,
-#     loss: float,
-#     file_path: str = "checkpoint.pth"
-# ) -> None:
-#     checkpoint = {
-#         'epoch': epoch,
-#         'model_state_dict': model.state_dict(),
-#         'optimizer_state_dict': optimizer.state_dict(),
-#         'loss': loss
-#     }
-#     torch.save(checkpoint, file_path)
+        # Training step
+        logits, loss = model(x_batch, y_batch)
+        optimizer.zero_grad(set_to_none=True)
+        loss.backward()
+        optimizer.step()
 
-# %%
-
-
-# %%
-# # loading the checkpoint where stopped
-# def load_checkpoint(file_path, model, optimizer):
-#     checkpoint = torch.load(file_path)
-#     model.load_state_dict(checkpoint['model_state_dict'])
-#     optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
-#     start_epoch = checkpoint['epoch'] + 1  # Resume from the next epoch
-#     return start_epoch
-
-# %%
-# max_iters = 1 # epoch
-# eval_interval = 100
-# eval_iters = 200
-# learning_rate = 3e-4
-
-# optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
-# train_loader, val_loader = get_dataloaders(
-#     train_data=train_data,
-#     val_data=val_data,
-#     block_size=block_size,
-#     batch_size=batch_size,
-#     device=device
-# )
-
-# train_losses = []
-# val_losses = []
-
-# for iteration in range(max_iters):
-#     for batch_idx, (x_batch, y_batch) in enumerate(tqdm(train_loader, desc=f"Epoch {iteration + 1}")):
-#         # Evaluation
-#         if batch_idx % eval_interval == 0 or batch_idx == len(train_loader) - 1:
-#             losses = estimate_loss(
-#                 model=model,
-#                 train_loader=train_loader,
-#                 val_loader=val_loader,
-#                 eval_iters=min(eval_iters, len(val_loader))
-#             )
-#             train_losses.append(losses['train'])
-#             val_losses.append(losses['val'])
-
-#             print(
-#                 f"iteration {iteration} / step {batch_idx}: "
-#                 f"train loss {losses['train']:.4f}, "
-#                 f"val loss {losses['val']:.4f}"
-#             )
-
-#         # Training step
-#         logits, loss = model(x_batch, y_batch)
-#         optimizer.zero_grad(set_to_none=True)
-#         loss.backward()
-#         optimizer.step()
-
-#     # Save checkpoint
-#     save_checkpoint(
-#         model=model,
-#         optimizer=optimizer,
-#         epoch=iteration,
-#         loss=loss.item(),
-#         file_path=f"model_llm/output/pre_training/run_4/checkpoint_{iteration}.pth"
-#     )
-
-# %%
-
-
-# %%
-# max_iters = 1 # epoch
-# eval_interval = 100
-# eval_iters = 200
-# learning_rate = 3e-4
-
-# optimizer = torch.optim.AdamW(model.parameters(), lr=learning_rate)
-# train_loader, val_loader = get_dataloaders(
-#     train_data=train_data,
-#     val_data=val_data,
-#     block_size=block_size,
-#     batch_size=batch_size,
-#     device=device
-# )
-
-# train_losses = []
-# val_losses = []
-
-# for iteration in range(max_iters):
-#     for batch_idx, (x_batch, y_batch) in enumerate(tqdm(train_loader, desc=f"Epoch {iteration + 1}")):
-#         # Evaluation
-#         if batch_idx % eval_interval == 0 or batch_idx == len(train_loader) - 1:
-#             losses = estimate_loss(
-#                 model=model,
-#                 train_loader=train_loader,
-#                 val_loader=val_loader,
-#                 eval_iters=min(eval_iters, len(val_loader))
-#             )
-#             train_losses.append(losses['train'])
-#             val_losses.append(losses['val'])
-
-#             print(
-#                 f"iteration {iteration} / step {batch_idx}: "
-#                 f"train loss {losses['train']:.4f}, "
-#                 f"val loss {losses['val']:.4f}"
-#             )
-
-#         # Training step
-#         logits, loss = model(x_batch, y_batch)
-#         optimizer.zero_grad(set_to_none=True)
-#         loss.backward()
-#         optimizer.step()
-
-#     # Save checkpoint
-#     save_checkpoint(
-#         model=model,
-#         optimizer=optimizer,
-#         epoch=iteration,
-#         loss=loss.item(),
-#         file_path=f"model_llm/output/pre_training/run_4/checkpoint_{iteration}.pth"
-#     )
+    # Save checkpoint
+    save_checkpoint(
+        model=model,
+        optimizer=optimizer,
+        epoch=iteration,
+        loss=loss.item(),
+        file_path=f"../output/pre_training/run_4/checkpoint_{iteration}.pth"
+    )
 
 # %%
 
@@ -555,24 +313,7 @@ plt.grid()
 plt.show()
 
 # %%
-import matplotlib.pyplot as plt
-
-# Ensure train_losses and val_losses are not empty
-if len(train_losses) == 0 or len(val_losses) == 0:
-    print("Error: train_losses or val_losses is empty. Ensure they are being updated during training.")
-else:
-    plt.figure(figsize=(10, 5))
-    plt.plot(train_losses, label="Train Loss", marker='o', linestyle='-', color='blue')
-    plt.plot(val_losses, label="Validation Loss", marker='o', linestyle='--', color='orange')
-    plt.xlabel("Evaluation Step")
-    plt.ylabel("Loss")
-    plt.title("Training and Validation Loss Over Time")
-    plt.legend()
-    plt.grid(True)
-    plt.show()
-
-# %%
-input_tokens = tokenizer.encode("Potential Energy ")
+input_tokens = tokenizer.encode("Potential energy ")
 input_tokens = torch.tensor(
     input_tokens, dtype=torch.long).unsqueeze(0).to(device)
 
