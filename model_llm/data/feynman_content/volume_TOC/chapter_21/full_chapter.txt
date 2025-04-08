@@ -1,0 +1,410 @@
+◄
+▲
+►
+A
+A
+A
+MATHJAX
+LOADING PAGE...
+Dear Reader,
+There are several reasons you might be seeing this page. In order to read the online edition of The Feynman Lectures on Physics, javascript must be supported by your browser and enabled. If you have have visited this website previously it's possible you may have a mixture of incompatible files (.js, .css, and .html) in your browser cache. If you use an ad blocker it may be preventing our pages from downloading necessary resources. So, please try the following: make sure javascript is enabled, clear your browser cache (at least of files from feynmanlectures.caltech.edu), turn off your browser extensions, and open this page:
+https://www.feynmanlectures.caltech.edu/I_01.html
+If it does not open, or only shows you this message again, then please let us know:
+which browser you are using (including version #)
+which operating system you are using (including version #)
+This type of problem is rare, and there's a good chance it can be fixed if we have some clues about the cause. So, if you can, after enabling javascript,
+clearing the cache and disabling extensions, please open your browser's javascript console, load the page above, and if this generates any messages (particularly errors or warnings) on the console, then please make a copy (text or screenshot) of those messages and send them with the above-listed information to the email address given below.
+By sending us information you will be helping not only yourself, but others who may be having similar problems accessing the online edition of The Feynman Lectures on Physics. Your time and consideration are greatly appreciated.
+Best regards,
+Mike Gottlieb
+feynmanlectures@caltech.edu
+Editor, The Feynman Lectures on Physics New Millennium Edition
+play
+stop
+mute
+max volume
+00:00
+1x
+59:35
+×#22 The harmonic oscillator (1/19/62)
+Update Required
+To play the media you will need to either update your browser to a recent version or update your Flash plugin.
+The recording of this lecture is missing from the Caltech Archives.
+21The Harmonic Oscillator
+21–1Linear differential equations
+In the study of physics, usually the course is divided into a series
+of subjects, such as mechanics, electricity, optics, etc., and one
+studies one subject after the other. For example, this course has so
+far dealt mostly with mechanics. But a strange thing occurs again and
+again: the equations which appear in different fields of physics, and
+even in other sciences, are often almost exactly the same, so that
+many phenomena have analogs in these different fields. To take the
+simplest example, the propagation of sound waves is in many ways
+analogous to the propagation of light waves. If we study acoustics in
+great detail we discover that much of the work is the same as it would
+be if we were studying optics in great detail. So the study of a
+phenomenon in one field may permit an extension of our knowledge in
+another field. It is best to realize from the first that such
+extensions are possible, for otherwise one might not understand the
+reason for spending a great deal of time and energy on what appears to
+be only a small part of mechanics.
+The harmonic oscillator, which we are about to study, has close
+analogs in many other fields; although we start with a mechanical
+example of a weight on a spring, or a pendulum with a small swing, or
+certain other mechanical devices, we are really studying a certain
+differential equation. This equation appears again and again in
+physics and in other sciences, and in fact it is a part of so many
+phenomena that its close study is well worth our while. Some of the
+phenomena involving this equation are the oscillations of a mass on a
+spring; the oscillations of charge flowing back and forth in an
+electrical circuit; the vibrations of a tuning fork which is
+generating sound waves; the analogous vibrations of the electrons in
+an atom, which generate light waves; the equations for the operation
+of a servosystem, such as a thermostat trying to adjust a temperature;
+complicated interactions in chemical reactions; the growth of a colony
+of bacteria in interaction with the food supply and the poisons the
+bacteria produce; foxes eating rabbits eating grass, and so on; all
+these phenomena follow equations which are very similar to one
+another, and this is the reason why we study the mechanical oscillator
+in such detail. The equations are called linear differential
+equations with constant coefficients. A linear differential equation
+with constant coefficients is a differential equation consisting of a
+sum of several terms, each term being a derivative of the dependent
+variable with respect to the independent variable, and multiplied by
+some constant. Thus
+andnx/dtn+an−1dn−1x/dtn−1+⋯+a1dx/dt+a0x=f(t)(21.1)andnx/dtn+an−1dn−1x/dtn−1+⋯(21.1)+a1dx/dt+a0x=f(t)
+is called a linear differential equation of order nn with constant
+coefficients (each aiai is constant).
+21–2The harmonic oscillator
+Fig. 21–1.A mass on a spring: a simple example of a harmonic
+oscillator.
+Perhaps the simplest mechanical system whose motion follows a linear
+differential equation with constant coefficients is a mass on a
+spring: first the spring stretches to balance the gravity; once it is
+balanced, we then discuss the vertical displacement of the mass from
+its equilibrium position (Fig. 21–1). We shall call this
+upward displacement xx, and we shall also suppose that the spring is
+perfectly linear, in which case the force pulling back when the spring
+is stretched is precisely proportional to the amount of stretch. That
+is, the force is −kx−kx (with a minus sign to remind us that it pulls
+back). Thus the mass times the acceleration must equal −kx−kx:
+md2x/dt2=−kx.(21.2)(21.2)md2x/dt2=−kx.
+For simplicity, suppose it happens (or we change our unit of time
+measurement) that the ratio k/m=1k/m=1. We shall first study the
+equation
+d2x/dt2=−x.(21.3)(21.3)d2x/dt2=−x.
+Later we shall come back to Eq. (21.2) with the kk
+and mm explicitly present.
+We have already analyzed Eq. (21.3) in detail
+numerically; when we first introduced the subject of mechanics we
+solved this equation (see Eq. 9.12) to find the
+motion. By numerical integration we found a curve (Fig. 9–4)
+which showed that if mm was initially displaced, but at rest, it would
+come down and go through zero; we did not then follow it any farther,
+but of course we know that it just keeps going up and down—it
+oscillates. When we calculated the motion numerically, we found
+that it went through the equilibrium point at t=1.570t=1.570. The length of
+the whole cycle is four times this long, or t0=6.28t0=6.28 “sec.”
+This
+was found numerically, before we knew much calculus. We assume that in
+the meantime the Mathematics Department has brought forth a function
+which, when differentiated twice, is equal to itself with a minus sign.
+(There are, of course, ways of getting at this function in a direct
+fashion, but they are more complicated than already knowing what the
+answer is.) The function is x=costx=cos⁡t. If we differentiate this we
+find dx/dt=−sintdx/dt=−sin⁡t and d2x/dt2=d2x/dt2= −cost=−cos⁡t= −x−x. The function x=costx=cos⁡t starts, at t=0t=0, with x=1x=1, and no initial velocity; that
+was the situation with which we started when we did our numerical work.
+Now that we know that x=costx=cos⁡t, we can calculate a precise
+value for the time at which it should pass x=0x=0. The answer
+is t=π/2t=π/2, or 1.570801.57080. We were wrong in the last figure because of the
+errors of numerical analysis, but it was very close!
+Now to go further with the original problem, we restore the time units
+to real seconds. What is the solution then? First of all, we might
+think that we can get the constants kk and mm in by multiplying
+costcos⁡t by something. So let us try the equation x=Acostx=Acos⁡t; then
+we find dx/dt=−Asintdx/dt=−Asin⁡t, and d2x/dt2=d2x/dt2= −Acost=−Acos⁡t= −x−x. Thus we
+discover to our horror that we did not succeed in solving
+Eq. (21.2), but we got Eq. (21.3) again! That
+fact illustrates one of the most important properties of linear
+differential equations: if we multiply a solution of the equation
+by any constant, it is again a solution. The mathematical reason for
+this is clear. If xx is a solution, and we multiply both sides of the
+equation, say by AA, we see that all derivatives are also multiplied
+by AA, and therefore AxAx is just as good a solution of the original
+equation as xx was. The physics of it is the following. If we have a
+weight on a spring, and pull it down twice as far, the force is twice as
+much, the resulting acceleration is twice as great, the velocity it
+acquires in a given time is twice as great, the distance covered in a
+given time is twice as great; but it has to cover twice as great
+a distance in order to get back to the origin because it is pulled down
+twice as far. So it takes the same time to get back to the
+origin, irrespective of the initial displacement. In other words, with a
+linear equation, the motion has the same time pattern, no matter
+how “strong” it is.
+That was the wrong thing to do—it only taught us that we can
+multiply the solution by anything, and it satisfies the same equation,
+but not a different equation. After a little cut and try to get to an
+equation with a different constant multiplying xx, we find that we
+must alter the scale of time. In other words,
+Eq. (21.2) has a solution of the form
+x=cosω0t.(21.4)(21.4)x=cos⁡ω0t.
+(It is important to realize that in the present case, ω0ω0 is
+not an angular velocity of a spinning body, but we run out of letters
+if we are not allowed to use the same letter for more than one thing.)
+The reason we put a subscript “00” on ωω is that we are going
+to have more omegas before long; let us remember that ω0ω0
+refers to the natural motion of this oscillator. Now we try
+Eq. (21.4) and this time we are more successful, because
+dx/dt=−ω0sinω0tdx/dt=−ω0sin⁡ω0t and d2x/dt2=d2x/dt2= −ω20cosω0t=−ω02cos⁡ω0t= −ω20x−ω02x.
+So at last we have solved the
+equation that we really wanted to solve. The equation d2x/dt2=−ω20xd2x/dt2=−ω02x is the same as Eq. (21.2) if ω20=k/mω02=k/m.
+The next thing we must investigate is the physical significance
+of ω0ω0. We know that the cosine function repeats itself when the
+angle it refers to is 2π2π. So x=cosω0tx=cos⁡ω0t will repeat its
+motion, it will go through a complete cycle, when the “angle”
+changes by 2π2π. The quantity ω0tω0t is often called the
+phase of the motion. In order to change ω0tω0t by 2π2π,
+the time must change by an amount t0t0, called the period of
+one complete oscillation; of course t0t0 must
+be such that ω0t0=2πω0t0=2π. That is, ω0t0ω0t0 must account
+for one cycle of the angle, and then everything will repeat itself—if
+we increase tt by t0t0, we add 2π2π to the phase. Thus
+t0=2π/ω0=2πm/k−−−−√.(21.5)(21.5)t0=2π/ω0=2πm/k.
+Thus if we had a heavier mass, it would take longer to oscillate back
+and forth on a spring. That is because it has more inertia, and so,
+while the forces are the same, it takes longer to get the mass
+moving. Or, if the spring is stronger, it will move more quickly, and
+that is right: the period is less if the spring is stronger.
+Note that the period of oscillation of a mass on a spring does not
+depend in any way on how it has been started, how far down we
+pull it. The period is determined, but the amplitude of the
+oscillation is not determined by the equation of
+motion (21.2). The amplitude is determined, in fact,
+by how we let go of it, by what we call the initial conditions or
+starting conditions.
+Actually, we have not quite found the most general possible solution
+of Eq. (21.2). There are other solutions. It should be
+clear why: because all of the cases covered by x=acosω0tx=acos⁡ω0t
+start with an initial displacement and no initial velocity. But it is
+possible, for instance, for the mass to start at x=0x=0, and we may
+then give it an impulsive kick, so that it has some speed at t=0t=0. Such a motion is not represented by a cosine—it is represented
+by a sine. To put it another way, if x=cosω0tx=cos⁡ω0t is a
+solution, then is it not obvious that if we were to happen to walk
+into the room at some time (which we would call “t=0t=0”) and saw
+the mass as it was passing x=0x=0, it would keep on going just the
+same?
+Therefore, x=cosω0tx=cos⁡ω0t cannot be the most general
+solution; it must be possible to shift the beginning of time, so to
+speak. As an example, we could write the solution this way: x=acosω0(t−t1)x=acos⁡ω0(t−t1), where t1t1 is some constant. This also
+corresponds to shifting the origin of time to some new
+instant. Furthermore, we may expand
+cos(ω0t+Δ)=cosω0tcosΔ−sinω0tsinΔ,cos(ω0t+Δ)=cos⁡ω0tcos⁡Δ−sin⁡ω0tsin⁡Δ,
+and write
+x=Acosω0t+Bsinω0t,x=Acos⁡ω0t+Bsin⁡ω0t,
+where A=acosΔA=acos⁡Δ and B=−asinΔB=−asin⁡Δ. Any one of these
+forms is a possible way to write the complete, general solution
+of (21.2): that is, every solution of the differential
+equation d2x/dt2=−ω20xd2x/dt2=−ω02x that exists in the world can be
+written as
+oror(a)x(b)x(c)x===acosω0(t−t1),acos(ω0t+Δ)Acosω0t+Bsinω0t.(21.6)(a)x=acos⁡ω0(t−t1),or(21.6)(b)x=acos(ω0t+Δ)or(c)x=Acos⁡ω0t+Bsin⁡ω0t.
+Some of the quantities in (21.6) have names: ω0ω0 is
+called the angular frequency; it is the number of radians
+by which the phase changes in a second. That is determined by the
+differential equation. The other constants are not determined by the
+equation, but by how the motion is started. Of these constants, aa
+measures the maximum displacement attained by the mass, and is called
+the amplitude of oscillation. The
+constant ΔΔ is sometimes called the phase of the
+oscillation, but that is a confusion, because other people call ω0t+Δω0t+Δ the phase, and say the phase changes with time. We might say
+that ΔΔ is a phase shift from some
+defined zero. Let us put it differently. Different ΔΔ’s correspond
+to motions in different phases. That is true, but whether we want to
+call ΔΔ the phase, or not, is another question.
+21–3Harmonic motion and circular motion
+Fig. 21–2.A particle moving in a circular path at constant speed.
+The fact that cosines are involved in the solution of
+Eq. (21.2) suggests that there might be some relationship to
+circles. This is artificial, of course, because there is no circle
+actually involved in the linear motion—it just goes up and down. We
+may point out that we have, in fact, already solved that differential
+equation when we were studying the mechanics of circular motion. If a
+particle moves in a circle with a constant speed vv, the radius vector
+from the center of the circle to the particle turns through an angle
+whose size is proportional to the time. If we call this angle θ=vt/Rθ=vt/R (Fig. 21–2) then dθ/dt=dθ/dt= ω0=ω0= v/Rv/R. We
+know that there is an acceleration a=a= v2/R=v2/R= ω20Rω02R toward the
+center. Now we also know that the position xx, at a given moment, is
+the radius of the circle times cosθcos⁡θ, and that yy is the radius
+times sinθsin⁡θ:
+x=Rcosθ,y=Rsinθ.x=Rcos⁡θ,y=Rsin⁡θ.
+Now what about the acceleration? What is the xx-component of
+acceleration, d2x/dt2d2x/dt2? We have already worked that out
+geometrically; it is the magnitude of the acceleration times the
+cosine of the projection angle, with a minus sign because it is toward
+the center.
+ax=−acosθ=−ω20Rcosθ=−ω20x.(21.7)(21.7)ax=−acos⁡θ=−ω02Rcos⁡θ=−ω02x.
+In other words, when a particle is moving in a circle, the horizontal
+component of its motion has an acceleration which is proportional to
+the horizontal displacement from the center. Of course we also have
+the solution for motion in a circle: x=Rcosω0tx=Rcos⁡ω0t.
+Equation (21.7) does not depend upon the radius of the
+circle, so for a circle of any radius, one finds the same equation for a
+given ω0ω0. Thus, for several reasons, we expect that the
+displacement of a mass on a spring will turn out to be proportional to
+cosω0tcos⁡ω0t, and will, in fact, be exactly the same motion as we
+would see if we looked at the xx-component of the position of an object
+rotating in a circle with angular velocity ω0ω0. As a check on
+this, one can devise an experiment to show that the up-and-down motion
+of a mass on a spring is the same as that of a point going around in a
+circle. In Fig. 21–3 an arc light projected on a screen
+casts shadows of a crank pin on a shaft and of a vertically oscillating
+mass, side by side. If we let go of the mass at the right time from the
+right place, and if the shaft speed is carefully adjusted so that the
+frequencies match, each should follow the other exactly. One can also
+check the numerical solution we obtained earlier with the cosine
+function, and see whether that agrees very well.
+Fig. 21–3.Demonstration of the equivalence between simple harmonic
+motion and uniform circular motion.
+Here we may point out that because uniform motion in a circle is so
+closely related mathematically to oscillatory up-and-down motion, we
+can analyze oscillatory motion in a simpler way if we imagine it to be
+a projection of something going in a circle. In other words, although
+the distance yy means nothing in the oscillator problem, we may still
+artificially supplement Eq. (21.2) with another equation
+using yy, and put the two together. If we do this, we will be able to
+analyze our one-dimensional oscillator with circular motions,
+which is a lot easier than having to solve a differential
+equation. The trick in doing this is to use complex numbers, a
+procedure we shall introduce in the next chapter.
+21–4Initial conditions
+Now let us consider what determines the constants AA and BB, or aa
+and ΔΔ. Of course these are determined by how we start the
+motion. If we start the motion with just a small displacement, that is
+one type of oscillation; if we start with an initial displacement and
+then push up when we let go, we get still a different motion. The
+constants AA and BB, or aa and ΔΔ, or any other way of
+putting it, are determined, of course, by the way the motion started,
+not by any other features of the situation. These are called the
+initial conditions. We would like to connect the initial
+conditions with the constants. Although this can be done using any one
+of the forms (21.6), it turns out to be easiest if we use
+Eq. (21.6c). Suppose that at t=0t=0 we have started with
+an initial displacement x0x0 and a certain velocity v0v0.
+This is
+the most general way we can start the motion. (We cannot specify the
+acceleration with which it started, true, because that is
+determined by the spring, once we specify x0x0.) Now let us calculate
+AA and BB. We start with the equation for xx,
+x=Acosω0t+Bsinω0t.x=Acos⁡ω0t+Bsin⁡ω0t.
+Since we shall later need the velocity also, we differentiate xx and
+obtain
+v=−ω0Asinω0t+ω0Bcosω0t.v=−ω0Asin⁡ω0t+ω0Bcos⁡ω0t.
+These expressions are valid for all tt, but we have special knowledge
+about xx and vv at t=0t=0. So if we put t=0t=0 into these equations,
+on the left we get x0x0 and v0v0, because that is what xx and vv
+are at t=0t=0; also, we know that the cosine of zero is unity, and
+the sine of zero is zero. Therefore we get
+x0=A⋅1+B⋅0=Ax0=A⋅1+B⋅0=A
+and
+v0=−ω0A⋅0+ω0B⋅1=ω0B.v0=−ω0A⋅0+ω0B⋅1=ω0B.
+So for this particular case we find that
+A=x0,B=v0/ω0.A=x0,B=v0/ω0.
+From these values of AA and BB, we can get aa and ΔΔ if we
+wish.
+That is the end of our solution, but there is one physically
+interesting thing to check, and that is the conservation of
+energy. Since there are no frictional losses, energy ought to be
+conserved. Let us use the formula
+x=acos(ω0t+Δ);x=acos(ω0t+Δ);
+then
+v=−ω0asin(ω0t+Δ).v=−ω0asin(ω0t+Δ).
+Now let us find out what the kinetic energy TT is, and what the
+potential energy UU is. The potential energy at any moment
+is 12kx212kx2, where xx is the displacement and kk is the
+constant of the spring. If we substitute for xx, using our expression
+above, we get
+U=12kx2=12ka2cos2(ω0t+Δ).U=12kx2=12ka2cos2(ω0t+Δ).
+Of course the potential energy is not constant; the potential never
+becomes negative, naturally—there is always some energy in the
+spring, but the amount of energy fluctuates with xx. The kinetic
+energy, on the other hand, is 12mv212mv2, and by substituting
+for vv we get
+T=12mv2=12mω20a2sin2(ω0t+Δ).T=12mv2=12mω02a2sin2(ω0t+Δ).
+Now the kinetic energy is zero when xx is at the maximum, because
+then there is no velocity; on the other hand, it is maximal when xx
+is passing through zero, because then it is moving fastest. This
+variation of the kinetic energy is just the opposite of that of the
+potential energy. But the total energy ought to be a constant. If we
+note that k=mω20k=mω02, we see that
+T+U=12mω20a2[cos2(ω0t+Δ)+sin2(ω0t+Δ)]=12mω20a2.T+U=12mω02a2[cos2(ω0t+Δ)+sin2(ω0t+Δ)]=12mω02a2.
+The energy is dependent on the square of the amplitude; if we have
+twice the amplitude, we get an oscillation which has four times the
+energy. The average potential energy is half the maximum and,
+therefore, half the total, and the average kinetic energy is likewise
+half the total energy.
+21–5Forced oscillations
+Next we shall discuss the forced harmonic oscillator, i.e., one
+in which there is an external driving force acting. The equation then
+is the following:
+md2x/dt2=−kx+F(t).(21.8)(21.8)md2x/dt2=−kx+F(t).
+We would like to find out what happens in these circumstances. The
+external driving force can have various kinds of functional dependence
+on the time; the first one that we shall analyze is very simple—we
+shall suppose that the force is oscillating:
+F(t)=F0cosωt.(21.9)(21.9)F(t)=F0cos⁡ωt.
+Notice, however, that this ωω is not necessarily ω0ω0: we
+have ωω under our control; the forcing may be done at different
+frequencies. So we try to solve Eq. (21.8) with the
+special force (21.9). What is the solution
+of (21.8)? One special solution, (we shall discuss the more
+general cases later) is
+x=Ccosωt,(21.10)(21.10)x=Ccos⁡ωt,
+where the constant is to be determined. In other words, we might
+suppose that if we kept pushing back and forth, the mass would follow
+back and forth in step with the force. We can try it anyway. So we
+put (21.10) and (21.9) into (21.8), and
+get
+−mω2Ccosωt=−mω20Ccosωt+F0cosωt.(21.11)(21.11)−mω2Ccos⁡ωt=−mω02Ccos⁡ωt+F0cos⁡ωt.
+We have also put in k=mω20k=mω02, so that we will understand the
+equation better at the end. Now because the cosine appears everywhere,
+we can divide it out, and that shows that (21.10) is, in
+fact, a solution, provided we pick CC just right. The answer is that
+CC must be
+C=F0/m(ω20−ω2).(21.12)(21.12)C=F0/m(ω02−ω2).
+That is, mm oscillates at the same frequency as the force, but with
+an amplitude which depends on the frequency of the force, and also
+upon the frequency of the natural motion of the oscillator. It means,
+first, that if ωω is very small compared with ω0ω0, then
+the displacement and the force are in the same direction. On the other
+hand, if we shake it back and forth very fast, then (21.12)
+tells us that CC is negative if ωω is above the natural
+frequency ω0ω0 of the harmonic oscillator. (We will call
+ω0ω0 the natural frequency of the harmonic oscillator, and
+ωω the applied frequency.) At very high frequency the
+denominator may become very large, and there is then not much
+amplitude.
+Of course the solution we have found is the solution only if things
+are started just right, for otherwise there is a part which usually
+dies out after a while. This other part is called the transient
+response to F(t)F(t), while (21.10) and (21.12)
+are called the steady-state response.
+According to our formula (21.12), a very remarkable thing
+should also occur: if ωω is almost exactly the same as
+ω0ω0, then CC should approach infinity. So if we adjust the
+frequency of the force to be “in time” with the natural frequency,
+then we should get an enormous displacement. This is well known to
+anybody who has pushed a child on a swing. It does not work very well
+to close our eyes and push at a certain speed at random. If we happen
+to get the right timing, then the swing goes very high, but if we have
+the wrong timing, then sometimes we may be pushing when we should be
+pulling, and so on, and it does not work.
+If we make ωω exactly equal to ω0ω0, we find that it
+should oscillate at an infinite amplitude, which is, of course,
+impossible. The reason it does not is that something goes wrong with
+the equation, there are some other frictional terms, and other forces,
+which are not in (21.8) but which occur in the real
+world. So the amplitude does not reach infinity for some reason; it
+may be that the spring breaks!
+Copyright © 1963, 2006, 2013
+by the California Institute of Technology,
+Michael A. Gottlieb and Rudolf Pfeiffer
+21–1Linear differential equations21–2The harmonic oscillator21–3Harmonic motion and circular motion21–4Initial conditions21–5Forced oscillations

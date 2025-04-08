@@ -1,0 +1,4824 @@
+{
+  "title": "FLP Vol. I Table of Contents",
+  "url": "https://www.feynmanlectures.caltech.edu/I_toc.html",
+  "chapters": [
+    {
+      "chapter_number": "1",
+      "chapter_title": "Chapter 1",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_01.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "1",
+          "section": "1",
+          "section_number": "1-1",
+          "title": "Introduction",
+          "javascript_link": "javascript:Goto(1,1,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_01.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_01-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_1.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "1",
+          "section": "2",
+          "section_number": "1-2",
+          "title": "Matter is made of atoms",
+          "javascript_link": "javascript:Goto(1,1,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_01.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_01-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_1.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "1",
+          "section": "3",
+          "section_number": "1-3",
+          "title": "Atomic processes",
+          "javascript_link": "javascript:Goto(1,1,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_01.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_01-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_1.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "1",
+          "section": "4",
+          "section_number": "1-4",
+          "title": "Chemical reactions",
+          "javascript_link": "javascript:Goto(1,1,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_01.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_01-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_1.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_1/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_1/full_chapter.txt"
+    },
+    {
+      "chapter_number": "2",
+      "chapter_title": "Chapter 2",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_02.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "2",
+          "section": "1",
+          "section_number": "2-1",
+          "title": "Introduction",
+          "javascript_link": "javascript:Goto(1,2,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_02.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_02-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_2.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "2",
+          "section": "2",
+          "section_number": "2-2",
+          "title": "Physics before 1920",
+          "javascript_link": "javascript:Goto(1,2,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_02.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_02-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_2.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "2",
+          "section": "3",
+          "section_number": "2-3",
+          "title": "Quantum physics",
+          "javascript_link": "javascript:Goto(1,2,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_02.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_02-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_2.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "2",
+          "section": "4",
+          "section_number": "2-4",
+          "title": "Nuclei and particles",
+          "javascript_link": "javascript:Goto(1,2,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_02.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_02-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_2.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_2/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_2/full_chapter.txt"
+    },
+    {
+      "chapter_number": "3",
+      "chapter_title": "Chapter 3",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_03.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "3",
+          "section": "1",
+          "section_number": "3-1",
+          "title": "Introduction",
+          "javascript_link": "javascript:Goto(1,3,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_03.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_03-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_3.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "3",
+          "section": "2",
+          "section_number": "3-2",
+          "title": "Chemistry",
+          "javascript_link": "javascript:Goto(1,3,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_03.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_03-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_3.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "3",
+          "section": "3",
+          "section_number": "3-3",
+          "title": "Biology",
+          "javascript_link": "javascript:Goto(1,3,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_03.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_03-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_3.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "3",
+          "section": "4",
+          "section_number": "3-4",
+          "title": "Astronomy",
+          "javascript_link": "javascript:Goto(1,3,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_03.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_03-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_3.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "3",
+          "section": "5",
+          "section_number": "3-5",
+          "title": "Geology",
+          "javascript_link": "javascript:Goto(1,3,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_03.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_03-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_3.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "3",
+          "section": "6",
+          "section_number": "3-6",
+          "title": "Psychology",
+          "javascript_link": "javascript:Goto(1,3,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_03.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_03-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_3.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "3",
+          "section": "7",
+          "section_number": "3-7",
+          "title": "How did it get that way?",
+          "javascript_link": "javascript:Goto(1,3,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_03.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_03-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_3.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_3/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_3/full_chapter.txt"
+    },
+    {
+      "chapter_number": "4",
+      "chapter_title": "Chapter 4",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_04.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "4",
+          "section": "1",
+          "section_number": "4-1",
+          "title": "What is energy?",
+          "javascript_link": "javascript:Goto(1,4,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_04.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_04-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_4.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "4",
+          "section": "2",
+          "section_number": "4-2",
+          "title": "Gravitational potential energy",
+          "javascript_link": "javascript:Goto(1,4,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_04.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_04-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_4.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "4",
+          "section": "3",
+          "section_number": "4-3",
+          "title": "Kinetic energy",
+          "javascript_link": "javascript:Goto(1,4,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_04.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_04-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_4.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "4",
+          "section": "4",
+          "section_number": "4-4",
+          "title": "Other forms of energy",
+          "javascript_link": "javascript:Goto(1,4,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_04.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_04-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_4.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_4/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_4/full_chapter.txt"
+    },
+    {
+      "chapter_number": "5",
+      "chapter_title": "Chapter 5",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_05.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "5",
+          "section": "1",
+          "section_number": "5-1",
+          "title": "Motion",
+          "javascript_link": "javascript:Goto(1,5,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_05.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_05-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_5.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "5",
+          "section": "2",
+          "section_number": "5-2",
+          "title": "Time",
+          "javascript_link": "javascript:Goto(1,5,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_05.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_05-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_5.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "5",
+          "section": "3",
+          "section_number": "5-3",
+          "title": "Short times",
+          "javascript_link": "javascript:Goto(1,5,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_05.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_05-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_5.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "5",
+          "section": "4",
+          "section_number": "5-4",
+          "title": "Long times",
+          "javascript_link": "javascript:Goto(1,5,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_05.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_05-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_5.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "5",
+          "section": "5",
+          "section_number": "5-5",
+          "title": "Units and standards of time",
+          "javascript_link": "javascript:Goto(1,5,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_05.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_05-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_5.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "5",
+          "section": "6",
+          "section_number": "5-6",
+          "title": "Large distances",
+          "javascript_link": "javascript:Goto(1,5,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_05.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_05-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_5.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "5",
+          "section": "7",
+          "section_number": "5-7",
+          "title": "Short distances",
+          "javascript_link": "javascript:Goto(1,5,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_05.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_05-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_5.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_5/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_5/full_chapter.txt"
+    },
+    {
+      "chapter_number": "6",
+      "chapter_title": "Chapter 6",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_06.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "6",
+          "section": "1",
+          "section_number": "6-1",
+          "title": "Chance and likelihood",
+          "javascript_link": "javascript:Goto(1,6,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_06.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_06-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_6.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "6",
+          "section": "2",
+          "section_number": "6-2",
+          "title": "Fluctuations",
+          "javascript_link": "javascript:Goto(1,6,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_06.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_06-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_6.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "6",
+          "section": "3",
+          "section_number": "6-3",
+          "title": "The random walk",
+          "javascript_link": "javascript:Goto(1,6,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_06.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_06-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_6.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "6",
+          "section": "4",
+          "section_number": "6-4",
+          "title": "A probability distribution",
+          "javascript_link": "javascript:Goto(1,6,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_06.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_06-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_6.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "6",
+          "section": "5",
+          "section_number": "6-5",
+          "title": "The uncertainty principle",
+          "javascript_link": "javascript:Goto(1,6,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_06.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_06-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_6.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_6/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_6/full_chapter.txt"
+    },
+    {
+      "chapter_number": "7",
+      "chapter_title": "Chapter 7",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_07.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "7",
+          "section": "1",
+          "section_number": "7-1",
+          "title": "Planetary motions",
+          "javascript_link": "javascript:Goto(1,7,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_07.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_07-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_7.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "7",
+          "section": "2",
+          "section_number": "7-2",
+          "title": "Keplerâs laws",
+          "javascript_link": "javascript:Goto(1,7,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_07.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_07-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_7.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "7",
+          "section": "3",
+          "section_number": "7-3",
+          "title": "Development of dynamics",
+          "javascript_link": "javascript:Goto(1,7,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_07.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_07-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_7.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "7",
+          "section": "4",
+          "section_number": "7-4",
+          "title": "Newtonâs law of gravitation",
+          "javascript_link": "javascript:Goto(1,7,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_07.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_07-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_7.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "7",
+          "section": "5",
+          "section_number": "7-5",
+          "title": "Universal gravitation",
+          "javascript_link": "javascript:Goto(1,7,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_07.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_07-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_7.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "7",
+          "section": "6",
+          "section_number": "7-6",
+          "title": "Cavendishâs experiment",
+          "javascript_link": "javascript:Goto(1,7,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_07.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_07-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_7.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "7",
+          "section": "7",
+          "section_number": "7-7",
+          "title": "What is gravity?",
+          "javascript_link": "javascript:Goto(1,7,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_07.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_07-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_7.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "7",
+          "section": "8",
+          "section_number": "7-8",
+          "title": "Gravity and relativity",
+          "javascript_link": "javascript:Goto(1,7,8)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_07.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_07-08.html",
+            "https://www.feynmanlectures.caltech.edu/I_7.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_7/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_7/full_chapter.txt"
+    },
+    {
+      "chapter_number": "8",
+      "chapter_title": "Chapter 8",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_08.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "8",
+          "section": "1",
+          "section_number": "8-1",
+          "title": "Description of motion",
+          "javascript_link": "javascript:Goto(1,8,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_08.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_08-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_8.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "8",
+          "section": "2",
+          "section_number": "8-2",
+          "title": "Speed",
+          "javascript_link": "javascript:Goto(1,8,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_08.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_08-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_8.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "8",
+          "section": "3",
+          "section_number": "8-3",
+          "title": "Speed as a derivative",
+          "javascript_link": "javascript:Goto(1,8,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_08.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_08-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_8.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "8",
+          "section": "4",
+          "section_number": "8-4",
+          "title": "Distance as an integral",
+          "javascript_link": "javascript:Goto(1,8,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_08.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_08-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_8.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "8",
+          "section": "5",
+          "section_number": "8-5",
+          "title": "Acceleration",
+          "javascript_link": "javascript:Goto(1,8,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_08.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_08-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_8.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_8/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_8/full_chapter.txt"
+    },
+    {
+      "chapter_number": "9",
+      "chapter_title": "Chapter 9",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_09.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "9",
+          "section": "1",
+          "section_number": "9-1",
+          "title": "Momentum and force",
+          "javascript_link": "javascript:Goto(1,9,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_09.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_09-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_9.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "9",
+          "section": "2",
+          "section_number": "9-2",
+          "title": "Speed and velocity",
+          "javascript_link": "javascript:Goto(1,9,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_09.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_09-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_9.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "9",
+          "section": "3",
+          "section_number": "9-3",
+          "title": "Components of velocity, acceleration, and force",
+          "javascript_link": "javascript:Goto(1,9,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_09.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_09-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_9.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "9",
+          "section": "4",
+          "section_number": "9-4",
+          "title": "What is the force?",
+          "javascript_link": "javascript:Goto(1,9,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_09.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_09-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_9.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "9",
+          "section": "5",
+          "section_number": "9-5",
+          "title": "Meaning of the dynamical equations",
+          "javascript_link": "javascript:Goto(1,9,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_09.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_09-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_9.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "9",
+          "section": "6",
+          "section_number": "9-6",
+          "title": "Numerical solution of the equations",
+          "javascript_link": "javascript:Goto(1,9,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_09.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_09-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_9.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "9",
+          "section": "7",
+          "section_number": "9-7",
+          "title": "Planetary motions",
+          "javascript_link": "javascript:Goto(1,9,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_09.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_09-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_9.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_9/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_9/full_chapter.txt"
+    },
+    {
+      "chapter_number": "10",
+      "chapter_title": "Chapter 10",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_10.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "10",
+          "section": "1",
+          "section_number": "10-1",
+          "title": "Newtonâs Third Law",
+          "javascript_link": "javascript:Goto(1,10,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_10.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_10-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_10.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "10",
+          "section": "2",
+          "section_number": "10-2",
+          "title": "Conservation of momentum",
+          "javascript_link": "javascript:Goto(1,10,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_10.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_10-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_10.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "10",
+          "section": "3",
+          "section_number": "10-3",
+          "title": "Momentum is conserved!",
+          "javascript_link": "javascript:Goto(1,10,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_10.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_10-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_10.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "10",
+          "section": "4",
+          "section_number": "10-4",
+          "title": "Momentum and energy",
+          "javascript_link": "javascript:Goto(1,10,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_10.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_10-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_10.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "10",
+          "section": "5",
+          "section_number": "10-5",
+          "title": "Relativistic momentum",
+          "javascript_link": "javascript:Goto(1,10,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_10.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_10-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_10.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_10/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_10/full_chapter.txt"
+    },
+    {
+      "chapter_number": "11",
+      "chapter_title": "Chapter 11",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_11.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "11",
+          "section": "1",
+          "section_number": "11-1",
+          "title": "Symmetry in physics",
+          "javascript_link": "javascript:Goto(1,11,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_11.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_11-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_11.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "11",
+          "section": "2",
+          "section_number": "11-2",
+          "title": "Translations",
+          "javascript_link": "javascript:Goto(1,11,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_11.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_11-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_11.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "11",
+          "section": "3",
+          "section_number": "11-3",
+          "title": "Rotations",
+          "javascript_link": "javascript:Goto(1,11,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_11.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_11-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_11.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "11",
+          "section": "4",
+          "section_number": "11-4",
+          "title": "Vectors",
+          "javascript_link": "javascript:Goto(1,11,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_11.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_11-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_11.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "11",
+          "section": "5",
+          "section_number": "11-5",
+          "title": "Vector algebra",
+          "javascript_link": "javascript:Goto(1,11,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_11.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_11-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_11.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "11",
+          "section": "6",
+          "section_number": "11-6",
+          "title": "Newtonâs laws in vector notation",
+          "javascript_link": "javascript:Goto(1,11,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_11.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_11-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_11.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "11",
+          "section": "7",
+          "section_number": "11-7",
+          "title": "Scalar product of vectors",
+          "javascript_link": "javascript:Goto(1,11,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_11.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_11-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_11.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_11/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_11/full_chapter.txt"
+    },
+    {
+      "chapter_number": "12",
+      "chapter_title": "Chapter 12",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_12.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "12",
+          "section": "1",
+          "section_number": "12-1",
+          "title": "What is a force?",
+          "javascript_link": "javascript:Goto(1,12,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_12.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_12-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_12.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "12",
+          "section": "2",
+          "section_number": "12-2",
+          "title": "Friction",
+          "javascript_link": "javascript:Goto(1,12,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_12.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_12-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_12.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "12",
+          "section": "3",
+          "section_number": "12-3",
+          "title": "Molecular forces",
+          "javascript_link": "javascript:Goto(1,12,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_12.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_12-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_12.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "12",
+          "section": "4",
+          "section_number": "12-4",
+          "title": "Fundamental forces. Fields",
+          "javascript_link": "javascript:Goto(1,12,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_12.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_12-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_12.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "12",
+          "section": "5",
+          "section_number": "12-5",
+          "title": "Pseudo forces",
+          "javascript_link": "javascript:Goto(1,12,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_12.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_12-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_12.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "12",
+          "section": "6",
+          "section_number": "12-6",
+          "title": "Nuclear forces",
+          "javascript_link": "javascript:Goto(1,12,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_12.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_12-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_12.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_12/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_12/full_chapter.txt"
+    },
+    {
+      "chapter_number": "13",
+      "chapter_title": "Chapter 13",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_13.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "13",
+          "section": "1",
+          "section_number": "13-1",
+          "title": "Energy of a falling body",
+          "javascript_link": "javascript:Goto(1,13,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_13.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_13-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_13.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "13",
+          "section": "2",
+          "section_number": "13-2",
+          "title": "Work done by gravity",
+          "javascript_link": "javascript:Goto(1,13,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_13.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_13-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_13.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "13",
+          "section": "3",
+          "section_number": "13-3",
+          "title": "Summation of energy",
+          "javascript_link": "javascript:Goto(1,13,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_13.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_13-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_13.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "13",
+          "section": "4",
+          "section_number": "13-4",
+          "title": "Gravitational field of large objects",
+          "javascript_link": "javascript:Goto(1,13,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_13.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_13-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_13.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_13/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_13/full_chapter.txt"
+    },
+    {
+      "chapter_number": "14",
+      "chapter_title": "Chapter 14",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_14.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "14",
+          "section": "1",
+          "section_number": "14-1",
+          "title": "Work",
+          "javascript_link": "javascript:Goto(1,14,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_14.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_14-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_14.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "14",
+          "section": "2",
+          "section_number": "14-2",
+          "title": "Constrained motion",
+          "javascript_link": "javascript:Goto(1,14,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_14.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_14-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_14.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "14",
+          "section": "3",
+          "section_number": "14-3",
+          "title": "Conservative forces",
+          "javascript_link": "javascript:Goto(1,14,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_14.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_14-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_14.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "14",
+          "section": "4",
+          "section_number": "14-4",
+          "title": "Nonconservative forces",
+          "javascript_link": "javascript:Goto(1,14,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_14.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_14-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_14.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "14",
+          "section": "5",
+          "section_number": "14-5",
+          "title": "Potentials and fields",
+          "javascript_link": "javascript:Goto(1,14,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_14.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_14-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_14.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_14/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_14/full_chapter.txt"
+    },
+    {
+      "chapter_number": "15",
+      "chapter_title": "Chapter 15",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "15",
+          "section": "1",
+          "section_number": "15-1",
+          "title": "The principle of relativity",
+          "javascript_link": "javascript:Goto(1,15,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_15-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_15.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "15",
+          "section": "2",
+          "section_number": "15-2",
+          "title": "The Lorentz transformation",
+          "javascript_link": "javascript:Goto(1,15,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_15-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_15.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "15",
+          "section": "3",
+          "section_number": "15-3",
+          "title": "The Michelson-Morley experiment",
+          "javascript_link": "javascript:Goto(1,15,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_15-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_15.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "15",
+          "section": "4",
+          "section_number": "15-4",
+          "title": "Transformation of time",
+          "javascript_link": "javascript:Goto(1,15,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_15-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_15.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "15",
+          "section": "5",
+          "section_number": "15-5",
+          "title": "The Lorentz contraction",
+          "javascript_link": "javascript:Goto(1,15,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_15-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_15.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "15",
+          "section": "6",
+          "section_number": "15-6",
+          "title": "Simultaneity",
+          "javascript_link": "javascript:Goto(1,15,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_15-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_15.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "15",
+          "section": "7",
+          "section_number": "15-7",
+          "title": "Four-vectors",
+          "javascript_link": "javascript:Goto(1,15,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_15-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_15.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "15",
+          "section": "8",
+          "section_number": "15-8",
+          "title": "Relativistic dynamics",
+          "javascript_link": "javascript:Goto(1,15,8)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_15-08.html",
+            "https://www.feynmanlectures.caltech.edu/I_15.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "15",
+          "section": "9",
+          "section_number": "15-9",
+          "title": "Equivalence of mass and energy",
+          "javascript_link": "javascript:Goto(1,15,9)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_15.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_15-09.html",
+            "https://www.feynmanlectures.caltech.edu/I_15.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_15/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_15/full_chapter.txt"
+    },
+    {
+      "chapter_number": "16",
+      "chapter_title": "Chapter 16",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_16.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "16",
+          "section": "1",
+          "section_number": "16-1",
+          "title": "Relativity and the philosophers",
+          "javascript_link": "javascript:Goto(1,16,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_16.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_16-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_16.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "16",
+          "section": "2",
+          "section_number": "16-2",
+          "title": "The twin paradox",
+          "javascript_link": "javascript:Goto(1,16,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_16.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_16-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_16.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "16",
+          "section": "3",
+          "section_number": "16-3",
+          "title": "Transformation of velocities",
+          "javascript_link": "javascript:Goto(1,16,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_16.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_16-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_16.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "16",
+          "section": "4",
+          "section_number": "16-4",
+          "title": "Relativistic mass",
+          "javascript_link": "javascript:Goto(1,16,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_16.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_16-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_16.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "16",
+          "section": "5",
+          "section_number": "16-5",
+          "title": "Relativistic energy",
+          "javascript_link": "javascript:Goto(1,16,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_16.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_16-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_16.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_16/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_16/full_chapter.txt"
+    },
+    {
+      "chapter_number": "17",
+      "chapter_title": "Chapter 17",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_17.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "17",
+          "section": "1",
+          "section_number": "17-1",
+          "title": "The geometry of space-time",
+          "javascript_link": "javascript:Goto(1,17,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_17.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_17-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_17.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "17",
+          "section": "2",
+          "section_number": "17-2",
+          "title": "Space-time intervals",
+          "javascript_link": "javascript:Goto(1,17,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_17.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_17-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_17.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "17",
+          "section": "3",
+          "section_number": "17-3",
+          "title": "Past, present, and future",
+          "javascript_link": "javascript:Goto(1,17,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_17.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_17-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_17.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "17",
+          "section": "4",
+          "section_number": "17-4",
+          "title": "More about four-vectors",
+          "javascript_link": "javascript:Goto(1,17,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_17.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_17-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_17.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "17",
+          "section": "5",
+          "section_number": "17-5",
+          "title": "Four-vector algebra",
+          "javascript_link": "javascript:Goto(1,17,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_17.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_17-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_17.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_17/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_17/full_chapter.txt"
+    },
+    {
+      "chapter_number": "18",
+      "chapter_title": "Chapter 18",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_18.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "18",
+          "section": "1",
+          "section_number": "18-1",
+          "title": "The center of mass",
+          "javascript_link": "javascript:Goto(1,18,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_18.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_18-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_18.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "18",
+          "section": "2",
+          "section_number": "18-2",
+          "title": "Rotation of a rigid body",
+          "javascript_link": "javascript:Goto(1,18,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_18.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_18-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_18.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "18",
+          "section": "3",
+          "section_number": "18-3",
+          "title": "Angular momentum",
+          "javascript_link": "javascript:Goto(1,18,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_18.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_18-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_18.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "18",
+          "section": "4",
+          "section_number": "18-4",
+          "title": "Conservation of angular momentum",
+          "javascript_link": "javascript:Goto(1,18,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_18.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_18-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_18.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_18/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_18/full_chapter.txt"
+    },
+    {
+      "chapter_number": "19",
+      "chapter_title": "Chapter 19",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_19.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "19",
+          "section": "1",
+          "section_number": "19-1",
+          "title": "Properties of the center of mass",
+          "javascript_link": "javascript:Goto(1,19,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_19.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_19-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_19.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "19",
+          "section": "2",
+          "section_number": "19-2",
+          "title": "Locating the center of mass",
+          "javascript_link": "javascript:Goto(1,19,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_19.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_19-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_19.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "19",
+          "section": "3",
+          "section_number": "19-3",
+          "title": "Finding the moment of inertia",
+          "javascript_link": "javascript:Goto(1,19,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_19.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_19-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_19.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "19",
+          "section": "4",
+          "section_number": "19-4",
+          "title": "Rotational kinetic energy",
+          "javascript_link": "javascript:Goto(1,19,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_19.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_19-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_19.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_19/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_19/full_chapter.txt"
+    },
+    {
+      "chapter_number": "20",
+      "chapter_title": "Chapter 20",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_20.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "20",
+          "section": "1",
+          "section_number": "20-1",
+          "title": "Torques in three dimensions",
+          "javascript_link": "javascript:Goto(1,20,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_20.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_20-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_20.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "20",
+          "section": "2",
+          "section_number": "20-2",
+          "title": "The rotation equations using cross products",
+          "javascript_link": "javascript:Goto(1,20,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_20.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_20-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_20.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "20",
+          "section": "3",
+          "section_number": "20-3",
+          "title": "The gyroscope",
+          "javascript_link": "javascript:Goto(1,20,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_20.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_20-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_20.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "20",
+          "section": "4",
+          "section_number": "20-4",
+          "title": "Angular momentum of a solid body",
+          "javascript_link": "javascript:Goto(1,20,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_20.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_20-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_20.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_20/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_20/full_chapter.txt"
+    },
+    {
+      "chapter_number": "21",
+      "chapter_title": "Chapter 21",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_21.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "21",
+          "section": "1",
+          "section_number": "21-1",
+          "title": "Linear differential equations",
+          "javascript_link": "javascript:Goto(1,21,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_21.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_21-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_21.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "21",
+          "section": "2",
+          "section_number": "21-2",
+          "title": "The harmonic oscillator",
+          "javascript_link": "javascript:Goto(1,21,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_21.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_21-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_21.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "21",
+          "section": "3",
+          "section_number": "21-3",
+          "title": "Harmonic motion and circular motion",
+          "javascript_link": "javascript:Goto(1,21,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_21.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_21-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_21.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "21",
+          "section": "4",
+          "section_number": "21-4",
+          "title": "Initial conditions",
+          "javascript_link": "javascript:Goto(1,21,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_21.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_21-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_21.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "21",
+          "section": "5",
+          "section_number": "21-5",
+          "title": "Forced oscillations",
+          "javascript_link": "javascript:Goto(1,21,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_21.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_21-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_21.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_21/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_21/full_chapter.txt"
+    },
+    {
+      "chapter_number": "22",
+      "chapter_title": "Chapter 22",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_22.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "22",
+          "section": "1",
+          "section_number": "22-1",
+          "title": "Addition and multiplication",
+          "javascript_link": "javascript:Goto(1,22,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_22.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_22-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_22.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "22",
+          "section": "2",
+          "section_number": "22-2",
+          "title": "The inverse operations",
+          "javascript_link": "javascript:Goto(1,22,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_22.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_22-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_22.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "22",
+          "section": "3",
+          "section_number": "22-3",
+          "title": "Abstraction and generalization",
+          "javascript_link": "javascript:Goto(1,22,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_22.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_22-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_22.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "22",
+          "section": "4",
+          "section_number": "22-4",
+          "title": "Approximating irrational numbers",
+          "javascript_link": "javascript:Goto(1,22,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_22.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_22-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_22.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "22",
+          "section": "5",
+          "section_number": "22-5",
+          "title": "Complex numbers",
+          "javascript_link": "javascript:Goto(1,22,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_22.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_22-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_22.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "22",
+          "section": "6",
+          "section_number": "22-6",
+          "title": "Imaginary exponents",
+          "javascript_link": "javascript:Goto(1,22,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_22.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_22-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_22.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_22/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_22/full_chapter.txt"
+    },
+    {
+      "chapter_number": "23",
+      "chapter_title": "Chapter 23",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_23.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "23",
+          "section": "1",
+          "section_number": "23-1",
+          "title": "Complex numbers and harmonic motion",
+          "javascript_link": "javascript:Goto(1,23,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_23.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_23-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_23.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "23",
+          "section": "2",
+          "section_number": "23-2",
+          "title": "The forced oscillator with damping",
+          "javascript_link": "javascript:Goto(1,23,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_23.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_23-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_23.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "23",
+          "section": "3",
+          "section_number": "23-3",
+          "title": "Electrical resonance",
+          "javascript_link": "javascript:Goto(1,23,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_23.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_23-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_23.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "23",
+          "section": "4",
+          "section_number": "23-4",
+          "title": "Resonance in nature",
+          "javascript_link": "javascript:Goto(1,23,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_23.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_23-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_23.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_23/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_23/full_chapter.txt"
+    },
+    {
+      "chapter_number": "24",
+      "chapter_title": "Chapter 24",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_24.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "24",
+          "section": "1",
+          "section_number": "24-1",
+          "title": "The energy of an oscillator",
+          "javascript_link": "javascript:Goto(1,24,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_24.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_24-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_24.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "24",
+          "section": "2",
+          "section_number": "24-2",
+          "title": "Damped oscillations",
+          "javascript_link": "javascript:Goto(1,24,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_24.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_24-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_24.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "24",
+          "section": "3",
+          "section_number": "24-3",
+          "title": "Electrical transients",
+          "javascript_link": "javascript:Goto(1,24,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_24.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_24-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_24.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_24/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_24/full_chapter.txt"
+    },
+    {
+      "chapter_number": "25",
+      "chapter_title": "Chapter 25",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_25.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "25",
+          "section": "1",
+          "section_number": "25-1",
+          "title": "Linear differential equations",
+          "javascript_link": "javascript:Goto(1,25,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_25.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_25-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_25.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "25",
+          "section": "2",
+          "section_number": "25-2",
+          "title": "Superposition of solutions",
+          "javascript_link": "javascript:Goto(1,25,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_25.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_25-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_25.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "25",
+          "section": "3",
+          "section_number": "25-3",
+          "title": "Oscillations in linear systems",
+          "javascript_link": "javascript:Goto(1,25,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_25.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_25-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_25.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "25",
+          "section": "4",
+          "section_number": "25-4",
+          "title": "Analogs in physics",
+          "javascript_link": "javascript:Goto(1,25,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_25.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_25-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_25.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "25",
+          "section": "5",
+          "section_number": "25-5",
+          "title": "Series and parallel impedances",
+          "javascript_link": "javascript:Goto(1,25,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_25.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_25-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_25.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_25/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_25/full_chapter.txt"
+    },
+    {
+      "chapter_number": "26",
+      "chapter_title": "Chapter 26",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_26.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "26",
+          "section": "1",
+          "section_number": "26-1",
+          "title": "Light",
+          "javascript_link": "javascript:Goto(1,26,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_26.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_26-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_26.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "26",
+          "section": "2",
+          "section_number": "26-2",
+          "title": "Reflection and refraction",
+          "javascript_link": "javascript:Goto(1,26,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_26.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_26-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_26.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "26",
+          "section": "3",
+          "section_number": "26-3",
+          "title": "Fermatâs principle of least time",
+          "javascript_link": "javascript:Goto(1,26,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_26.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_26-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_26.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "26",
+          "section": "4",
+          "section_number": "26-4",
+          "title": "Applications of Fermatâs principle",
+          "javascript_link": "javascript:Goto(1,26,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_26.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_26-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_26.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "26",
+          "section": "5",
+          "section_number": "26-5",
+          "title": "A more precise statement of Fermatâs principle",
+          "javascript_link": "javascript:Goto(1,26,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_26.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_26-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_26.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "26",
+          "section": "6",
+          "section_number": "26-6",
+          "title": "How it works",
+          "javascript_link": "javascript:Goto(1,26,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_26.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_26-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_26.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_26/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_26/full_chapter.txt"
+    },
+    {
+      "chapter_number": "27",
+      "chapter_title": "Chapter 27",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_27.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "27",
+          "section": "1",
+          "section_number": "27-1",
+          "title": "Introduction",
+          "javascript_link": "javascript:Goto(1,27,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_27.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_27-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_27.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "27",
+          "section": "2",
+          "section_number": "27-2",
+          "title": "The focal length of a spherical surface",
+          "javascript_link": "javascript:Goto(1,27,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_27.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_27-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_27.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "27",
+          "section": "3",
+          "section_number": "27-3",
+          "title": "The focal length of a lens",
+          "javascript_link": "javascript:Goto(1,27,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_27.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_27-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_27.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "27",
+          "section": "4",
+          "section_number": "27-4",
+          "title": "Magnification",
+          "javascript_link": "javascript:Goto(1,27,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_27.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_27-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_27.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "27",
+          "section": "5",
+          "section_number": "27-5",
+          "title": "Compound lenses",
+          "javascript_link": "javascript:Goto(1,27,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_27.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_27-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_27.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "27",
+          "section": "6",
+          "section_number": "27-6",
+          "title": "Aberrations",
+          "javascript_link": "javascript:Goto(1,27,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_27.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_27-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_27.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "27",
+          "section": "7",
+          "section_number": "27-7",
+          "title": "Resolving power",
+          "javascript_link": "javascript:Goto(1,27,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_27.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_27-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_27.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_27/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_27/full_chapter.txt"
+    },
+    {
+      "chapter_number": "28",
+      "chapter_title": "Chapter 28",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_28.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "28",
+          "section": "1",
+          "section_number": "28-1",
+          "title": "Electromagnetism",
+          "javascript_link": "javascript:Goto(1,28,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_28.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_28-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_28.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "28",
+          "section": "2",
+          "section_number": "28-2",
+          "title": "Radiation",
+          "javascript_link": "javascript:Goto(1,28,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_28.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_28-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_28.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "28",
+          "section": "3",
+          "section_number": "28-3",
+          "title": "The dipole radiator",
+          "javascript_link": "javascript:Goto(1,28,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_28.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_28-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_28.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "28",
+          "section": "4",
+          "section_number": "28-4",
+          "title": "Interference",
+          "javascript_link": "javascript:Goto(1,28,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_28.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_28-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_28.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_28/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_28/full_chapter.txt"
+    },
+    {
+      "chapter_number": "29",
+      "chapter_title": "Chapter 29",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_29.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "29",
+          "section": "1",
+          "section_number": "29-1",
+          "title": "Electromagnetic waves",
+          "javascript_link": "javascript:Goto(1,29,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_29.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_29-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_29.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "29",
+          "section": "2",
+          "section_number": "29-2",
+          "title": "Energy of radiation",
+          "javascript_link": "javascript:Goto(1,29,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_29.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_29-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_29.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "29",
+          "section": "3",
+          "section_number": "29-3",
+          "title": "Sinusoidal waves",
+          "javascript_link": "javascript:Goto(1,29,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_29.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_29-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_29.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "29",
+          "section": "4",
+          "section_number": "29-4",
+          "title": "Two dipole radiators",
+          "javascript_link": "javascript:Goto(1,29,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_29.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_29-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_29.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "29",
+          "section": "5",
+          "section_number": "29-5",
+          "title": "The mathematics of interference",
+          "javascript_link": "javascript:Goto(1,29,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_29.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_29-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_29.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_29/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_29/full_chapter.txt"
+    },
+    {
+      "chapter_number": "30",
+      "chapter_title": "Chapter 30",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_30.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "30",
+          "section": "1",
+          "section_number": "30-1",
+          "title": "The resultant amplitude due to n equal oscillators",
+          "javascript_link": "javascript:Goto(1,30,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_30.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_30-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_30.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "30",
+          "section": "2",
+          "section_number": "30-2",
+          "title": "The diffraction grating",
+          "javascript_link": "javascript:Goto(1,30,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_30.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_30-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_30.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "30",
+          "section": "3",
+          "section_number": "30-3",
+          "title": "Resolving power of a grating",
+          "javascript_link": "javascript:Goto(1,30,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_30.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_30-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_30.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "30",
+          "section": "4",
+          "section_number": "30-4",
+          "title": "The parabolic antenna",
+          "javascript_link": "javascript:Goto(1,30,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_30.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_30-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_30.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "30",
+          "section": "5",
+          "section_number": "30-5",
+          "title": "Colored films; crystals",
+          "javascript_link": "javascript:Goto(1,30,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_30.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_30-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_30.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "30",
+          "section": "6",
+          "section_number": "30-6",
+          "title": "Diffraction by opaque screens",
+          "javascript_link": "javascript:Goto(1,30,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_30.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_30-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_30.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "30",
+          "section": "7",
+          "section_number": "30-7",
+          "title": "The field of a plane of oscillating charges",
+          "javascript_link": "javascript:Goto(1,30,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_30.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_30-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_30.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_30/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_30/full_chapter.txt"
+    },
+    {
+      "chapter_number": "31",
+      "chapter_title": "Chapter 31",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_31.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "31",
+          "section": "1",
+          "section_number": "31-1",
+          "title": "The index of refraction",
+          "javascript_link": "javascript:Goto(1,31,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_31.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_31-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_31.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "31",
+          "section": "2",
+          "section_number": "31-2",
+          "title": "The field due to the material",
+          "javascript_link": "javascript:Goto(1,31,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_31.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_31-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_31.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "31",
+          "section": "3",
+          "section_number": "31-3",
+          "title": "Dispersion",
+          "javascript_link": "javascript:Goto(1,31,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_31.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_31-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_31.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "31",
+          "section": "4",
+          "section_number": "31-4",
+          "title": "Absorption",
+          "javascript_link": "javascript:Goto(1,31,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_31.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_31-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_31.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "31",
+          "section": "5",
+          "section_number": "31-5",
+          "title": "The energy carried by an electric wave",
+          "javascript_link": "javascript:Goto(1,31,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_31.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_31-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_31.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "31",
+          "section": "6",
+          "section_number": "31-6",
+          "title": "Diffraction of light by a screen",
+          "javascript_link": "javascript:Goto(1,31,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_31.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_31-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_31.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_31/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_31/full_chapter.txt"
+    },
+    {
+      "chapter_number": "32",
+      "chapter_title": "Chapter 32",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_32.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "32",
+          "section": "1",
+          "section_number": "32-1",
+          "title": "Radiation resistance",
+          "javascript_link": "javascript:Goto(1,32,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_32.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_32-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_32.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "32",
+          "section": "2",
+          "section_number": "32-2",
+          "title": "The rate of radiation of energy",
+          "javascript_link": "javascript:Goto(1,32,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_32.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_32-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_32.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "32",
+          "section": "3",
+          "section_number": "32-3",
+          "title": "Radiation damping",
+          "javascript_link": "javascript:Goto(1,32,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_32.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_32-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_32.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "32",
+          "section": "4",
+          "section_number": "32-4",
+          "title": "Independent sources",
+          "javascript_link": "javascript:Goto(1,32,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_32.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_32-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_32.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "32",
+          "section": "5",
+          "section_number": "32-5",
+          "title": "Scattering of light",
+          "javascript_link": "javascript:Goto(1,32,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_32.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_32-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_32.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_32/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_32/full_chapter.txt"
+    },
+    {
+      "chapter_number": "33",
+      "chapter_title": "Chapter 33",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_33.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "33",
+          "section": "1",
+          "section_number": "33-1",
+          "title": "The electric vector of light",
+          "javascript_link": "javascript:Goto(1,33,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_33.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_33-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_33.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "33",
+          "section": "2",
+          "section_number": "33-2",
+          "title": "Polarization of scattered light",
+          "javascript_link": "javascript:Goto(1,33,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_33.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_33-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_33.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "33",
+          "section": "3",
+          "section_number": "33-3",
+          "title": "Birefringence",
+          "javascript_link": "javascript:Goto(1,33,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_33.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_33-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_33.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "33",
+          "section": "4",
+          "section_number": "33-4",
+          "title": "Polarizers",
+          "javascript_link": "javascript:Goto(1,33,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_33.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_33-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_33.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "33",
+          "section": "5",
+          "section_number": "33-5",
+          "title": "Optical activity",
+          "javascript_link": "javascript:Goto(1,33,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_33.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_33-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_33.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "33",
+          "section": "6",
+          "section_number": "33-6",
+          "title": "The intensity of reflected light",
+          "javascript_link": "javascript:Goto(1,33,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_33.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_33-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_33.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "33",
+          "section": "7",
+          "section_number": "33-7",
+          "title": "Anomalous refraction",
+          "javascript_link": "javascript:Goto(1,33,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_33.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_33-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_33.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_33/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_33/full_chapter.txt"
+    },
+    {
+      "chapter_number": "34",
+      "chapter_title": "Chapter 34",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_34.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "34",
+          "section": "1",
+          "section_number": "34-1",
+          "title": "Moving sources",
+          "javascript_link": "javascript:Goto(1,34,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_34.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_34-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_34.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "34",
+          "section": "2",
+          "section_number": "34-2",
+          "title": "Finding the âapparentâ motion",
+          "javascript_link": "javascript:Goto(1,34,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_34.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_34-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_34.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "34",
+          "section": "3",
+          "section_number": "34-3",
+          "title": "Synchrotron radiation",
+          "javascript_link": "javascript:Goto(1,34,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_34.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_34-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_34.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "34",
+          "section": "4",
+          "section_number": "34-4",
+          "title": "Cosmic synchrotron radiation",
+          "javascript_link": "javascript:Goto(1,34,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_34.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_34-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_34.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "34",
+          "section": "5",
+          "section_number": "34-5",
+          "title": "Bremsstrahlung",
+          "javascript_link": "javascript:Goto(1,34,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_34.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_34-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_34.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "34",
+          "section": "6",
+          "section_number": "34-6",
+          "title": "The Doppler effect",
+          "javascript_link": "javascript:Goto(1,34,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_34.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_34-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_34.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "34",
+          "section": "7",
+          "section_number": "34-7",
+          "title": "The Ï, k four-vector",
+          "javascript_link": "javascript:Goto(1,34,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_34.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_34-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_34.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "34",
+          "section": "8",
+          "section_number": "34-8",
+          "title": "Aberration",
+          "javascript_link": "javascript:Goto(1,34,8)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_34.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_34-08.html",
+            "https://www.feynmanlectures.caltech.edu/I_34.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "34",
+          "section": "9",
+          "section_number": "34-9",
+          "title": "The momentum of light",
+          "javascript_link": "javascript:Goto(1,34,9)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_34.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_34-09.html",
+            "https://www.feynmanlectures.caltech.edu/I_34.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_34/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_34/full_chapter.txt"
+    },
+    {
+      "chapter_number": "35",
+      "chapter_title": "Chapter 35",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_35.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "35",
+          "section": "1",
+          "section_number": "35-1",
+          "title": "The human eye",
+          "javascript_link": "javascript:Goto(1,35,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_35.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_35-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_35.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "35",
+          "section": "2",
+          "section_number": "35-2",
+          "title": "Color depends on intensity",
+          "javascript_link": "javascript:Goto(1,35,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_35.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_35-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_35.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "35",
+          "section": "3",
+          "section_number": "35-3",
+          "title": "Measuring the color sensation",
+          "javascript_link": "javascript:Goto(1,35,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_35.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_35-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_35.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "35",
+          "section": "4",
+          "section_number": "35-4",
+          "title": "The chromaticity diagram",
+          "javascript_link": "javascript:Goto(1,35,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_35.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_35-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_35.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "35",
+          "section": "5",
+          "section_number": "35-5",
+          "title": "The mechanism of color vision",
+          "javascript_link": "javascript:Goto(1,35,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_35.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_35-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_35.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "35",
+          "section": "6",
+          "section_number": "35-6",
+          "title": "Physiochemistry of color vision",
+          "javascript_link": "javascript:Goto(1,35,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_35.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_35-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_35.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_35/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_35/full_chapter.txt"
+    },
+    {
+      "chapter_number": "36",
+      "chapter_title": "Chapter 36",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_36.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "36",
+          "section": "1",
+          "section_number": "36-1",
+          "title": "The sensation of color",
+          "javascript_link": "javascript:Goto(1,36,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_36.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_36-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_36.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "36",
+          "section": "2",
+          "section_number": "36-2",
+          "title": "The physiology of the eye",
+          "javascript_link": "javascript:Goto(1,36,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_36.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_36-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_36.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "36",
+          "section": "3",
+          "section_number": "36-3",
+          "title": "The rod cells",
+          "javascript_link": "javascript:Goto(1,36,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_36.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_36-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_36.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "36",
+          "section": "4",
+          "section_number": "36-4",
+          "title": "The compound (insect) eye",
+          "javascript_link": "javascript:Goto(1,36,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_36.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_36-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_36.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "36",
+          "section": "5",
+          "section_number": "36-5",
+          "title": "Other eyes",
+          "javascript_link": "javascript:Goto(1,36,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_36.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_36-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_36.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "36",
+          "section": "6",
+          "section_number": "36-6",
+          "title": "Neurology of vision",
+          "javascript_link": "javascript:Goto(1,36,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_36.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_36-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_36.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_36/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_36/full_chapter.txt"
+    },
+    {
+      "chapter_number": "37",
+      "chapter_title": "Chapter 37",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_37.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "37",
+          "section": "1",
+          "section_number": "37-1",
+          "title": "Atomic mechanics",
+          "javascript_link": "javascript:Goto(1,37,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_37.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_37-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_37.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "37",
+          "section": "2",
+          "section_number": "37-2",
+          "title": "An experiment with bullets",
+          "javascript_link": "javascript:Goto(1,37,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_37.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_37-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_37.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "37",
+          "section": "3",
+          "section_number": "37-3",
+          "title": "An experiment with waves",
+          "javascript_link": "javascript:Goto(1,37,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_37.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_37-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_37.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "37",
+          "section": "4",
+          "section_number": "37-4",
+          "title": "An experiment with electrons",
+          "javascript_link": "javascript:Goto(1,37,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_37.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_37-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_37.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "37",
+          "section": "5",
+          "section_number": "37-5",
+          "title": "The interference of electron waves",
+          "javascript_link": "javascript:Goto(1,37,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_37.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_37-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_37.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "37",
+          "section": "6",
+          "section_number": "37-6",
+          "title": "Watching the electrons",
+          "javascript_link": "javascript:Goto(1,37,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_37.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_37-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_37.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "37",
+          "section": "7",
+          "section_number": "37-7",
+          "title": "First principles of quantum mechanics",
+          "javascript_link": "javascript:Goto(1,37,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_37.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_37-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_37.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "37",
+          "section": "8",
+          "section_number": "37-8",
+          "title": "The uncertainty principle",
+          "javascript_link": "javascript:Goto(1,37,8)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_37.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_37-08.html",
+            "https://www.feynmanlectures.caltech.edu/I_37.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_37/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_37/full_chapter.txt"
+    },
+    {
+      "chapter_number": "38",
+      "chapter_title": "Chapter 38",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_38.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "38",
+          "section": "1",
+          "section_number": "38-1",
+          "title": "Probability wave amplitudes",
+          "javascript_link": "javascript:Goto(1,38,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_38.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_38-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_38.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "38",
+          "section": "2",
+          "section_number": "38-2",
+          "title": "Measurement of position and momentum",
+          "javascript_link": "javascript:Goto(1,38,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_38.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_38-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_38.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "38",
+          "section": "3",
+          "section_number": "38-3",
+          "title": "Crystal diffraction",
+          "javascript_link": "javascript:Goto(1,38,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_38.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_38-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_38.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "38",
+          "section": "4",
+          "section_number": "38-4",
+          "title": "The size of an atom",
+          "javascript_link": "javascript:Goto(1,38,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_38.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_38-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_38.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "38",
+          "section": "5",
+          "section_number": "38-5",
+          "title": "Energy levels",
+          "javascript_link": "javascript:Goto(1,38,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_38.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_38-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_38.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "38",
+          "section": "6",
+          "section_number": "38-6",
+          "title": "Philosophical implications",
+          "javascript_link": "javascript:Goto(1,38,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_38.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_38-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_38.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_38/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_38/full_chapter.txt"
+    },
+    {
+      "chapter_number": "39",
+      "chapter_title": "Chapter 39",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_39.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "39",
+          "section": "1",
+          "section_number": "39-1",
+          "title": "Properties of matter",
+          "javascript_link": "javascript:Goto(1,39,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_39.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_39-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_39.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "39",
+          "section": "2",
+          "section_number": "39-2",
+          "title": "The pressure of a gas",
+          "javascript_link": "javascript:Goto(1,39,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_39.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_39-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_39.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "39",
+          "section": "3",
+          "section_number": "39-3",
+          "title": "Compressibility of radiation",
+          "javascript_link": "javascript:Goto(1,39,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_39.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_39-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_39.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "39",
+          "section": "4",
+          "section_number": "39-4",
+          "title": "Temperature and kinetic energy",
+          "javascript_link": "javascript:Goto(1,39,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_39.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_39-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_39.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "39",
+          "section": "5",
+          "section_number": "39-5",
+          "title": "The ideal gas law",
+          "javascript_link": "javascript:Goto(1,39,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_39.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_39-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_39.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_39/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_39/full_chapter.txt"
+    },
+    {
+      "chapter_number": "40",
+      "chapter_title": "Chapter 40",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_40.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "40",
+          "section": "1",
+          "section_number": "40-1",
+          "title": "The exponential atmosphere",
+          "javascript_link": "javascript:Goto(1,40,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_40.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_40-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_40.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "40",
+          "section": "2",
+          "section_number": "40-2",
+          "title": "The Boltzmann law",
+          "javascript_link": "javascript:Goto(1,40,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_40.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_40-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_40.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "40",
+          "section": "3",
+          "section_number": "40-3",
+          "title": "Evaporation of a liquid",
+          "javascript_link": "javascript:Goto(1,40,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_40.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_40-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_40.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "40",
+          "section": "4",
+          "section_number": "40-4",
+          "title": "The distribution of molecular speeds",
+          "javascript_link": "javascript:Goto(1,40,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_40.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_40-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_40.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "40",
+          "section": "5",
+          "section_number": "40-5",
+          "title": "The specific heats of gases",
+          "javascript_link": "javascript:Goto(1,40,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_40.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_40-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_40.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "40",
+          "section": "6",
+          "section_number": "40-6",
+          "title": "The failure of classical physics",
+          "javascript_link": "javascript:Goto(1,40,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_40.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_40-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_40.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_40/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_40/full_chapter.txt"
+    },
+    {
+      "chapter_number": "41",
+      "chapter_title": "Chapter 41",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_41.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "41",
+          "section": "1",
+          "section_number": "41-1",
+          "title": "Equipartition of energy",
+          "javascript_link": "javascript:Goto(1,41,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_41.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_41-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_41.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "41",
+          "section": "2",
+          "section_number": "41-2",
+          "title": "Thermal equilibrium of radiation",
+          "javascript_link": "javascript:Goto(1,41,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_41.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_41-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_41.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "41",
+          "section": "3",
+          "section_number": "41-3",
+          "title": "Equipartition and the quantum oscillator",
+          "javascript_link": "javascript:Goto(1,41,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_41.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_41-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_41.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "41",
+          "section": "4",
+          "section_number": "41-4",
+          "title": "The random walk",
+          "javascript_link": "javascript:Goto(1,41,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_41.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_41-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_41.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_41/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_41/full_chapter.txt"
+    },
+    {
+      "chapter_number": "42",
+      "chapter_title": "Chapter 42",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_42.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "42",
+          "section": "1",
+          "section_number": "42-1",
+          "title": "Evaporation",
+          "javascript_link": "javascript:Goto(1,42,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_42.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_42-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_42.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "42",
+          "section": "2",
+          "section_number": "42-2",
+          "title": "Thermionic emission",
+          "javascript_link": "javascript:Goto(1,42,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_42.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_42-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_42.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "42",
+          "section": "3",
+          "section_number": "42-3",
+          "title": "Thermal ionization",
+          "javascript_link": "javascript:Goto(1,42,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_42.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_42-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_42.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "42",
+          "section": "4",
+          "section_number": "42-4",
+          "title": "Chemical kinetics",
+          "javascript_link": "javascript:Goto(1,42,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_42.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_42-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_42.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "42",
+          "section": "5",
+          "section_number": "42-5",
+          "title": "Einsteinâs laws of radiation",
+          "javascript_link": "javascript:Goto(1,42,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_42.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_42-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_42.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_42/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_42/full_chapter.txt"
+    },
+    {
+      "chapter_number": "43",
+      "chapter_title": "Chapter 43",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_43.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "43",
+          "section": "1",
+          "section_number": "43-1",
+          "title": "Collisions between molecules",
+          "javascript_link": "javascript:Goto(1,43,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_43.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_43-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_43.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "43",
+          "section": "2",
+          "section_number": "43-2",
+          "title": "The mean free path",
+          "javascript_link": "javascript:Goto(1,43,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_43.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_43-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_43.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "43",
+          "section": "3",
+          "section_number": "43-3",
+          "title": "The drift speed",
+          "javascript_link": "javascript:Goto(1,43,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_43.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_43-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_43.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "43",
+          "section": "4",
+          "section_number": "43-4",
+          "title": "Ionic conductivity",
+          "javascript_link": "javascript:Goto(1,43,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_43.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_43-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_43.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "43",
+          "section": "5",
+          "section_number": "43-5",
+          "title": "Molecular diffusion",
+          "javascript_link": "javascript:Goto(1,43,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_43.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_43-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_43.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "43",
+          "section": "6",
+          "section_number": "43-6",
+          "title": "Thermal conductivity",
+          "javascript_link": "javascript:Goto(1,43,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_43.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_43-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_43.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_43/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_43/full_chapter.txt"
+    },
+    {
+      "chapter_number": "44",
+      "chapter_title": "Chapter 44",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_44.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "44",
+          "section": "1",
+          "section_number": "44-1",
+          "title": "Heat engines; the first law",
+          "javascript_link": "javascript:Goto(1,44,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_44.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_44-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_44.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "44",
+          "section": "2",
+          "section_number": "44-2",
+          "title": "The second law",
+          "javascript_link": "javascript:Goto(1,44,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_44.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_44-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_44.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "44",
+          "section": "3",
+          "section_number": "44-3",
+          "title": "Reversible engines",
+          "javascript_link": "javascript:Goto(1,44,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_44.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_44-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_44.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "44",
+          "section": "4",
+          "section_number": "44-4",
+          "title": "The efficiency of an ideal engine",
+          "javascript_link": "javascript:Goto(1,44,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_44.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_44-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_44.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "44",
+          "section": "5",
+          "section_number": "44-5",
+          "title": "The thermodynamic temperature",
+          "javascript_link": "javascript:Goto(1,44,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_44.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_44-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_44.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "44",
+          "section": "6",
+          "section_number": "44-6",
+          "title": "Entropy",
+          "javascript_link": "javascript:Goto(1,44,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_44.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_44-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_44.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_44/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_44/full_chapter.txt"
+    },
+    {
+      "chapter_number": "45",
+      "chapter_title": "Chapter 45",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_45.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "45",
+          "section": "1",
+          "section_number": "45-1",
+          "title": "Internal energy",
+          "javascript_link": "javascript:Goto(1,45,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_45.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_45-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_45.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "45",
+          "section": "2",
+          "section_number": "45-2",
+          "title": "Applications",
+          "javascript_link": "javascript:Goto(1,45,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_45.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_45-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_45.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "45",
+          "section": "3",
+          "section_number": "45-3",
+          "title": "The Clausius-Clapeyron equation",
+          "javascript_link": "javascript:Goto(1,45,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_45.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_45-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_45.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_45/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_45/full_chapter.txt"
+    },
+    {
+      "chapter_number": "46",
+      "chapter_title": "Chapter 46",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_46.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "46",
+          "section": "1",
+          "section_number": "46-1",
+          "title": "How a ratchet works",
+          "javascript_link": "javascript:Goto(1,46,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_46.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_46-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_46.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "46",
+          "section": "2",
+          "section_number": "46-2",
+          "title": "The ratchet as an engine",
+          "javascript_link": "javascript:Goto(1,46,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_46.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_46-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_46.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "46",
+          "section": "3",
+          "section_number": "46-3",
+          "title": "Reversibility in mechanics",
+          "javascript_link": "javascript:Goto(1,46,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_46.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_46-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_46.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "46",
+          "section": "4",
+          "section_number": "46-4",
+          "title": "Irreversibility",
+          "javascript_link": "javascript:Goto(1,46,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_46.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_46-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_46.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "46",
+          "section": "5",
+          "section_number": "46-5",
+          "title": "Order and entropy",
+          "javascript_link": "javascript:Goto(1,46,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_46.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_46-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_46.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_46/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_46/full_chapter.txt"
+    },
+    {
+      "chapter_number": "47",
+      "chapter_title": "Chapter 47",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_47.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "47",
+          "section": "1",
+          "section_number": "47-1",
+          "title": "Waves",
+          "javascript_link": "javascript:Goto(1,47,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_47.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_47-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_47.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "47",
+          "section": "2",
+          "section_number": "47-2",
+          "title": "The propagation of sound",
+          "javascript_link": "javascript:Goto(1,47,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_47.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_47-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_47.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "47",
+          "section": "3",
+          "section_number": "47-3",
+          "title": "The wave equation",
+          "javascript_link": "javascript:Goto(1,47,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_47.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_47-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_47.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "47",
+          "section": "4",
+          "section_number": "47-4",
+          "title": "Solutions of the wave equation",
+          "javascript_link": "javascript:Goto(1,47,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_47.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_47-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_47.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "47",
+          "section": "5",
+          "section_number": "47-5",
+          "title": "The speed of sound",
+          "javascript_link": "javascript:Goto(1,47,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_47.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_47-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_47.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_47/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_47/full_chapter.txt"
+    },
+    {
+      "chapter_number": "48",
+      "chapter_title": "Chapter 48",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_48.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "48",
+          "section": "1",
+          "section_number": "48-1",
+          "title": "Adding two waves",
+          "javascript_link": "javascript:Goto(1,48,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_48.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_48-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_48.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "48",
+          "section": "2",
+          "section_number": "48-2",
+          "title": "Beat notes and modulation",
+          "javascript_link": "javascript:Goto(1,48,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_48.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_48-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_48.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "48",
+          "section": "3",
+          "section_number": "48-3",
+          "title": "Side bands",
+          "javascript_link": "javascript:Goto(1,48,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_48.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_48-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_48.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "48",
+          "section": "4",
+          "section_number": "48-4",
+          "title": "Localized wave trains",
+          "javascript_link": "javascript:Goto(1,48,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_48.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_48-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_48.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "48",
+          "section": "5",
+          "section_number": "48-5",
+          "title": "Probability amplitudes for particles",
+          "javascript_link": "javascript:Goto(1,48,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_48.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_48-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_48.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "48",
+          "section": "6",
+          "section_number": "48-6",
+          "title": "Waves in three dimensions",
+          "javascript_link": "javascript:Goto(1,48,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_48.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_48-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_48.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "48",
+          "section": "7",
+          "section_number": "48-7",
+          "title": "Normal modes",
+          "javascript_link": "javascript:Goto(1,48,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_48.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_48-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_48.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_48/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_48/full_chapter.txt"
+    },
+    {
+      "chapter_number": "49",
+      "chapter_title": "Chapter 49",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_49.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "49",
+          "section": "1",
+          "section_number": "49-1",
+          "title": "The reflection of waves",
+          "javascript_link": "javascript:Goto(1,49,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_49.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_49-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_49.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "49",
+          "section": "2",
+          "section_number": "49-2",
+          "title": "Confined waves, with natural frequencies",
+          "javascript_link": "javascript:Goto(1,49,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_49.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_49-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_49.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "49",
+          "section": "3",
+          "section_number": "49-3",
+          "title": "Modes in two dimensions",
+          "javascript_link": "javascript:Goto(1,49,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_49.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_49-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_49.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "49",
+          "section": "4",
+          "section_number": "49-4",
+          "title": "Coupled pendulums",
+          "javascript_link": "javascript:Goto(1,49,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_49.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_49-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_49.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "49",
+          "section": "5",
+          "section_number": "49-5",
+          "title": "Linear systems",
+          "javascript_link": "javascript:Goto(1,49,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_49.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_49-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_49.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_49/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_49/full_chapter.txt"
+    },
+    {
+      "chapter_number": "50",
+      "chapter_title": "Chapter 50",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_50.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "50",
+          "section": "1",
+          "section_number": "50-1",
+          "title": "Musical tones",
+          "javascript_link": "javascript:Goto(1,50,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_50.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_50-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_50.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "50",
+          "section": "2",
+          "section_number": "50-2",
+          "title": "The Fourier series",
+          "javascript_link": "javascript:Goto(1,50,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_50.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_50-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_50.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "50",
+          "section": "3",
+          "section_number": "50-3",
+          "title": "Quality and consonance",
+          "javascript_link": "javascript:Goto(1,50,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_50.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_50-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_50.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "50",
+          "section": "4",
+          "section_number": "50-4",
+          "title": "The Fourier coefficients",
+          "javascript_link": "javascript:Goto(1,50,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_50.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_50-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_50.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "50",
+          "section": "5",
+          "section_number": "50-5",
+          "title": "The energy theorem",
+          "javascript_link": "javascript:Goto(1,50,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_50.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_50-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_50.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "50",
+          "section": "6",
+          "section_number": "50-6",
+          "title": "Nonlinear responses",
+          "javascript_link": "javascript:Goto(1,50,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_50.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_50-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_50.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_50/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_50/full_chapter.txt"
+    },
+    {
+      "chapter_number": "51",
+      "chapter_title": "Chapter 51",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_51.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "51",
+          "section": "1",
+          "section_number": "51-1",
+          "title": "Bow waves",
+          "javascript_link": "javascript:Goto(1,51,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_51.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_51-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_51.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "51",
+          "section": "2",
+          "section_number": "51-2",
+          "title": "Shock waves",
+          "javascript_link": "javascript:Goto(1,51,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_51.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_51-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_51.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "51",
+          "section": "3",
+          "section_number": "51-3",
+          "title": "Waves in solids",
+          "javascript_link": "javascript:Goto(1,51,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_51.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_51-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_51.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "51",
+          "section": "4",
+          "section_number": "51-4",
+          "title": "Surface waves",
+          "javascript_link": "javascript:Goto(1,51,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_51.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_51-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_51.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_51/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_51/full_chapter.txt"
+    },
+    {
+      "chapter_number": "52",
+      "chapter_title": "Chapter 52",
+      "chapter_url": "https://www.feynmanlectures.caltech.edu/I_52.html",
+      "sections": [
+        {
+          "volume": "1",
+          "chapter": "52",
+          "section": "1",
+          "section_number": "52-1",
+          "title": "Symmetry operations",
+          "javascript_link": "javascript:Goto(1,52,1)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_52.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_52-01.html",
+            "https://www.feynmanlectures.caltech.edu/I_52.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "52",
+          "section": "2",
+          "section_number": "52-2",
+          "title": "Symmetry in space and time",
+          "javascript_link": "javascript:Goto(1,52,2)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_52.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_52-02.html",
+            "https://www.feynmanlectures.caltech.edu/I_52.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "52",
+          "section": "3",
+          "section_number": "52-3",
+          "title": "Symmetry and conservation laws",
+          "javascript_link": "javascript:Goto(1,52,3)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_52.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_52-03.html",
+            "https://www.feynmanlectures.caltech.edu/I_52.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "52",
+          "section": "4",
+          "section_number": "52-4",
+          "title": "Mirror reflections",
+          "javascript_link": "javascript:Goto(1,52,4)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_52.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_52-04.html",
+            "https://www.feynmanlectures.caltech.edu/I_52.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "52",
+          "section": "5",
+          "section_number": "52-5",
+          "title": "Polar and axial vectors",
+          "javascript_link": "javascript:Goto(1,52,5)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_52.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_52-05.html",
+            "https://www.feynmanlectures.caltech.edu/I_52.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "52",
+          "section": "6",
+          "section_number": "52-6",
+          "title": "Which hand is right?",
+          "javascript_link": "javascript:Goto(1,52,6)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_52.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_52-06.html",
+            "https://www.feynmanlectures.caltech.edu/I_52.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "52",
+          "section": "7",
+          "section_number": "52-7",
+          "title": "Parity is not conserved!",
+          "javascript_link": "javascript:Goto(1,52,7)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_52.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_52-07.html",
+            "https://www.feynmanlectures.caltech.edu/I_52.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "52",
+          "section": "8",
+          "section_number": "52-8",
+          "title": "Antimatter",
+          "javascript_link": "javascript:Goto(1,52,8)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_52.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_52-08.html",
+            "https://www.feynmanlectures.caltech.edu/I_52.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        },
+        {
+          "volume": "1",
+          "chapter": "52",
+          "section": "9",
+          "section_number": "52-9",
+          "title": "Broken symmetries",
+          "javascript_link": "javascript:Goto(1,52,9)",
+          "url": "https://www.feynmanlectures.caltech.edu/I_52.html",
+          "alternative_urls": [
+            "https://www.feynmanlectures.caltech.edu/I_52-09.html",
+            "https://www.feynmanlectures.caltech.edu/I_52.html"
+          ],
+          "content_html_file": "",
+          "content_text_file": ""
+        }
+      ],
+      "content_html_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_52/full_chapter.html",
+      "content_text_file": "/mnt/hardisk/HackPrinceton/feynman_content/volume_TOC/chapter_52/full_chapter.txt"
+    }
+  ]
+}

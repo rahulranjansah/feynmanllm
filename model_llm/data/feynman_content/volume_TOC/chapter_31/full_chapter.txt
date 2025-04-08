@@ -1,0 +1,719 @@
+◄
+▲
+►
+A
+A
+A
+MATHJAX
+LOADING PAGE...
+Dear Reader,
+There are several reasons you might be seeing this page. In order to read the online edition of The Feynman Lectures on Physics, javascript must be supported by your browser and enabled. If you have have visited this website previously it's possible you may have a mixture of incompatible files (.js, .css, and .html) in your browser cache. If you use an ad blocker it may be preventing our pages from downloading necessary resources. So, please try the following: make sure javascript is enabled, clear your browser cache (at least of files from feynmanlectures.caltech.edu), turn off your browser extensions, and open this page:
+https://www.feynmanlectures.caltech.edu/I_01.html
+If it does not open, or only shows you this message again, then please let us know:
+which browser you are using (including version #)
+which operating system you are using (including version #)
+This type of problem is rare, and there's a good chance it can be fixed if we have some clues about the cause. So, if you can, after enabling javascript,
+clearing the cache and disabling extensions, please open your browser's javascript console, load the page above, and if this generates any messages (particularly errors or warnings) on the console, then please make a copy (text or screenshot) of those messages and send them with the above-listed information to the email address given below.
+By sending us information you will be helping not only yourself, but others who may be having similar problems accessing the online edition of The Feynman Lectures on Physics. Your time and consideration are greatly appreciated.
+Best regards,
+Mike Gottlieb
+feynmanlectures@caltech.edu
+Editor, The Feynman Lectures on Physics New Millennium Edition
+play
+stop
+mute
+max volume
+00:00
+1x
+69:12
+×#32 The origin of the refractive index (2/27/62)
+Update Required
+To play the media you will need to either update your browser to a recent version or update your Flash plugin.
+The recording of this lecture is missing from the Caltech Archives.
+31The Origin of the Refractive Index
+31–1The index of refraction
+We have said before that light goes slower in water than in air, and
+slower, slightly, in air than in vacuum. This effect is described by
+the index of refraction nn. Now we would like to understand how such
+a slower velocity could come about. In particular, we should try to
+see what the relation is to some physical assumptions, or statements,
+we made earlier, which were the following:
+That the total electric field in any physical circumstance can
+always be represented by the sum of the fields from all the charges in
+the universe.
+That the field from a single charge is given by its acceleration
+evaluated with a retardation at the speed cc, always (for the
+radiation field).
+But, for a piece of glass, you might think: “Oh, no, you should
+modify all this. You should say it is retarded at the speed c/nc/n.”
+That, however, is not right, and we have to understand why it is not.
+It is approximately true that light or any electrical wave
+does appear to travel at the speed c/nc/n through a material
+whose index of refraction is nn, but the fields are still produced by
+the motions of all the charges—including the charges moving
+in the material—and with these basic contributions of the field
+travelling at the ultimate velocity cc. Our problem is to understand
+how the apparently slower velocity comes about.
+Fig. 31–1.Electric waves passing through a layer of transparent
+material.
+We shall try to understand the effect in a very simple case. A source
+which we shall call “the external source” is placed a large
+distance away from a thin plate of transparent material, say glass. We
+inquire about the field at a large distance on the opposite side of
+the plate. The situation is illustrated by the diagram of
+Fig. 31–1, where SS and PP are imagined to be very far
+away from the plate. According to the principles we have stated earlier,
+an electric field anywhere that is far from all moving charges is the
+(vector) sum of the fields produced by the external source (at SS)
+and the fields produced by each of the charges in the
+plate of glass, every one with its proper retardation at the
+velocity cc. Remember that the contribution of each charge is not
+changed by the presence of the other charges. These are our basic
+principles. The field at PP can be written thus:
+E=∑all chargesEeach charge(31.1)(31.1)E=∑all chargesEeach charge
+or
+E=Es+∑all other chargesEeach charge,(31.2)(31.2)E=Es+∑all other chargesEeach charge,
+where EsEs is the field due to the source alone and would be
+precisely the field at PP if there were no material
+present. We expect the field at PP to be different from EsEs if
+there are any other moving charges.
+Why should there be charges moving in the glass? We know that all
+material consists of atoms which contain electrons. When the electric
+field of the source acts on these atoms it drives the electrons
+up and down, because it exerts a force on the electrons. And moving
+electrons generate a field—they constitute new radiators. These new
+radiators are related to the source SS, because they are driven by
+the field of the source. The total field is not just the field of the
+source SS, but it is modified by the additional contribution from the
+other moving charges. This means that the field is not the same as the
+one which was there before the glass was there, but is modified, and
+it turns out that it is modified in such a way that the field inside
+the glass appears to be moving at a different speed. That is the idea
+which we would like to work out quantitatively.
+Now this is, in the exact case, pretty complicated, because although
+we have said that all the other moving charges are driven by the
+source field, that is not quite true. If we think of a particular
+charge, it feels not only the source, but like anything else in the
+world, it feels all of the charges that are moving. It feels,
+in particular, the charges that are moving somewhere else in the
+glass. So the total field which is acting on a particular
+charge is a combination of the fields from the other charges,
+whose motions depend on what this particular charge is doing!
+You can see that it would take a complicated set of equations to get
+the complete and exact formula. It is so complicated that we postpone
+this problem until next year.
+Instead we shall work out a very simple case in order to understand
+all the physical principles very clearly. We take a circumstance in
+which the effects from the other atoms are very small relative to the
+effects from the source. In other words, we take a material in which
+the total field is not modified very much by the motion of the other
+charges. That corresponds to a material in which the index of
+refraction is very close to 11, which will happen, for example, if
+the density of the atoms is very low. Our calculation will be valid
+for any case in which the index is for any reason very close
+to 11. In this way we shall avoid the complications of the most general,
+complete solution.
+Incidentally, you should notice that there is another effect caused by
+the motion of the charges in the plate. These charges will also
+radiate waves back toward the source SS. This backward-going field is
+the light we see reflected from the surfaces of transparent
+materials. It does not come from just the surface. The backward
+radiation comes from everywhere in the interior, but it turns out that
+the total effect is equivalent to a reflection from the
+surfaces. These reflection effects are beyond our approximation at the
+moment because we shall be limited to a calculation for a material
+with an index so close to 11 that very little light is reflected.
+Fig. 31–2.Relation between refraction and velocity change.
+Before we proceed with our study of how the index of refraction comes
+about, we should understand that all that is required to understand
+refraction is to understand why the apparent wave velocity is
+different in different materials. The bending of light rays
+comes about just because the effective speed of the waves is
+different in the materials. To remind you how that comes about we have
+drawn in Fig. 31–2 several successive crests of an
+electric wave which arrives from a vacuum onto the surface of a block
+of glass. The arrow perpendicular to the wave crests indicates the
+direction of travel of the wave. Now all oscillations in the wave must
+have the same frequency. (We have seen that driven oscillations
+have the same frequency as the driving source.) This means, also, that
+the wave crests for the waves on both sides of the surface must have
+the same spacing along the surface because they must travel
+together, so that a charge sitting at the boundary will feel only one
+frequency. The shortest distance between crests of the wave,
+however, is the wavelength which is the velocity divided by the
+frequency. On the vacuum side it is λ0=2πc/ωλ0=2πc/ω, and
+on the other side it is λ=2πv/ωλ=2πv/ω or 2πc/ωn2πc/ωn, if v=c/nv=c/n is the velocity of the wave. From the figure we can
+see that the only way for the waves to “fit” properly at the
+boundary is for the waves in the material to be travelling at a
+different angle with respect to the surface. From the geometry of the
+figure you can see that for a “fit” we must have λ0/sinθ0=λ/sinθλ0/sin⁡θ0=λ/sin⁡θ, or sinθ0/sinθ=nsin⁡θ0/sin⁡θ=n,
+which is Snell’s law. We shall, for the
+rest of our discussion, consider only why light has an effective speed
+of c/nc/n in material of index nn, and no longer worry, in this chapter,
+about the bending of the light direction.
+We go back now to the situation shown in Fig. 31–1. We
+see that what we have to do is to calculate the field produced at PP
+by all the oscillating charges in the glass plate. We shall call this
+part of the field EaEa, and it is just the sum written as the second
+term in Eq. (31.2). When we add it to the term EsEs, due
+to the source, we will have the total field at PP.
+This is probably the most complicated thing that we are going to do
+this year, but it is complicated only in that there are many pieces
+that have to be put together; each piece, however, is very
+simple. Unlike other derivations where we say, “Forget the
+derivation, just look at the answer!,” in this case we do not need
+the answer so much as the derivation. In other words, the thing to
+understand now is the physical machinery for the production of the
+index.
+To see where we are going, let us first find out what the “correction
+field” EaEa would have to be if the total field at PP is going to
+look like radiation from the source that is slowed down while passing
+through the thin plate. If the plate had no effect on it, the field of
+a wave travelling to the right (along the zz-axis) would be
+Es=E0cosω(t−z/c)(31.3)(31.3)Es=E0cos⁡ω(t−z/c)
+or, using the exponential notation,
+Es=E0eiω(t−z/c).(31.4)(31.4)Es=E0eiω(t−z/c).
+Now what would happen if the wave travelled more slowly in going
+through the plate? Let us call the thickness of the plate ΔzΔz. If the plate were not there the wave would travel the
+distance ΔzΔz in the time Δz/cΔz/c. But if it appears to travel at
+the speed c/nc/n then it should take the longer time nΔz/cnΔz/c or
+the additional time Δt=(n−1)Δz/cΔt=(n−1)Δz/c. After
+that it would continue to travel at the speed cc again. We can take
+into account the extra delay in getting through the plate by
+replacing tt in Eq. (31.4) by (t−Δt)(t−Δt) or by [t−(n−1)Δz/c][t−(n−1)Δz/c]. So the wave after insertion of the plate should be
+written
+Eafter plate=E0eiω[t−(n−1)Δz/c−z/c].(31.5)(31.5)Eafter plate=E0eiω[t−(n−1)Δz/c−z/c].
+We can also write this equation as
+Eafter plate=e−iω(n−1)Δz/cE0eiω(t−z/c),(31.6)(31.6)Eafter plate=e−iω(n−1)Δz/cE0eiω(t−z/c),
+which says that the wave after the plate is obtained from the wave
+which could exist without the plate, i.e., from EsEs, by multiplying
+by the factor e−iω(n−1)Δz/ce−iω(n−1)Δz/c. Now we know that
+multiplying an oscillating function like eiωteiωt by a
+factor eiθeiθ just says that we change the phase of the oscillation by
+the angle θθ, which is, of course, what the extra delay in
+passing through the thickness ΔzΔz has done. It has retarded the
+phase by the amount ω(n−1)Δz/cω(n−1)Δz/c (retarded, because of
+the minus sign in the exponent).
+We have said earlier that the plate should add a field EaEa to
+the original field Es=E0eiω(t−z/c)Es=E0eiω(t−z/c), but we have found
+instead that the effect of the plate is to multiply the field
+by a factor which shifts its phase. However, that is really all right
+because we can get the same result by adding a suitable complex
+number. It is particularly easy to find the right number to add in the
+case that ΔzΔz is small, for you will remember that if xx is a
+small number then exex is nearly equal to (1+x)(1+x). We can write,
+therefore,
+e−iω(n−1)Δz/c≈1−iω(n−1)Δz/c.(31.7)(31.7)e−iω(n−1)Δz/c≈1−iω(n−1)Δz/c.
+Using this approximation in Eq. (31.6), we have
+Eafter plate=icE0eiω(t−z/c)Es−iω(n−1)ΔzcE0eiω(t−z/c)Ea.(31.8)(31.8)Eafter plate=icE0eiω(t−z/c)⏟Es−iω(n−1)ΔzcE0eiω(t−z/c)⏟Ea.
+The first term is just the field from the source, and the second term
+must just be equal to EaEa, the field produced to the right of the
+plate by the oscillating charges of the plate—expressed here in
+terms of the index of refraction nn, and depending, of course, on the
+strength of the wave from the source.
+What we have been doing is easily visualized if we look at the complex
+number diagram in Fig. 31–3. We first draw the
+number EsEs (we chose some values for zz and tt so that EsEs comes out
+horizontal, but this is not necessary). The delay due to slowing down
+in the plate would delay the phase of this number, that is, it would
+rotate EsEs through a negative angle. But this is equivalent to
+adding the small vector EaEa at roughly right angles to EsEs. But
+that is just what the factor −i−i means in the second term of
+Eq. (31.8). It says that if EsEs is real, then EaEa is
+negative imaginary or that, in general, EsEs and EaEa make a right
+angle.
+Fig. 31–3.Diagram for the transmitted wave at a particular tt and zz.
+31–2The field due to the material
+We now have to ask: Is the field EaEa obtained in the second term of
+Eq. (31.8) the kind we would expect from oscillating
+charges in the plate? If we can show that it is, we will then have
+calculated what the index nn should be! [Since nn is the only
+nonfundamental number in Eq. (31.8).] We turn now to
+calculating what field EaEa the charges in the material will
+produce. (To help you keep track of the many symbols we have used up
+to now, and will be using in the rest of our calculation, we have put
+them all together in Table 31–1.)
+Table 31–1Symbols used in the calculations
+Es=Es=
+field from the source
+Ea=Ea=
+field produced by charges in the plate
+Δz=Δz=
+thickness of the plate
+z=z=
+perpendicular distance from the plate
+n=n=
+index of refraction
+ω=ω=
+frequency (angular) of the radiation
+N=N=
+number of charges per unit volume in the plate
+η=η=
+number of charges per unit area of the plate
+qe=qe=
+charge on an electron
+m=m=
+mass of an electron
+ω0=ω0=
+resonant frequency of an electron bound in an atom
+If the source SS (of Fig. 31–1) is far off to the left,
+then the field EsEs will have the same phase everywhere on the plate,
+so we can write that in the neighborhood of the plate
+Es=E0eiω(t−z/c).(31.9)(31.9)Es=E0eiω(t−z/c).
+Right at the plate, where z=0z=0, we will have
+Es=E0eiωt (at the plate).(31.10)(31.10)Es=E0eiωt (at the plate).
+Each of the electrons in the atoms of the plate will feel this
+electric field and will be driven up and down (we assume the direction
+of E0E0 is vertical) by the electric force qEqE. To find what motion
+we expect for the electrons, we will assume that the atoms are little
+oscillators, that is, that the electrons are fastened elastically to
+the atoms, which means that if a force is applied to an electron its
+displacement from its normal position will be proportional to the
+force.
+You may think that this is a funny model of an atom if you have heard
+about electrons whirling around in orbits. But that is just an
+oversimplified picture. The correct picture of an atom, which is given
+by the theory of wave mechanics, says that, so far as problems
+involving light are concerned, the electrons behave as though they
+were held by springs. So we shall suppose that the electrons have a
+linear restoring force which, together with their mass mm, makes them
+behave like little oscillators, with a resonant
+frequency ω0ω0. We have already studied such oscillators, and we know that
+the equation of their motion is written this way:
+m(d2xdt2+ω20x)=F,(31.11)(31.11)m(d2xdt2+ω02x)=F,
+where FF is the driving force.
+For our problem, the driving force comes from the electric field of
+the wave from the source, so we should use
+F=qeEs=qeE0eiωt,(31.12)(31.12)F=qeEs=qeE0eiωt,
+where qeqe is the electric charge on the electron and for EsEs we
+use the expression Es=E0eiωtEs=E0eiωt from (31.10). Our
+equation of motion for the electron is then
+m(d2xdt2+ω20x)=qeE0eiωt.(31.13)(31.13)m(d2xdt2+ω02x)=qeE0eiωt.
+We have solved this equation before, and we know that the solution is
+x=x0eiωt,(31.14)(31.14)x=x0eiωt,
+where, by substituting in (31.13), we find that
+x0=qeE0m(ω20−ω2),(31.15)(31.15)x0=qeE0m(ω02−ω2),
+so that
+x=qeE0m(ω20−ω2)eiωt.(31.16)(31.16)x=qeE0m(ω02−ω2)eiωt.
+We have what we needed to know—the motion of the electrons in the
+plate. And it is the same for every electron, except that the mean
+position (the “zero” of the motion) is, of course, different for
+each electron.
+Now we are ready to find the field EaEa that these atoms produce at
+the point PP, because we have already worked out (at the end of
+Chapter 30) what field is produced by a sheet of charges
+that all move together. Referring back to Eq. (30.19), we
+see that the field EaEa at PP is just a negative constant times the
+velocity of the charges retarded in time by the amount z/cz/c.
+Differentiating xx in Eq. (31.16) to get the
+velocity, and sticking in the retardation [or just putting x0x0 from
+(31.15) into (30.18)] yields
+Ea=−ηqe2ϵ0c[iωqeE0m(ω20−ω2)eiω(t−z/c)].(31.17)(31.17)Ea=−ηqe2ϵ0c[iωqeE0m(ω02−ω2)eiω(t−z/c)].
+Just as we expected, the driven motion of the electrons produced an
+extra wave which travels to the right (that is what the
+factor eiω(t−z/c)eiω(t−z/c) says), and the amplitude of this wave is
+proportional to the number of atoms per unit area in the plate (the
+factor ηη) and also proportional to the strength of the source
+field (the factor E0E0). Then there are some factors which depend on
+the atomic properties (qeqe, mm, and ω0ω0), as we should
+expect.
+The most important thing, however, is that this
+formula (31.17) for EaEa looks very much like the expression
+for EaEa that we got in Eq. (31.8) by saying that the
+original wave was delayed in passing through a material with an index of
+refraction nn. The two expressions will, in fact, be identical if
+(n−1)Δz=ηq2e2ϵ0m(ω20−ω2).(31.18)(31.18)(n−1)Δz=ηqe22ϵ0m(ω02−ω2).
+Notice that both sides are proportional to ΔzΔz, since ηη,
+which is the number of atoms per unit area, is equal
+to NΔzNΔz, where NN is the number of atoms per unit volume
+of the plate. Substituting NΔzNΔz for ηη and cancelling the
+ΔzΔz, we get our main result, a formula for the index of
+refraction in terms of the properties of the atoms of the
+material—and of the frequency of the light:
+n=1+Nq2e2ϵ0m(ω20−ω2).(31.19)(31.19)n=1+Nqe22ϵ0m(ω02−ω2).
+This equation gives the “explanation” of the index of refraction
+that we wished to obtain.
+31–3Dispersion
+Notice that in the above process we have obtained something very
+interesting. For we have not only a number for the index of refraction
+which can be computed from the basic atomic quantities, but we have
+also learned how the index of refraction should vary with the
+frequency ωω of the light. This is something we would never
+understand from the simple statement that “light travels slower in a
+transparent material.” We still have the problem, of course, of
+knowing how many atoms per unit volume there are, and what is their
+natural frequency ω0ω0. We do not know this just yet, because it
+is different for every different material, and we cannot get a general
+theory of that now. Formulation of a general theory of the properties
+of different substances—their natural frequencies, and so on—is
+possible only with quantum atomic mechanics. Also, different materials
+have different properties and different indexes, so we cannot expect,
+anyway, to get a general formula for the index which will apply to all
+substances.
+However, we shall discuss the formula we have obtained, in various
+possible circumstances. First of all, for most ordinary gases (for
+instance, for air, most colorless gases, hydrogen, helium, and so on)
+the natural frequencies of the electron oscillators correspond to
+ultraviolet light. These frequencies are higher than the frequencies
+of visible light, that is, ω0ω0 is much larger than ωω of
+visible light, and to a first approximation, we can disregard
+ω2ω2 in comparison with ω20ω02. Then we find that the
+index is nearly constant. So for a gas, the index is nearly
+constant. This is also true for most other transparent substances,
+like glass. If we look at our expression a little more closely,
+however, we notice that as ωω rises, taking a little bit more
+away from the denominator, the index also rises. So nn rises slowly
+with frequency. The index is higher for blue light than for red
+light. That is the reason why a prism bends the light more in the blue
+than in the red.
+The phenomenon that the index depends upon the frequency is called the
+phenomenon of dispersion, because it is the basis of the fact
+that light is “dispersed” by a prism into a spectrum. The equation
+for the index of refraction as a function of frequency is called a
+dispersion equation. So we have obtained a
+dispersion equation. (In the past few years “dispersion equations”
+have been finding a new use in the theory of elementary particles.)
+Our dispersion equation suggests other interesting effects. If we have
+a natural frequency ω0ω0 which lies in the visible region, or if
+we measure the index of refraction of a material like glass in the
+ultraviolet, where ωω gets near ω0ω0, we see that at
+frequencies very close to the natural frequency the index can get
+enormously large, because the denominator can go to zero. Next,
+suppose that ωω is greater than ω0ω0. This would occur,
+for example, if we take a material like glass, say, and shine x-ray
+radiation on it. In fact, since many materials which are opaque to
+visible light, like graphite for instance, are transparent to
+x-rays, we can also talk about the index of refraction of
+carbon for x-rays. All the natural frequencies of the
+carbon atoms would be much lower than the frequency we are using in the
+x-rays, since
+x-ray radiation has a very high
+frequency. The index of refraction is that given by our dispersion
+equation if we set ω0ω0 equal to zero (we neglect ω20ω02 in
+comparison with ω2ω2).
+A similar situation would occur if we beam radiowaves (or light) on a
+gas of free electrons. In the upper atmosphere electrons are liberated
+from their atoms by ultraviolet light from the sun and they sit up
+there as free electrons. For free electrons ω0=0ω0=0 (there is
+no elastic restoring force). Setting ω0=0ω0=0 in our dispersion
+equation yields the correct formula for the index of refraction for
+radiowaves in the stratosphere, where NN is now to represent the
+density of free electrons (number per unit volume) in the
+stratosphere. But let us look again at the equation, if we beam
+x-rays on matter, or radiowaves
+(or any electric waves) on free electrons the
+term (ω20−ω2)(ω02−ω2) becomes negative, and we obtain the
+result that nn is less than one. That means that the effective
+speed of the waves in the substance is faster than cc! Can that
+be correct?
+It is correct. In spite of the fact that it is said that you cannot
+send signals any faster than the speed of light, it is nevertheless
+true that the index of refraction of materials at a particular
+frequency can be either greater or less than 11. This just means that
+the phase shift which is produced by the scattered light can be
+either positive or negative. It can be shown, however, that the speed
+at which you can send a signal is not determined by the index
+at one frequency, but depends on what the index is at many
+frequencies. What the index tells us is the speed at which the
+nodes (or crests) of the wave travel. The node of a wave
+is not a signal by itself. In a perfect wave, which has no modulations
+of any kind, i.e., which is a steady oscillation, you cannot really
+say when it “starts,” so you cannot use it for a timing signal. In
+order to send a signal you have to change the wave somehow,
+make a notch in it, make it a little bit fatter or thinner. That means
+that you have to have more than one frequency in the wave, and it can
+be shown that the speed at which signals travel is not
+dependent upon the index alone, but upon the way that the index
+changes with the frequency. This subject we must also delay (until
+Chapter 48). Then we will calculate for you the actual
+speed of signals through such a piece of glass, and you will
+see that it will not be faster than the speed of light, although the
+nodes, which are mathematical points, do travel faster than the speed
+of light.
+Just to give a slight hint as to how that happens, you will note that
+the real difficulty has to do with the fact that the responses of the
+charges are opposite to the field, i.e., the sign has gotten
+reversed. Thus in our expression for xx (Eq. 31.16) the
+displacement of the charge is in the direction opposite to the driving
+field, because (ω20−ω2)(ω02−ω2) is negative for small
+ω0ω0. The formula says that when the electric field is pulling
+in one direction, the charge is moving in the opposite direction.
+How does the charge happen to be going in the opposite direction? It
+certainly does not start off in the opposite direction when the field
+is first turned on. When the motion first starts there is a transient,
+which settles down after awhile, and only then is the phase of
+the oscillation of the charge opposite to the driving field. And it is
+then that the phase of the transmitted field can appear to be
+advanced with respect to the source wave. It is this
+advance in phase which is meant when we say that the “phase
+velocity” or velocity of the nodes is greater than cc. In
+Fig. 31–4 we give a schematic idea of how the waves might
+look for a case where the wave is suddenly turned on (to make a signal).
+You will see from the diagram that the signal (i.e., the
+start of the wave) is not earlier for the wave which ends
+up with an advance in phase.
+Fig. 31–4.Wave “signals.”
+Let us now look again at our dispersion equation. We should remark
+that our analysis of the refractive index gives a result that is
+somewhat simpler than you would actually find in nature. To be
+completely accurate we must add some refinements. First, we should
+expect that our model of the atomic oscillator should have some
+damping force (otherwise once started it would oscillate forever, and
+we do not expect that to happen). We have worked out before
+(Eq. 23.8) the motion of a damped oscillator and the result
+is that the denominator in Eq. (31.16), and therefore
+in (31.19), is changed from (ω20−ω2)(ω02−ω2)
+to (ω20−ω2+iγω)(ω02−ω2+iγω), where γγ is the damping
+coefficient.
+We need a second modification to take into account the fact that there
+are several resonant frequencies for a particular kind of atom. It is
+easy to fix up our dispersion equation by imagining that there are
+several different kinds of oscillators, but that each oscillator acts
+separately, and so we simply add the contributions of all the
+oscillators. Let us say that there are NkNk electrons per unit of
+volume, whose natural frequency is ωkωk and whose damping factor
+is γkγk. We would then have for our dispersion equation
+n=1+q2e2ϵ0m∑kNkω2k−ω2+iγkω.(31.20)(31.20)n=1+qe22ϵ0m∑kNkωk2−ω2+iγkω.
+We have, finally, a complete expression which describes the index of
+refraction that is observed for many substances.1
+The real part of the index described by this formula varies with frequency roughly like the curve
+shown in Fig. 31–5(a).
+Fig. 31–5.The index of refraction as a function of frequency.
+You will note that so long as ωω is not too close to one of the
+resonant frequencies, the slope of the curve is positive. Such a
+positive slope is called “normal” dispersion (because it is clearly the
+most common occurrence). Very near the resonant frequencies, however,
+there is a small range of ωω’s for which the slope is negative.
+Such a negative slope is often referred to as “anomalous” (meaning
+abnormal) dispersion, because it seemed
+unusual when it was first observed, long before anyone even knew there
+were such things as electrons. From our point of view both slopes are
+quite “normal”!
+31–4Absorption
+Perhaps you have noticed something a little strange about the last
+form (Eq. 31.20) we obtained for our dispersion
+equation. Because of the term iγiγ we put in to take account of
+damping, the index of refraction is now a complex number! What
+does that mean?
+By working out what the real and imaginary
+parts of nn are we could write
+n=n′−in′′,(31.21)(31.21)n=n′−in″,
+where n′n′ and n′′n″ are real numbers. (We use the minus sign in front
+of the in′′in″ because then n′′n″ will turn out to be a positive
+number, as you can show for yourself.)
+We can see what such a complex index means when there is only one resonant frequency by going back to
+Eq. (31.6), which is the equation of the wave after it goes
+through a plate of material with an index nn. If we put our complex nn
+into this equation, and do some rearranging, we get
+Eafter plate=E0e−ωn′′Δz/cAe−iω(n′−1)Δz/cE0eiω(t−z/c)B.(31.22)(31.22)Eafter plate=E0e−ωn″Δz/c⏟Ae−iω(n′−1)Δz/cE0eiω(t−z/c)⏟B.
+The last factors, marked B in Eq. (31.22), are just the
+form we had before, and again describe a wave whose phase has been
+delayed by the angle ω(n′−1)Δz/cω(n′−1)Δz/c in traversing the
+material. The first term (A) is new and is an exponential factor with
+a real exponent, because there were two ii’s that
+cancelled. Also, the exponent is negative, so the factor is a real
+number less than one. It describes a decrease in the magnitude
+of the field and, as we should expect, by an amount which is more the
+larger ΔzΔz is. As the wave goes through the material, it is
+weakened. The material is “absorbing” part of the wave. The wave
+comes out the other side with less energy. We should not be surprised
+at this, because the damping we put in for the oscillators is indeed a
+friction force and must be expected to cause a loss of energy. We see
+that the imaginary part n′′n″ of a complex index of refraction
+represents an absorption (or “attenuation”) of
+the wave. In fact, n′′n″ is sometimes referred to as the “absorption
+index.”
+We may also point out that an imaginary part to the index nn
+corresponds to bending the arrow EaEa in Fig. 31–3
+toward the origin. It is clear why the transmitted field is then
+decreased.
+Normally, for instance as in glass, the absorption of light is very
+small. This is to be expected from our Eq. (31.20),
+because the imaginary part of the denominator, iγkωiγkω, is
+much smaller than the term (ω2k−ω2)(ωk2−ω2). But if the light
+frequency ωω is very close to ωkωk then the resonance
+term (ω2k−ω2)(ωk2−ω2) can become small compared with
+iγkωiγkω and the index becomes almost completely
+imaginary, as shown in Fig. 31–5(b).
+The absorption of the light becomes the dominant effect. It
+is just this effect that gives the dark lines in the spectrum of light
+which we receive from the sun. The light from the solar surface has
+passed through the sun’s atmosphere (as well as the earth’s), and the
+light has been strongly absorbed at the resonant frequencies of the
+atoms in the solar atmosphere.
+The observation of such spectral lines in the sunlight allows us to
+tell the resonant frequencies of the atoms and hence the chemical
+composition of the sun’s atmosphere. The same kind of observations
+tell us about the materials in the stars. From such measurements we
+know that the chemical elements in the sun and in the stars are the
+same as those we find on the earth.
+31–5The energy carried by an electric wave
+We have seen that the imaginary part of the index means absorption. We
+shall now use this knowledge to find out how much energy is carried by
+a light wave. We have given earlier an argument that the energy
+carried by light is proportional to E2¯¯¯¯¯¯E2¯, the time average
+of the square of the electric field in the wave. The decrease in EE
+due to absorption must mean a loss of energy, which would go into some
+friction of the electrons and, we might guess, would end up as heat in
+the material.
+If we consider the light arriving on a unit area, say one square
+centimeter, of our plate in Fig. 31–1, then we can write
+the following energy equation (if we assume that energy is conserved,
+as we do!):
+Energy in per sec=energy out per sec+work done per sec.(31.23)(31.23)Energy in per sec=energy out per sec+work done per sec.
+For the first term we can write αE2s¯¯¯¯¯¯αEs2¯, where
+αα is the as yet unknown constant of proportionality which
+relates the average value of E2E2 to the energy being carried. For
+the second term we must include the part from the radiating atoms of
+the material, so we should use α(Es+Ea)2¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯α(Es+Ea)2¯, or
+(evaluating the square) α(E2s¯¯¯¯¯¯+2EsEa¯¯¯¯¯¯¯¯¯¯¯¯+E2a¯¯¯¯¯¯)α(Es2¯+2EsEa¯+Ea2¯).
+All of our calculations have been made for a thin layer of material
+whose index is not too far from 11, so that EaEa would always be
+much less than EsEs (just to make the calculations easier). In
+keeping with our approximations, we should, therefore, leave out the
+term E2a¯¯¯¯¯¯Ea2¯, because it is much smaller than
+EsEa¯¯¯¯¯¯¯¯¯¯¯¯EsEa¯. You may say: “Then you should leave out
+EsEa¯¯¯¯¯¯¯¯¯¯¯¯EsEa¯ also, because it is much smaller than
+E2s¯¯¯¯¯¯Es2¯.”
+It is true that EsEa¯¯¯¯¯¯¯¯¯¯¯¯EsEa¯ is much
+smaller than E2s¯¯¯¯¯¯Es2¯, but we must keep EsEa¯¯¯¯¯¯¯¯¯¯¯¯EsEa¯
+or our approximation will be the one that would apply if we neglected
+the presence of the material completely!
+One way of checking that our
+calculations are consistent is to see that we always keep terms which
+are proportional to NΔzNΔz, the area density of atoms in the
+material, but we leave out terms which are proportional to (NΔz)2(NΔz)2 or any higher power of NΔzNΔz. Ours is what should be
+called a “low-density approximation.”
+In the same spirit, we might remark that our energy equation has
+neglected the energy in the reflected wave. But that is OK because
+this term, too, is proportional to (NΔz)2(NΔz)2, since the
+amplitude of the reflected wave is proportional to NΔzNΔz.
+For the last term in Eq. (31.23) we wish to compute the
+rate at which the incoming wave is doing work on the electrons. We
+know that work is force times distance, so the rate of doing
+work (also called power) is the force times the velocity. It is really
+F⋅vF⋅v, but we do not need to worry about the dot product
+when the velocity and force are along the same direction as they are
+here (except for a possible minus sign). So for each atom we take
+qeEsv¯¯¯¯¯¯¯¯¯¯¯¯qeEsv¯ for the average rate of doing work. Since there
+are NΔzNΔz atoms in a unit area, the last term in
+Eq. (31.23) should be NΔzqeEsv¯¯¯¯¯¯¯¯NΔzqeEsv¯. Our
+energy equation now looks like
+αE2s¯¯¯¯¯¯=αE2s¯¯¯¯¯¯+2αEsEa¯¯¯¯¯¯¯¯¯¯¯¯+NΔzqeEsv¯¯¯¯¯¯¯¯.(31.24)(31.24)αEs2¯=αEs2¯+2αEsEa¯+NΔzqeEsv¯.
+The E2s¯¯¯¯¯¯Es2¯ terms cancel, and we have
+2αEsEa¯¯¯¯¯¯¯¯¯¯¯¯=−NΔzqeEsv¯¯¯¯¯¯¯¯.(31.25)(31.25)2αEsEa¯=−NΔzqeEsv¯.
+We now go back to Eq. (30.19), which tells us that for
+large zz
+Ea=−NΔzqe2ϵ0cv(ret by z/c)(31.26)(31.26)Ea=−NΔzqe2ϵ0cv(ret by z/c)
+(recalling that η=NΔzη=NΔz). Putting Eq. (31.26)
+into the left-hand side of (31.25), we get
+−2αNΔzqe2ϵ0cEs(at z)⋅v(ret by z/c)¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯.−2αNΔzqe2ϵ0cEs(at z)⋅v(ret by z/c)¯.
+However, Es(at z)Es(at z) is Es(at atoms)Es(at atoms) retarded
+by z/cz/c. Since the average is independent of time, it is the same now as
+retarded by z/cz/c, or is Es(at atoms)⋅v¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯Es(at atoms)⋅v¯, the
+same average that appears on the right-hand side of (31.25).
+The two sides are therefore equal if
+αϵ0c=1,orα=ϵ0c.(31.27)(31.27)αϵ0c=1,orα=ϵ0c.
+We have discovered that if energy is to be conserved, the energy
+carried in an electric wave per unit area and per unit time (or what
+we have called the intensity) must be given by ϵ0cE2¯¯¯¯¯¯ϵ0cE2¯. If we call the intensity S¯¯¯S¯, we have
+S¯¯¯=⎧⎩⎨⎪⎪intensityorenergy/area/time⎫⎭⎬⎪⎪=ϵ0cE2¯¯¯¯¯¯,(31.28)(31.28)S¯={intensityorenergy/area/time}=ϵ0cE2¯,
+where the bar means the time average. We have a nice
+bonus result from our theory of the refractive index!
+31–6Diffraction of light by a screen
+It is now a good time to take up a somewhat different matter which we
+can handle with the machinery of this chapter. In the last chapter we
+said that when you have an opaque screen and the light can come
+through some holes, the distribution of intensity—the diffraction
+pattern—could be obtained by imagining instead that the holes are
+replaced by sources (oscillators) uniformly distributed over the
+hole. In other words, the diffracted wave is the same as though the
+hole were a new source. We have to explain the reason for that,
+because the hole is, of course, just where there are no
+sources, where there are no accelerating charges.
+Let us first ask: “What is an opaque screen?” Suppose we have
+a completely opaque screen between a source SS and an observer
+at PP, as in Fig. 31–6(a). If the screen is “opaque”
+there is no field at PP. Why is there no field there? According to
+the basic principles we should obtain the field at PP as the
+field EsEs of the source delayed, plus the field from all the other charges
+around. But, as we have seen above, the charges in the screen will be
+set in motion by the field EsEs, and these motions generate a new
+field which, if the screen is opaque, must exactly cancel the
+field EsEs on the back side of the screen. You say: “What a miracle
+that it balances exactly!
+Suppose it was not exactly right!”
+If it were not exactly right (remember that this opaque screen has
+some thickness), the field toward the rear part of the screen would
+not be exactly zero. So, not being zero, it would set into motion some
+other charges in the material of the screen, and thus make a little
+more field, trying to get the total balanced out. So if we make the
+screen thick enough, there is no residual field, because there is
+enough opportunity to finally get the thing quieted down. In terms of
+our formulas above we would say that the screen has a large and
+imaginary index, so the wave is absorbed exponentially as it goes
+through. You know, of course, that a thin enough sheet of the most
+opaque material, even gold, is transparent.
+Fig. 31–6.Diffraction by a screen.
+Now let us see what happens with an opaque screen which has holes in
+it, as in Fig. 31–6(b). What do we expect for the field
+at PP? The field at PP can be represented as a sum of two
+parts—the field due to the source SS plus the field due to the
+wall, i.e., due to the motions of the charges in the walls. We might
+expect the motions of the charges in the walls to be complicated, but
+we can find out what fields they produce in a rather simple
+way.
+Suppose that we were to take the same screen, but plug up the holes,
+as indicated in part (c) of the figure. We imagine that the plugs are
+of exactly the same material as the wall. Mind you, the plugs go where
+the holes were in case (b). Now let us calculate the field at PP. The
+field at PP is certainly zero in case (c), but it is also
+equal to the field from the source plus the field due to all the
+motions of the atoms in the walls and in the plugs. We can write the
+following equations:
+Case (b):Case (c):Eat PE′at P=Es+Ewall,=0=Es+E′wall+E′plug,Case (b):Eat P=Es+Ewall,Case (c):Eat P′=0=Es+Ewall′+Eplug′,
+where the primes refer to the case where the plugs are in place, but
+EsEs is, of course, the same in both cases. Now if we subtract the
+two equations, we get
+Eat P=(Ewall−E′wall)−E′plug.Eat P=(Ewall−Ewall′)−Eplug′.
+Now if the holes are not too small (say many wavelengths across), we
+would not expect the presence of the plugs to change the fields which
+arrive at the walls except possibly for a little bit around the edges
+of the holes. Neglecting this small effect, we can set
+Ewall=E′wallEwall=Ewall′ and obtain that
+Eat P=−E′plug.Eat P=−Eplug′.
+We have the result that the field at PP when there are holes
+in a screen (case b) is the same (except for sign) as the field that
+is produced by that part of a complete opaque wall which is
+located where the holes are! (The sign is not too interesting,
+since we are usually interested in intensity which is proportional to
+the square of the field.) It seems like an amazing backwards-forwards
+argument. It is, however, not only true (approximately for not too
+small holes), but useful, and is the justification for the usual
+theory of diffraction.
+The field E′plugEplug′ is computed in any particular case by
+remembering that the motion of the charges everywhere in the
+screen is just that which will cancel out the field EsEs on the back
+of the screen. Once we know these motions, we add the radiation fields
+at PP due just to the charges in the plugs.
+We remark again that this theory of diffraction is only approximate,
+and will be good only if the holes are not too small. For holes which
+are too small the E′plugEplug′ term will be small and then the
+difference between E′wallEwall′ and EwallEwall (which
+difference we have taken to be zero) may be comparable to or larger
+than the small E′plugEplug′ term, and our approximation will no
+longer be valid.
+Actually,
+although in quantum mechanics Eq. (31.20) is still valid,
+its interpretation is somewhat different. In quantum mechanics even an
+atom with one electron, like hydrogen, has several resonant
+frequencies. Therefore NkNk is not really the number of electrons
+having the frequency ωkωk, but is replaced instead by NfkNfk,
+where NN is the number of atoms per unit volume and fkfk (called the
+oscillator strength) is a factor that tells how strongly the atom
+exhibits each of its resonant frequencies ωkωk.
+↩
+Copyright © 1963, 2006, 2013
+by the California Institute of Technology,
+Michael A. Gottlieb and Rudolf Pfeiffer
+31–1The index of refraction31–2The field due to the material31–3Dispersion31–4Absorption31–5The energy carried by an electric wave31–6Diffraction of light by a screen

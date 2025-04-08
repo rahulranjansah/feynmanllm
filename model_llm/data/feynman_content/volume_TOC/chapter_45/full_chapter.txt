@@ -1,0 +1,523 @@
+◄
+▲
+►
+A
+A
+A
+MATHJAX
+LOADING PAGE...
+Dear Reader,
+There are several reasons you might be seeing this page. In order to read the online edition of The Feynman Lectures on Physics, javascript must be supported by your browser and enabled. If you have have visited this website previously it's possible you may have a mixture of incompatible files (.js, .css, and .html) in your browser cache. If you use an ad blocker it may be preventing our pages from downloading necessary resources. So, please try the following: make sure javascript is enabled, clear your browser cache (at least of files from feynmanlectures.caltech.edu), turn off your browser extensions, and open this page:
+https://www.feynmanlectures.caltech.edu/I_01.html
+If it does not open, or only shows you this message again, then please let us know:
+which browser you are using (including version #)
+which operating system you are using (including version #)
+This type of problem is rare, and there's a good chance it can be fixed if we have some clues about the cause. So, if you can, after enabling javascript,
+clearing the cache and disabling extensions, please open your browser's javascript console, load the page above, and if this generates any messages (particularly errors or warnings) on the console, then please make a copy (text or screenshot) of those messages and send them with the above-listed information to the email address given below.
+By sending us information you will be helping not only yourself, but others who may be having similar problems accessing the online edition of The Feynman Lectures on Physics. Your time and consideration are greatly appreciated.
+Best regards,
+Mike Gottlieb
+feynmanlectures@caltech.edu
+Editor, The Feynman Lectures on Physics New Millennium Edition
+play
+stop
+mute
+max volume
+00:00
+1x
+57:50
+×#45 Illustrations of thermodynamics (5/8/62)
+Update Required
+To play the media you will need to either update your browser to a recent version or update your Flash plugin.
+The recording of this lecture is missing from the Caltech Archives.
+45Illustrations of Thermodynamics
+45–1Internal energy
+Thermodynamics is a rather difficult and complex subject
+when we come to apply it, and it is not appropriate for us to go very
+far into the applications in this course. The subject is of very great
+importance, of course, to engineers and chemists, and those who are
+interested in the subject can learn about the applications in physical
+chemistry or in engineering thermodynamics. There are also good equation
+reference books, such as Zemansky’s Heat and Thermodynamics,
+where one can learn more about the subject. In the Encyclopedia
+Britannica, fourteenth edition, one can find excellent articles on
+thermodynamics and thermochemistry, and in the article on chemistry, the
+sections on physical chemistry, vaporization, liquefication of gases,
+and so on.
+The subject of thermodynamics is complicated because there are so many
+different ways of describing the same thing. If we wish to describe
+the behavior of a gas, we can say that the pressure depends on the
+temperature and on the volume, or we can say that the volume depends
+on the temperature and the pressure. Or with respect to the internal
+energy UU, we might say that it depends on the temperature and
+volume, if those are the variables we have chosen—but we might also
+say that it depends on the temperature and the pressure, or the
+pressure and the volume, and so on. In the last chapter we discussed
+another function of temperature and volume, called the entropy SS,
+and we can of course construct as many other functions of these
+variables as we like: U−TSU−TS is a function of temperature and
+volume. So we have a large number of different quantities which can be
+functions of many different combinations of variables.
+To keep the subject simple in this chapter, we shall decide at the
+start to use temperature and volume as the independent
+variables. Chemists use temperature and pressure, because they are
+easier to measure and control in chemical experiments, but we shall
+use temperature and volume throughout this chapter, except in one
+place where we shall see how to make the transformation into the
+chemists’ system of variables.
+We shall first, then, consider only one system of independent
+variables: temperature and volume. Secondly, we shall discuss only two
+dependent functions: the internal energy and the pressure. All the
+other functions can be derived from these, so it is not necessary to
+discuss them. With these limitations, thermodynamics is still a fairly
+difficult subject, but it is not quite so impossible!
+First we shall review some mathematics. If a quantity is a function of
+two variables, the idea of the derivative of the quantity requires a
+little more careful thought than for the case where there is only one
+variable. What do we mean by the derivative of the pressure with
+respect to the temperature? The pressure change accompanying a change
+in the temperature depends partly, of course, on what happens to the
+volume while TT is changing. We must specify the change in VV
+before the concept of a derivative with respect to TT has a precise
+meaning. We might ask, for example, for the rate of change of PP with
+respect to TT if VV is held constant. This ratio is just the
+ordinary derivative that we usually write as dP/dTdP/dT. We customarily
+use a special symbol, ∂P/∂T∂P/∂T, to remind us that PP depends on
+another variable VV as well as on TT, and that this other variable
+is held constant. We shall not only use the symbol ∂∂ to call
+attention to the fact that the other variable is held constant, but we
+shall also write the variable that is held constant as a subscript,
+(∂P/∂T)V(∂P/∂T)V. Since we have only two independent variables, this
+notation is redundant, but it will help us keep our wits about us in
+the thermodynamic jungle of partial derivatives.
+Let us suppose that the function f(x,y)f(x,y) depends on the two
+independent variables xx and yy. By (∂f/∂x)y(∂f/∂x)y we mean simply
+the ordinary derivative, obtained in the usual way, if we treat yy as
+a constant:
+(∂f∂x)y=limitΔx→0f(x+Δx,y)−f(x,y)Δx.(∂f∂x)y=limitΔx→0⁡f(x+Δx,y)−f(x,y)Δx.
+Similarly, we define
+(∂f∂y)x=limitΔy→0f(x,y+Δy)−f(x,y)Δy.(∂f∂y)x=limitΔy→0⁡f(x,y+Δy)−f(x,y)Δy.
+For example, if f(x,y)=x2+yxf(x,y)=x2+yx, then (∂f/∂x)y=2x+y(∂f/∂x)y=2x+y,
+and (∂f/∂y)x=x(∂f/∂y)x=x. We can extend this idea to higher
+derivatives: ∂2f/∂y2∂2f/∂y2 or ∂2f/∂y∂x∂2f/∂y∂x. The latter symbol indicates that we first differentiate
+ff with respect to xx, treating yy as a constant, then
+differentiate the result with respect to yy, treating xx as a
+constant. The actual order of differentiation is immaterial:
+∂2f/∂x∂y=∂2f/∂y∂x∂2f/∂x∂y=∂2f/∂y∂x.
+We will need to compute the change ΔfΔf in f(x,y)f(x,y) when xx
+changes to x+Δxx+Δx and yy changes to y+Δyy+Δy. We
+assume throughout the following that ΔxΔx and ΔyΔy are
+infinitesimally small:
+Δf=+f(x+Δx,y+Δy)=+f(x+Δx,y+Δy)=+f(x,y+Δy)=Δx(∂f∂x)y+Δy(∂f∂y−−−)xf(x,y)f(x,y+Δy)f(x,y)(45.1)Δf=+f(x+Δx,y+Δy)−f(x,y)=+f(x+Δx,y+Δy)−f(x,y+Δy)=+f(x,y+Δy)−f(x,y)(45.1)=Δx(∂f∂x)y+Δy(∂f∂y)x
+The last equation is the fundamental relation that expresses ΔfΔf in terms of ΔxΔx and ΔyΔy.
+As an example of the use of this relation, let us calculate the change
+in the internal energy U(T,V)U(T,V) when the temperature changes from TT
+to T+ΔTT+ΔT and the volume changes from VV to V+ΔVV+ΔV. Using Eq. (45.1), we write
+ΔU=ΔT(∂U∂T)V+ΔV(∂U∂V)T.(45.2)(45.2)ΔU=ΔT(∂U∂T)V+ΔV(∂U∂V)T.
+In our last chapter we found another expression for the change ΔUΔU in the internal energy when a quantity of heat ΔQΔQ was added
+to the gas:
+ΔU=ΔQ−PΔV.(45.3)(45.3)ΔU=ΔQ−PΔV.
+In comparing Eqs. (45.2) and (45.3) one might at
+first be inclined to think that P=−(∂U/∂V)TP=−(∂U/∂V)T, but this is not correct.
+To obtain the correct relation, let us first suppose that we add a quantity of
+heat ΔQΔQ to the gas while keeping the volume constant, so that ΔV=0ΔV=0. With ΔV=0ΔV=0, Eq. (45.3) tells us that ΔU=ΔQΔU=ΔQ, and Eq. (45.2) tells us that ΔU=(∂U/∂T)VΔTΔU=(∂U/∂T)VΔT, so that (∂U/∂T)V=ΔQ/ΔT(∂U/∂T)V=ΔQ/ΔT. The
+ratio ΔQ/ΔTΔQ/ΔT, the amount of heat one must put into a substance in
+order to change its temperature by one degree with the volume held constant, is
+called the specific heat at constant volume and is
+designated by the symbol CVCV. By this argument we have shown that
+(∂U∂T)V=CV.(45.4)(45.4)(∂U∂T)V=CV.
+Now let us again add a quantity of heat ΔQΔQ to the gas, but this
+time we will hold TT constant and allow the volume to change by ΔVΔV. The analysis in this case is more complex, but we can calculate
+ΔUΔU by the argument of Carnot, making use of the
+Carnot cycle we introduced in the last chapter.
+Fig. 45–1.Pressure-volume diagram for a Carnot cycle. The curves marked
+TT and T−ΔTT−ΔT are isothermal lines; the steeper curves are
+adiabatic lines. ΔVΔV is the volume change as heat ΔQΔQ
+is added to the gas at constant temperature TT. ΔPΔP is the
+pressure change at constant volume as the gas temperature is changed
+from TT to T−ΔTT−ΔT.
+The pressure-volume diagram for the Carnot cycle is shown in
+Fig. 45–1. As we have already shown, the total amount of
+work done by the gas in a reversible cycle is ΔQ(ΔT/T)ΔQ(ΔT/T),
+where ΔQΔQ is the amount of heat energy added to the gas as it
+expands isothermally at temperature TT from volume VV to V+ΔVV+ΔV, and T−ΔTT−ΔT is the final temperature reached by the gas as it
+expands adiabatically on the second leg of the cycle. Now we will show
+that this work done is also given by the shaded area in
+Fig. 45–1. In any circumstances, the work done by the gas
+is ∫PdV∫PdV, and is positive when the gas expands and negative when the
+gas is compressed. If we plot PP vs. VV, the variation of PP
+and VV is represented by a curve which gives the value of PP corresponding
+to a particular value of VV. As the volume changes from one value to
+another, the work done by the gas, the integral ∫PdV∫PdV, is the
+area under the curve connecting the initial and final values of VV.
+When we apply this idea to the Carnot cycle, we see that as we go around
+the cycle, paying attention to the sign of the work done by the gas, the
+net work done by the gas is just the shaded area in
+Fig. 45–1.
+Now we want to evaluate the shaded area geometrically. The cycle we
+have used in Fig. 45–1 differs from that used in the
+previous chapter in that we now suppose that ΔTΔT and ΔQΔQ
+are infinitesimally small. We are working between adiabatic lines and
+isothermal lines that are very close together, and the figure
+described by the heavy lines in Fig. 45–1 will approach
+a parallelogram as the increments ΔTΔT and ΔQΔQ approach
+zero. The area of this parallelogram is just ΔVΔPΔVΔP,
+where ΔVΔV is the change in volume as energy ΔQΔQ is added
+to the gas at constant temperature, and ΔPΔP is the change in
+pressure as the temperature changes by ΔTΔT at constant
+volume. One can easily show that the shaded area in
+Fig. 45–1 is given by ΔVΔPΔVΔP by recognizing
+that the shaded area is equal to the area enclosed by the dotted lines
+in Fig. 45–2, which in turn differs from the rectangle
+bounded by ΔPΔP and ΔVΔV only by the addition and
+subtraction of the equal triangular areas in Fig. 45–2.
+Fig. 45–2.Shaded area==area enclosed by dashed lines==area of
+rectangle=ΔPΔV=ΔPΔV.
+Now let us summarize the results of the arguments we have developed so
+far:
+Work done by the gas=shaded area=ΔVΔP=ΔQ(ΔTT)orΔTT⋅⎛⎝heat neededto change Vby ΔV⎞⎠constant T=ΔV⋅⎛⎝change in Pwhen T changesby ΔT⎞⎠constant Vor1ΔV⋅⎛⎝heat neededto change Vby ΔV⎞⎠T=T(∂P∂T)V.⎫⎭⎬⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪⎪(45.5)(45.5)Work done by the gas=shaded area=ΔVΔP=ΔQ(ΔTT)orΔTT⋅(heat neededto change Vby ΔV)constant T=ΔV⋅(change in Pwhen T changesby ΔT)constant Vor1ΔV⋅(heat neededto change Vby ΔV)T=T(∂P∂T)V.}
+Equation (45.5) expresses the essential result of
+Carnot’s argument. The whole of
+thermodynamics can be deduced from Eq. (45.5) and the First
+Law, which is stated in Eq. (45.3).
+Equation (45.5) is essentially the Second Law, although it
+was originally deduced by
+Carnot
+in a slightly different form, since he did not use our
+definition of temperature.
+Now we can proceed to calculate (∂U/∂V)T(∂U/∂V)T. By how much would
+the internal energy UU change if we changed the volume by ΔVΔV?
+First, UU changes because heat is put in, and second, UU changes
+because work is done. The heat put in is
+ΔQ=T(∂P∂T)VΔV,ΔQ=T(∂P∂T)VΔV,
+according to Eq. (45.5), and the work done on the
+substance is −PΔV−PΔV. Therefore the change ΔUΔU in
+internal energy has two pieces:
+ΔU=T(∂P∂T)VΔV−PΔV.(45.6)(45.6)ΔU=T(∂P∂T)VΔV−PΔV.
+Dividing both sides by ΔVΔV, we find for the rate of change
+of UU with VV at constant TT
+(∂U∂V)T=T(∂P∂T)V−P.(45.7)(45.7)(∂U∂V)T=T(∂P∂T)V−P.
+In our thermodynamics, in which TT and VV are the only variables and PP
+and UU are the only functions, Eqs. (45.3)
+and (45.7) are the basic equations from which all the results of the
+subject can be deduced.
+45–2Applications
+Now let us discuss the meaning of Eq. (45.7) and see why it
+answers the questions which we proposed in our last chapter. We
+considered the following problem: in kinetic theory it is obvious that
+an increase in temperature leads to an increase in pressure, because of
+the bombardments of the atoms on a piston. For the same physical reason,
+when we let the piston move back, heat is taken out of the gas and, in
+order to keep the temperature constant, heat will have to be put back
+in. The gas cools when it expands, and the pressure rises when it is
+heated. There must be some connection between these two phenomena, and
+this connection is given explicitly in Eq. (45.7). If we
+hold the volume fixed and increase the temperature, the pressure rises
+at a rate (∂P/∂T)V(∂P/∂T)V. Related to that fact is this: if we
+increase the volume, the gas will cool unless we pour some heat in to
+maintain the temperature constant, and (∂U/∂V)T(∂U/∂V)T tells us the
+amount of heat needed to maintain the temperature.
+Equation (45.7) expresses the fundamental interrelationship
+between these two effects. That is what we promised we would find when
+we came to the laws of thermodynamics. Without knowing the internal
+mechanism of the gas, and knowing only that we cannot make perpetual
+motion of the second type, we can deduce the relationship between the
+amount of heat needed to maintain a constant temperature when the gas
+expands, and the pressure change when the gas is heated at constant
+volume!
+Now that we have the result we wanted for a gas, let us consider the
+rubber band. When we stretch a rubber band, we find that its
+temperature rises, and when we heat a rubber band, we find that it
+pulls itself in. What is the equation that gives the same relation for
+a rubber band as Eq. (45.3) gives for gas? For a rubber
+band the situation will be something like this: when heat ΔQΔQ
+is put in, the internal energy is changed by ΔUΔU and some work
+is done. The only difference will be that the work done by the rubber
+band is −FΔL−FΔL instead of PΔVPΔV, where FF is the
+force on the band, and LL is the length of the band. The force FF is
+a function of temperature and of length of the band. Replacing
+PΔVPΔV in Eq. (45.3) by −FΔL−FΔL, we get
+ΔU=ΔQ+FΔL.(45.8)(45.8)ΔU=ΔQ+FΔL.
+Comparing Eqs. (45.3) and (45.8), we see that the
+rubber band equation is obtained by a mere substitution of one letter for
+another. Furthermore, if we substitute LL for VV, and −F−F for PP, all of our
+discussion of the Carnot cycle applies to the rubber band. We can
+immediately deduce, for instance, that the heat ΔQΔQ needed to change the
+length by ΔLΔL is given by the analog to Eq. (45.5): ΔQ=−T(∂F/∂T)LΔLΔQ=−T(∂F/∂T)LΔL. This equation tells us that if we keep the
+length of a rubber band fixed and heat the band, we can calculate how much the
+force will increase in terms of the heat needed to keep the temperature constant
+when the band is relaxed a little bit. So we see that the same equation applies
+to both gas and a rubber band. In fact, if one can write ΔU=ΔQ+AΔBΔU=ΔQ+AΔB, where AA and BB represent different quantities, force and
+length, pressure and volume, etc., one can apply the results obtained for a gas
+by substituting AA and BB for −P−P and VV. For example, consider the electric
+potential difference, or “voltage,” EE in a battery and the charge ΔZΔZ
+that moves through the battery. We know that the work done in a reversible
+electric cell, like a storage battery, is EΔZEΔZ. (Since we include no
+PΔVPΔV term in the work, we require that our battery maintain a constant
+volume.) Let us see what thermodynamics can tell us about the performance of a
+battery. If we substitute EE for PP and ZZ for VV in Eq. (45.6),
+we obtain
+ΔUΔZ=T(∂E∂T)Z−E.(45.9)(45.9)ΔUΔZ=T(∂E∂T)Z−E.
+Equation (45.9) says that the internal energy UU is
+changed when a charge ΔZΔZ moves through the cell. Why
+is ΔU/ΔZΔU/ΔZ not simply the voltage EE of the battery? (The
+answer is that a real battery gets warm when charge moves through the
+cell. The internal energy of the battery is changed, first, because
+the battery did some work on the outside circuit, and second, because
+the battery is heated.) The remarkable thing is that the second part
+can again be expressed in terms of the way in which the battery
+voltage changes with temperature. Incidentally, when the charge moves
+through the cell, chemical reactions occur, and Eq. (45.9)
+suggests a nifty way of measuring the amount of energy required to
+produce a chemical reaction. All we need to do is construct a cell that
+works on the reaction, measure the voltage, and measure how much the
+voltage changes with temperature when we draw no charge from the
+battery!
+Now we have assumed that the volume of the battery can be maintained
+constant, since we have omitted the PΔVPΔV term when we set the
+work done by the battery equal to EΔZEΔZ. It turns out that it
+is technically quite difficult to keep the volume constant. It is much
+easier to keep the cell at constant atmospheric pressure. For that
+reason, the chemists do not like any of the equations we have written
+above: they prefer equations which describe performance under constant
+pressure. We chose at the beginning of this chapter to use VV
+and TT as independent variables. The chemists prefer PP and TT, and
+we will now consider how the results we have obtained so far can be
+transformed into the chemists’ system of variables. Remember that in
+the following treatment confusion can easily set in because we are
+shifting gears from TT and VV to TT and PP.
+We started in Eq. (45.3) with ΔU=ΔQ−PΔVΔU=ΔQ−PΔV; PΔVPΔV may be replaced by EΔZEΔZ
+or AΔBAΔB. If we could somehow replace the last term, PΔVPΔV, by VΔPVΔP, then we would have interchanged VV and PP, and
+the chemists would be happy. Well, a clever man noticed that the
+differential of the product PVPV is d(PV)=PdV+VdPd(PV)=PdV+VdP, and if he
+added this equality to Eq. (45.3), he obtained
+Δ(PV)ΔUΔ(U+PV)=PΔV=ΔQ=ΔQ+VΔP−PΔV+VΔPΔ(PV)=PΔV+VΔPΔU=ΔQ−PΔVΔ(U+PV)=ΔQ+VΔP
+In order that the result look like Eq. (45.3), we define
+U+PVU+PV to be something new, called the
+enthalpy, HH, and we write ΔH=ΔQ+VΔPΔH=ΔQ+VΔP.
+Now we are ready to transform our results into chemists’ language with
+the following rules: U→HU→H, P→−VP→−V, V→PV→P. For example, the
+fundamental relationship that chemists would use instead of
+Eq. (45.7) is
+(∂H∂P)T=−T(∂V∂T)P+V.(∂H∂P)T=−T(∂V∂T)P+V.
+It should now be clear how one transforms to the chemists’ variables
+TT and PP. We now go back to our original variables: for the
+remainder of this chapter, TT and VV are the independent variables.
+Now let us apply the results we have obtained to a number of physical
+situations. Consider first the ideal gas. From kinetic theory we know
+that the internal energy of a gas depends only on the motion of the
+molecules and the number of molecules. The internal energy depends
+on TT, but not on VV. If we change VV, but keep TT constant, UU is
+not changed. Therefore (∂U/∂V)T=0(∂U/∂V)T=0, and Eq. (45.7)
+tells us that for an ideal gas
+T(∂P∂T)V−P=0.(45.10)(45.10)T(∂P∂T)V−P=0.
+Equation (45.10) is a differential equation that can tell
+us something about PP. We take account of the partial derivatives in
+the following way: Since the partial derivative is at constant VV, we
+will replace the partial derivative by an ordinary derivative and
+write explicitly, to remind us, “constant VV.”
+Equation (45.10) then becomes
+TΔPΔT−P=0;const V,(45.11)(45.11)TΔPΔT−P=0;const V,
+which we can integrate to get
+lnPP=lnT+const;=const×T;const V,const V.(45.12)ln⁡P=ln⁡T+const;const V,(45.12)P=const×T;const V.
+We know that for an ideal gas the pressure per mole is equal to
+P=RTV,(45.13)(45.13)P=RTV,
+which is consistent with (45.12), since VV and RR are
+constants. Why did we bother to go through this calculation if we
+already knew the results? Because we have been using two
+independent definitions of temperature! At one stage we assumed that
+the kinetic energy of the molecules was proportional to the
+temperature, an assumption that defines one scale of temperature which
+we will call the ideal gas scale. The TT in Eq. (45.13)
+is based on the gas scale. We also call temperatures measured on the
+gas scale kinetic temperatures. Later, we defined the
+temperature in a second way which was completely independent of any
+substance. From arguments based on the Second Law we defined what we
+might call the “grand thermodynamic absolute temperature” TT,
+the TT that appears in Eq. (45.12). What we proved here is
+that the pressure of an ideal gas (defined as one for which the
+internal energy does not depend on the volume) is proportional to the
+grand thermodynamic absolute temperature. We also know that the
+pressure is proportional to the temperature measured on the gas
+scale. Therefore we can deduce that the kinetic temperature is
+proportional to the “grand thermodynamic absolute temperature.” That
+means, of course, that if we were sensible we could make two scales
+agree. In this instance, at least, the two scales have been
+chosen so that they coincide; the proportionality constant has been
+chosen to be 11. Most of the time man chooses trouble for himself,
+but in this case he made them equal!
+45–3The Clausius-Clapeyron equation
+The vaporization of a liquid is another application of the results we
+have derived. Suppose we have some liquid in a cylinder, such that we
+can compress it by pushing on the piston, and we ask ourselves, “If
+we keep the temperature constant, how does the pressure vary with
+volume?” In other words, we want to draw an isothermal line on the
+PP-VV diagram. The substance in the cylinder is not the ideal gas
+that we considered earlier; now it may be in the liquid or the vapor
+phase, or both may be present. If we apply sufficient pressure, the
+substance will condense to a liquid. Now if we squeeze still harder,
+the volume changes very little, and our isothermal line rises rapidly
+with decreasing volume, as shown at the left in Fig. 45–3.
+Fig. 45–3.Isothermal lines for a condensable vapor
+compressed in a cylinder. At the left, the substance is in the liquid phase.
+At the right, the substance is vaporized. In the center, both liquid and
+vapor are present in the cylinder.
+If we increase the volume by pulling the piston out, the pressure
+drops until we reach the point at which the liquid starts to boil, and
+then vapor starts to form. If we pull the piston out farther, all that
+happens is that more liquid vaporizes. When there is part liquid and
+part vapor in the cylinder, the two phases are in equilibrium—liquid
+is evaporating and vapor is condensing at the same rate. If we make
+more room for the vapor, more vapor is needed to maintain the
+pressure, so a little more liquid evaporates, but the pressure remains
+constant. On the flat part of the curve in Fig. 45–3 the
+pressure does not change, and the value of the pressure here is called
+the vapor pressure at temperature TT. As we continue to
+increase the volume, there comes a time when there is no more liquid
+to evaporate. At this juncture, if we expand the volume further, the
+pressure will fall as for an ordinary gas, as shown at the right of
+the PP-VV diagram. The lower curve in Fig. 45–3 is the
+isothermal line at a slightly lower temperature T−ΔTT−ΔT. The
+pressure in the liquid phase is slightly reduced because liquid
+expands with an increase in temperature (for most substances, but not
+for water near the freezing point) and, of course, the vapor pressure
+is lower at the lower temperature.
+Fig. 45–4.Pressure-volume diagram for a Carnot cycle with a condensable
+vapor in the cylinder. At the left, the substance is in the liquid
+state. A quantity of heat LL is added at temperature TT to
+vaporize the liquid. The vapor expands adiabatically as TT changes
+to T−ΔTT−ΔT.
+We will now make a cycle out of the two isothermal lines by connecting
+them (say by adiabatic lines) at both ends of the upper flat section, as
+shown in Fig. 45–4. We are going to use the argument of
+Carnot, which tells us that the
+heat added to the substance in changing it from a liquid to a vapor is
+related to the work done by the substance as it goes around the cycle.
+Let us call LL the heat needed to vaporize the substance in the
+cylinder. As in the argument immediately preceding
+Eq. (45.5), we know that L(ΔT/T)=L(ΔT/T)=work done by the
+substance. As before, the work done by the substance is the shaded area,
+which is approximately ΔP(VG−VL)ΔP(VG−VL), where ΔPΔP is the
+difference in vapor pressure at the two temperatures TT and T−ΔTT−ΔT, VGVG is the volume of the gas, and VLVL is the volume of the
+liquid, both volumes measured at the vapor pressure at temperature TT.
+Setting these two expressions for the area equal, we get LΔT/T=ΔP(VG−VL)LΔT/T=ΔP(VG−VL), or
+LT(VG−VL)=(∂Pvap/∂T).(45.14)(45.14)LT(VG−VL)=(∂Pvap/∂T).
+Equation (45.14) gives the relationship between the rate of
+change of vapor pressure with temperature and the amount of heat
+required to evaporate the liquid. This relationship was deduced by
+Carnot, but it is called the
+Clausius-Clapeyron equation.
+Now let us compare Eq. (45.14) with the results deduced
+from kinetic theory. Usually VGVG is very much larger than VLVL. So
+VG−VL≈VG=RT/PVG−VL≈VG=RT/P per mole. If we further assume that LL
+is a constant, independent of temperature—not a very good
+approximation—then we would have ∂P/∂T=L/(RT2/P)∂P/∂T=L/(RT2/P). The
+solution of this differential equation is
+P=conste−L/RT.(45.15)(45.15)P=conste−L/RT.
+Let us compare this with the pressure variation with temperature that
+we deduced earlier from kinetic theory. Kinetic theory indicated the
+possibility, at least roughly, that the number of molecules per unit volume of vapor
+above a liquid would be
+n=(1Va)e−(UG−UL)/RT,(45.16)(45.16)n=(1Va)e−(UG−UL)/RT,
+where UG−ULUG−UL is the internal energy per mole in the gas minus the
+internal energy per mole in the liquid, i.e., the energy needed to
+vaporize a mole of liquid. Equation (45.15) from
+thermodynamics and Eq. (45.16) from kinetic theory are very
+closely related because the pressure is nkTnkT, but they are not exactly
+the same. However, they will turn out to be exactly the same if we
+assume UG−UL=constUG−UL=const, instead of L=constL=const. If we
+assume UG−UL=constUG−UL=const, independent of temperature, then the
+argument leading to Eq. (45.15) will produce
+Eq. (45.16). Since the pressure is constant while the volume
+is changing, the change in internal energy UG−ULUG−UL is equal to the
+heat LL put in minus the work done P(VG−VL)P(VG−VL),
+so L=(UG+PVG)−(UL+PVL)L=(UG+PVG)−(UL+PVL).
+This comparison shows the advantages and disadvantages of thermodynamics over
+kinetic theory: First of all, Eq. (45.14) obtained by thermodynamics
+is exact, while Eq. (45.16) can only be approximated, for instance,
+if UU is nearly constant, and if the model is right. Second, we may not
+understand correctly how the gas goes into the liquid; nevertheless,
+Eq. (45.14) is right, while (45.16) is only approximate.
+Third, although our treatment applies to a gas condensing into a liquid, the
+argument is true for any other change of state. For instance, the
+solid-to-liquid transition has the same kind of curve as that shown in
+Figs. 45–3 and 45–4. Introducing the latent heat
+for melting, MM/mole, the formula analogous to Eq. (45.14) then
+is (∂Pmelt/∂T)V=M/[T(Vliq−Vsolid)](∂Pmelt/∂T)V=M/[T(Vliq−Vsolid)].
+Although we may not understand the kinetic theory of the melting process, we
+nevertheless have a correct equation. However, when we can understand the
+kinetic theory, we have another advantage. Equation (45.14) is only a
+differential relationship, and we have no way of obtaining the constants of
+integration. In the kinetic theory we can obtain the constants also if we have a
+good model that describes the phenomenon completely. So there are advantages and
+disadvantages to each. When knowledge is weak and the situation is complicated,
+thermodynamic relations are really the most powerful. When the situation is very
+simple and a theoretical analysis can be made, then it is better to try to get
+more information from theoretical analysis.
+One more example: blackbody radiation. We have discussed a box
+containing radiation and nothing else. We have talked about the
+equilibrium between the oscillator and the radiation. We also found
+that the photons hitting the wall of the box would exert the
+pressure PP, and we found PV=U/3PV=U/3, where UU is the total energy of all the
+photons and VV is the volume of the box. If we substitute U=3PVU=3PV
+in the basic Eq. (45.7), we find1
+(∂U∂V)T=3P=T(∂P∂T)V−P.(45.17)(45.17)(∂U∂V)T=3P=T(∂P∂T)V−P.
+Since the volume of our box is constant, we can replace
+(∂P/∂T)V(∂P/∂T)V by dP/dTdP/dT to obtain an ordinary differential equation
+we can integrate: lnP=4lnT+constln⁡P=4ln⁡T+const, or P=const×T4P=const×T4. The pressure of radiation varies as the fourth
+power of the temperature, and the total energy density of the radiation,
+U/V=3PU/V=3P, also varies as T4T4. It is usual to write U/V=(4σ/c)T4U/V=(4σ/c)T4, where cc is the speed of light and σσ is called
+the Stefan-Boltzmann constant.
+It is not possible to get σσ from thermodynamics alone. Here is a
+good example of its power, and its limitations. To know that U/VU/V goes
+as T4T4 is a great deal, but to know how big U/VU/V actually is at any
+temperature requires that we go into the kind of detail that only a
+complete theory can supply. For blackbody radiation we have such a
+theory and we can derive an expression for the constant σσ in the
+following manner.
+Let I(ω)dωI(ω)dω be the intensity distribution, the energy
+flow through 11 m² in one second with frequency between ωω
+and ω+dωω+dω. The energy density
+distribution==energy/volume=I(ω)dω/c=I(ω)dω/c is
+UV=total energy density=∫∞ω=0energy density between ω and ω+dω=∫∞0I(ω)dωc.UV=total energy density=∫ω=0∞energy density between ω and ω+dω=∫0∞I(ω)dωc.
+From our earlier discussions, we know that
+I(ω)=ℏω3π2c2(eℏω/kT−1).I(ω)=ℏω3π2c2(eℏω/kT−1).
+Substituting this expression for I(ω)I(ω) in our equation for U/VU/V, we get
+UV=1π2c3∫∞0ℏω3dωeℏω/kT−1.UV=1π2c3∫0∞ℏω3dωeℏω/kT−1.
+If we substitute x=ℏω/kTx=ℏω/kT, the expression becomes
+UV=(kT)4ℏ3π2c3∫∞0x3dxex−1.UV=(kT)4ℏ3π2c3∫0∞x3dxex−1.
+This integral is just some number that we can get, approximately, by
+drawing a curve and taking the area by counting squares. It is
+roughly 6.56.5. The mathematicians among us can show that the integral is
+exactly π4/15π4/15.2
+Comparing this expression with U/V=(4σ/c)T4U/V=(4σ/c)T4, we find
+σ=k4π260ℏ3c2=5.67×10−8watts(meter)2(degree)4.σ=k4π260ℏ3c2=5.67×10−8watts(meter)2(degree)4.
+If we make a small hole in our box, how much energy will flow per
+second through the hole of unit area? To go from energy density to
+energy flow, we multiply the energy density U/VU/V by cc. We also
+multiply by 1414, which arises as follows: first, a factor
+of 1212, because only the energy which is flowing out
+escapes; and second, another factor 1212, because energy
+which approaches the hole at an angle to the normal is less effective
+in getting through the hole by a cosine factor. The average value of
+the cosine factor is 1212. It is clear now why we write U/V=(4σ/c)T4U/V=(4σ/c)T4: so that we can ultimately say that the flux from a
+small hole is σT4σT4 per unit area.
+In this case
+(∂P/∂V)T=0(∂P/∂V)T=0, because in order to keep the oscillator in
+equilibrium at a given temperature, the radiation in the neighborhood of
+the oscillator has to be the same, regardless of the volume of the box.
+The total quantity of photons inside the box must therefore be
+proportional to its volume, so the internal energy per unit volume, and
+thus the pressure, depends only on the temperature.
+↩
+Since (ex−1)−1=e−x+e−2x+⋯(ex−1)−1=e−x+e−2x+⋯, the integral is
+∑n=1∞∫∞0e−nxx3dx.∑n=1∞∫0∞e−nxx3dx.
+But ∫∞0e−nxdx=1/n∫0∞e−nxdx=1/n, and differentiating with
+respect to nn three times gives ∫∞0x3e−nxdx=6/n4∫0∞x3e−nxdx=6/n4, so the integral is 6(1+116+181+⋯)6(1+116+181+⋯) and a good estimate comes from adding the first few terms. In
+Chapter 50 we will find a way to show that the sum of the
+reciprocal fourth powers of the integers is, in fact, π4/90π4/90.
+↩
+Copyright © 1963, 2006, 2013
+by the California Institute of Technology,
+Michael A. Gottlieb and Rudolf Pfeiffer
+45–1Internal energy45–2Applications45–3The Clausius-Clapeyron equation

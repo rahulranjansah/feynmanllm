@@ -1,0 +1,474 @@
+◄
+▲
+►
+A
+A
+A
+MATHJAX
+LOADING PAGE...
+Dear Reader,
+There are several reasons you might be seeing this page. In order to read the online edition of The Feynman Lectures on Physics, javascript must be supported by your browser and enabled. If you have have visited this website previously it's possible you may have a mixture of incompatible files (.js, .css, and .html) in your browser cache. If you use an ad blocker it may be preventing our pages from downloading necessary resources. So, please try the following: make sure javascript is enabled, clear your browser cache (at least of files from feynmanlectures.caltech.edu), turn off your browser extensions, and open this page:
+https://www.feynmanlectures.caltech.edu/I_01.html
+If it does not open, or only shows you this message again, then please let us know:
+which browser you are using (including version #)
+which operating system you are using (including version #)
+This type of problem is rare, and there's a good chance it can be fixed if we have some clues about the cause. So, if you can, after enabling javascript,
+clearing the cache and disabling extensions, please open your browser's javascript console, load the page above, and if this generates any messages (particularly errors or warnings) on the console, then please make a copy (text or screenshot) of those messages and send them with the above-listed information to the email address given below.
+By sending us information you will be helping not only yourself, but others who may be having similar problems accessing the online edition of The Feynman Lectures on Physics. Your time and consideration are greatly appreciated.
+Best regards,
+Mike Gottlieb
+feynmanlectures@caltech.edu
+Editor, The Feynman Lectures on Physics New Millennium Edition
+play
+stop
+mute
+max volume
+00:00
+1x
+61:00
+×#47 Sound. The wave equation (5/15/62)
+Update Required
+To play the media you will need to either update your browser to a recent version or update your Flash plugin.
+The recording of this lecture is missing from the Caltech Archives.
+47Sound. The wave equation
+47–1Waves
+In this chapter we shall discuss the phenomenon of waves. This
+is a phenomenon which appears in many contexts throughout physics, and
+therefore our attention should be concentrated on it not only because
+of the particular example considered here, which is sound, but also
+because of the much wider application of the ideas in all branches of
+physics.
+It was pointed out when we studied the harmonic oscillator that there
+are not only mechanical examples of oscillating systems but electrical
+ones as well. Waves are related to oscillating systems, except that
+wave oscillations appear not only as time-oscillations at one place,
+but propagate in space as well.
+We have really already studied waves. When we studied light, in
+learning about the properties of waves in that subject, we paid
+particular attention to the interference in space of waves from
+several sources at different locations and all at the same
+frequency. There are two important wave phenomena that we have not yet
+discussed which occur in light, i.e., electromagnetic waves, as well
+as in any other form of waves. The first of these is the phenomenon of
+interference in time rather than interference in space. If we
+have two sources of sound which have slightly different frequencies
+and if we listen to both at the same time, then sometimes the waves
+come with the crests together and sometimes with the crest and trough
+together (see Fig. 47–1). The rising and falling of the
+sound that results is the phenomenon of beats or, in other
+words, of interference in time. The second phenomenon involves the
+wave patterns which result when the waves are confined within a given
+volume and reflect back and forth from walls.
+Fig. 47–1.Interference in time of two sound sources with slightly
+different frequencies, resulting in beats.
+These effects could have been discussed, of course, for the case of
+electromagnetic waves. The reason for not having done this is that by
+using one example we would not generate the feeling that we are
+actually learning about many different subjects at the same time. In
+order to emphasize the general applicability of waves beyond
+electrodynamics, we consider here a different example, in particular
+sound waves.
+Other examples of waves are water waves consisting of long swells that
+we see coming in to the shore, or the smaller water waves consisting
+of surface tension ripples. As another example, there are two kinds of
+elastic waves in solids; a compressional (or longitudinal) wave in
+which the particles of the solid oscillate back and forth along the
+direction of propagation of the wave (sound waves in a gas are of this
+kind), and a transverse wave in which the particles of the solid
+oscillate in a direction perpendicular to the direction of
+propagation. Earthquake waves contain elastic waves of both kinds,
+generated by a motion at some place in the earth’s crust.
+Still another example of waves is found in modern physics. These are
+waves which give the probability amplitude of finding a particle at a
+given place—the “matter waves” which we have already
+discussed. Their frequency is proportional to the energy and their
+wave number is proportional to the momentum. They are the waves of
+quantum mechanics.
+In this chapter we shall consider only waves for which the velocity is
+independent of the wavelength. This is, for example, the case for
+light in a vacuum. The speed of light is then the same for radiowaves,
+blue light, green light, or for any other wavelength. Because of this
+behavior, when we began to describe the wave phenomenon we did not
+notice at first that we had wave propagation. Instead, we said that if
+a charge is moved at one place, the electric field at a distance xx
+was proportional to the acceleration, not at the time tt, but at the
+earlier time t−x/ct−x/c. Therefore if we were to picture the electric
+field in space at some instant of time, as in Fig. 47–2,
+the electric field at a time tt later would have moved the
+distance ctct, as indicated in the figure. Mathematically, we can say that in
+the one-dimensional example we are taking, the electric field is a
+function of x−ctx−ct. We see that at t=0t=0, it is some function
+of xx. If we consider a later time, we need only to increase xx
+somewhat to get the same value of the electric field. For example, if
+the maximum field occurred at x=3x=3 at time zero, then to find the
+new position of the maximum field at time tt we need
+x−ct=3orx=3+ct.x−ct=3orx=3+ct.
+We see that this kind of function represents the propagation of a
+wave.
+Fig. 47–2.The solid curve shows what the electric field might be like
+at some instant of time and the dashed curve shows what the electric
+field is at a time tt later.
+Such a function, f(x−ct)f(x−ct), then represents a wave. We may summarize
+this description of a wave by saying simply that
+f(x−ct)=f(x+Δx−c(t+Δt)),f(x−ct)=f(x+Δx−c(t+Δt)),
+when Δx=cΔtΔx=cΔt. There is, of course, another
+possibility, i.e., that instead of a source to the left as indicated
+in Fig. 47–2, we have a source on the right, so that the
+wave propagates toward negative xx. Then the wave would be described
+by g(x+ct)g(x+ct).
+There is the additional possibility that more than one wave exists in
+space at the same time, and so the electric field is the sum of the
+two fields, each one propagating independently. This behavior of
+electric fields may be described by saying that if f1(x−ct)f1(x−ct) is a
+wave, and if f2(x−ct)f2(x−ct) is another wave, then their sum is also a
+wave. This is called the principle of superposition. The same
+principle is valid in sound.
+We are familiar with the fact that if a sound is produced, we hear
+with complete fidelity the same sequence of sounds as was
+generated. If we had high frequencies travelling faster than low
+frequencies, a short, sharp noise would be heard as a succession of
+musical sounds. Similarly, if red light travelled faster than blue
+light, a flash of white light would be seen first as red, then as
+white, and finally as blue. We are familiar with the fact that this is
+not the case. Both sound and light travel with a speed in air which is
+very nearly independent of frequency. Examples of wave propagation for
+which this independence is not true will be considered in
+Chapter 48.
+In the case of light (electromagnetic waves) we gave a rule which
+determined the electric field at a point as a result of the
+acceleration of a charge. One might expect now that what we should do
+is give a rule whereby some quality of the air, say the pressure, is
+determined at a given distance from a source in terms of the source
+motion, delayed by the travel time of the sound. In the case of light
+this procedure was acceptable because all that we knew was that a
+charge at one place exerts a force on another charge at another
+place. The details of propagation from the one place to the other were
+not absolutely essential. In the case of sound, however, we know that
+it propagates through the air between the source and the hearer, and
+it is certainly a natural question to ask what, at any given moment,
+the pressure of the air is. We would like, in addition, to know
+exactly how the air moves. In the case of electricity we could accept
+a rule, since we could say that we do not yet know the laws of
+electricity, but we cannot make the same remark with regard to
+sound. We would not be satisfied with a rule stating how the sound
+pressure moves through the air, because the process ought to be
+understandable as a consequence of the laws of mechanics. In short,
+sound is a branch of mechanics, and so it is to be understood in terms
+of Newton’s laws. The propagation of sound from one place to another
+is merely a consequence of mechanics and the properties of gases, if
+it propagates in a gas, or of the properties of liquids or solids, if
+it propagates through such mediums. Later we shall derive the
+properties of light and its wave propagation in a similar way from the
+laws of electrodynamics.
+47–2The propagation of sound
+We shall give a derivation of the properties of the propagation of
+sound between the source and the receiver as a consequence of
+Newton’s laws, and we shall not consider the interaction with the
+source and the receiver. Ordinarily we emphasize a result rather than
+a particular derivation of it. In this chapter we take the opposite
+view. The point here, in a certain sense, is the derivation
+itself. This problem of explaining new phenomena in terms of old ones,
+when we know the laws of the old ones, is perhaps the greatest art of
+mathematical physics. The mathematical physicist has two problems: one
+is to find solutions, given the equations, and the other is to find
+the equations which describe a new phenomenon. The derivation here is
+an example of the second kind of problem.
+We shall take the simplest example here—the propagation of sound in
+one dimension. To carry out such a derivation it is necessary first to
+have some kind of understanding of what is going on. Fundamentally
+what is involved is that if an object is moved at one place in the
+air, we observe that there is a disturbance which travels through the
+air. If we ask what kind of disturbance, we would say that we would
+expect that the motion of the object produces a change of pressure. Of
+course, if the object is moved gently, the air merely flows around it,
+but what we are concerned with is a rapid motion, so that there is not
+sufficient time for such a flow. Then, with the motion, the air is
+compressed and a change of pressure is produced which pushes on
+additional air. This air is in turn compressed, which leads again to
+an extra pressure, and a wave is propagated.
+We now want to formulate such a process. We have to decide what
+variables we need. In our particular problem we would need to know how
+much the air has moved, so that the air displacement in the
+sound wave is certainly one relevant variable. In addition we would
+like to describe how the air density changes as it is
+displaced. The air pressure also changes, so this is another
+variable of interest. Then, of course, the air has a velocity,
+so that we shall have to describe the velocity of the air
+particles. The air particles also have accelerations—but as
+we list these many variables we soon realize that the velocity and
+acceleration would be known if we knew how the air displacement
+varies with time.
+As we said, we shall consider the wave in one dimension. We can do
+this if we are sufficiently far from the source that what we call the
+wavefronts are very nearly planes. We thus make our argument
+simpler by taking the least complicated example. We shall then be able
+to say that the displacement, χχ, depends only on xx and tt, and
+not on yy and zz. Therefore the description of the air is given
+by χ(x,t)χ(x,t).
+Is this description complete? It would appear to be far from complete,
+for we know none of the details of how the air molecules are
+moving. They are moving in all directions, and this state of affairs
+is certainly not described by means of this function χ(x,t)χ(x,t). From
+the point of view of kinetic theory, if we have a higher density of
+molecules at one place and a lower density adjacent to that place, the
+molecules would move away from the region of higher density to the one
+of lower density, so as to equalize this difference. Apparently we
+would not get an oscillation and there would be no sound. What is
+necessary to get the sound wave is this situation: as the molecules
+rush out of the region of higher density and higher pressure, they
+give momentum to the molecules in the adjacent region of lower
+density. For sound to be generated, the regions over which the density
+and pressure change must be much larger than the distance the
+molecules travel before colliding with other molecules. This distance
+is the mean free path and the distance between pressure crests and
+troughs must be much larger than this. Otherwise the molecules would
+move freely from the crest to the trough and immediately smear out the
+wave.
+It is clear that we are going to describe the gas behavior on a scale
+large compared with the mean free path, and so the properties of the
+gas will not be described in terms of the individual molecules. The
+displacement, for example, will be the displacement of the center of
+mass of a small element of the gas, and the pressure or density will
+be the pressure or density in this region. We shall call the
+pressure PP and the density ρρ, and they will be functions of xx
+and tt. We must keep in mind that this description is an approximation
+which is valid only when these gas properties do not vary too rapidly
+with distance.
+47–3The wave equation
+The physics of the phenomenon of sound waves thus involves three features:
+The gas moves and changes the density.
+The change in density corresponds to a change in pressure.
+Pressure inequalities generate gas motion.
+Let us consider II first. For a gas, a liquid, or a solid, the
+pressure is some function of the density. Before the sound wave
+arrives, we have equilibrium, with a pressure P0P0 and a
+corresponding density ρ0ρ0. A pressure PP in the medium is
+connected to the density by some characteristic relation P=f(ρ)P=f(ρ)
+and, in particular, the equilibrium pressure P0P0 is given by P0=f(ρ0)P0=f(ρ0). The changes of pressure in sound from the equilibrium
+value are extremely small. A convenient unit for measuring pressure is
+the bar, where 11 bar=105=105 N/m². The pressure of
+11 standard atmosphere is very nearly 11 bar: 11 atm=1.0133=1.0133 bars.
+In sound we use a logarithmic scale of intensities since the
+sensitivity of the ear is roughly logarithmic. This scale is the
+decibel scale, in which the acoustic pressure level for the pressure
+amplitude PP is defined as
+I(acousticpressurelevel)=20log10(P/Pref) in dB,(47.1)(47.1)I(acousticpressurelevel)=20log10⁡(P/Pref) in dB,
+where the reference pressure Pref=2×10−10Pref=2×10−10 bar. A
+pressure amplitude of P=P= 103Pref=103Pref= 2×10−72×10−7
+bar1 corresponds to a
+moderately intense sound of 6060 decibels. We see that the pressure
+changes in sound are extremely small compared with the equilibrium, or
+mean, pressure of 11 atm. The displacements and the density changes
+are correspondingly extremely small. In explosions we do not have such
+small changes; the excess pressures produced can be greater than
+11 atm. These large pressure changes lead to new effects which we shall
+consider later. In sound we do not often consider acoustic intensity
+levels over 100100 dB; 120120 dB is a level which is painful to the
+ear. Therefore, for sound, if we write
+P=P0+Pe,ρ=ρ0+ρe,(47.2)(47.2)P=P0+Pe,ρ=ρ0+ρe,
+we shall always have the pressure change PePe very small compared
+with P0P0 and the density change ρeρe very small compared
+with ρ0ρ0. Then
+P0+Pe=f(ρ0+ρe)=f(ρ0)+ρef′(ρ0),(47.3)(47.3)P0+Pe=f(ρ0+ρe)=f(ρ0)+ρef′(ρ0),
+where P0=f(ρ0)P0=f(ρ0) and f′(ρ0)f′(ρ0) stands for the derivative
+of f(ρ)f(ρ) evaluated at ρ=ρ0ρ=ρ0. We can take the second step in
+this equality only because ρeρe is very small. We find in this way
+that the excess pressure PePe is proportional to the excess
+density ρeρe, and we may call the proportionality factor κκ:
+Pe=κρe,where κ=f′(ρ0)=(dP/dρ)0.(II)(47.4)(47.4)Pe=κρe,where κ=f′(ρ0)=(dP/dρ)0.(II)
+The relation we needed for II is this very simple one.
+Fig. 47–3.The displacement of the air at xx is χ(x,t)χ(x,t), and at x+Δxx+Δx it is χ(x+Δx,t)χ(x+Δx,t). The original volume of
+the air for a unit area of the plane wave is ΔxΔx; the new
+volume is Δx+χ(x+Δx,t)−χ(x,t)Δx+χ(x+Δx,t)−χ(x,t).
+Let us now consider I. We shall suppose that the position of a portion
+of air undisturbed by the sound wave is xx and the displacement at
+the time tt due to the sound is χ(x,t)χ(x,t), so that its new position
+is x+χ(x,t)x+χ(x,t), as in Fig. 47–3. Now the undisturbed
+position of a nearby portion of air is x+Δxx+Δx, and its new
+position is x+Δx+χ(x+Δx,t)x+Δx+χ(x+Δx,t). We can now find the
+density changes in the following way. Since we are limiting ourselves
+to plane waves, we can take a unit area perpendicular to the
+xx-direction, which is the direction of propagation of the sound
+wave. The amount of air, per unit area, in ΔxΔx is then
+ρ0Δxρ0Δx, where ρ0ρ0 is the undisturbed, or equilibrium,
+air density. This air, when displaced by the sound wave, now lies
+between x+χ(x,t)x+χ(x,t) and x+Δx+χ(x+Δx,t)x+Δx+χ(x+Δx,t), so
+that we have the same matter in this interval that was in ΔxΔx
+when undisturbed. If ρρ is the new density, then
+ρ0Δx=ρ[x+Δx+χ(x+Δx,t)−x−χ(x,t)].(47.5)(47.5)ρ0Δx=ρ[x+Δx+χ(x+Δx,t)−x−χ(x,t)].
+Since ΔxΔx is small, we can write χ(x+Δx,t)−χ(x,t)=(∂χ/∂x)Δxχ(x+Δx,t)−χ(x,t)=(∂χ/∂x)Δx. This derivative is a partial
+derivative, since χχ depends on the time as well as on xx. Our
+equation then is
+ρ0Δx=ρ(∂χ∂xΔx+Δx)(47.6)(47.6)ρ0Δx=ρ(∂χ∂xΔx+Δx)
+or
+ρ0=(ρ0+ρe)∂χ∂x+ρ0+ρe.(47.7)(47.7)ρ0=(ρ0+ρe)∂χ∂x+ρ0+ρe.
+Now in sound waves all changes are small so that ρeρe is small,
+χχ is small, and ∂χ/∂x∂χ/∂x is also small. Therefore in the
+relation that we have just found,
+ρe=−ρ0∂χ∂x−ρe∂χ∂x,(47.8)(47.8)ρe=−ρ0∂χ∂x−ρe∂χ∂x,
+we can neglect ρe∂χ/∂xρe∂χ/∂x compared with
+ρ0∂χ/∂xρ0∂χ/∂x. Thus we get the relation we needed for I:
+ρe=−ρ0∂χ∂x.(I)(47.9)(47.9)ρe=−ρ0∂χ∂x.(I)
+This equation is what we would expect physically. If the displacements
+vary with xx, then there will be density changes. The sign is also
+right: if the displacement χχ increases with xx, so that the air
+is stretched out, the density must go down.
+Fig. 47–4.The net force in the positive xx-direction produced by the
+pressure acting on unit area perpendicular to xx
+is −(∂P/∂x)Δx−(∂P/∂x)Δx.
+We now need the third equation, which is the equation of the motion
+produced by the pressure. If we know the relation between the force
+and the pressure, we can then get the equation of motion. If we take a
+thin slab of air of length ΔxΔx and of unit area perpendicular
+to xx, then the mass of air in this slab is ρ0Δxρ0Δx and it
+has the acceleration ∂2χ/∂t2∂2χ/∂t2, so the mass times
+the acceleration for this slab of matter is ρ0Δx(∂2χ/∂t2)ρ0Δx(∂2χ/∂t2). (It makes no difference for small
+ΔxΔx whether the acceleration ∂2χ/∂t2∂2χ/∂t2 is
+evaluated at an edge of the slab or at some intermediate position.) If
+now we find the force on this matter for a unit area perpendicular
+to xx, it will then be equal to ρ0Δx(∂2χ/∂t2)ρ0Δx(∂2χ/∂t2). We have the force in the
++x+x-direction, at xx, of amount P(x,t)P(x,t) per unit area, and we have
+the force in the opposite direction, at x+Δxx+Δx, of amount P(x+Δx,t)P(x+Δx,t) per unit area (Fig. 47–4):
+P(x,t)−P(x+Δx,t)=−∂P∂xΔx=−∂Pe∂xΔx,(47.10)P(x,t)−P(x+Δx,t)=−∂P∂xΔx(47.10)=−∂Pe∂xΔx,
+since ΔxΔx is small and since the only part of PP which changes
+is the excess pressure PePe. We now have III:
+ρ0∂2χ∂t2=−∂Pe∂x,(III)(47.11)(47.11)ρ0∂2χ∂t2=−∂Pe∂x,(III)
+and so we have enough equations to interconnect things and reduce down
+to one variable, say to χχ. We can eliminate PePe from III by
+using II, so that we get
+ρ0∂2χ∂t2=−κ∂ρe∂x,(47.12)(47.12)ρ0∂2χ∂t2=−κ∂ρe∂x,
+and then we can use I to eliminate ρeρe. In this way we find that
+ρ0ρ0 cancels out and that we are left with
+∂2χ∂t2=κ∂2χ∂x2.(47.13)(47.13)∂2χ∂t2=κ∂2χ∂x2.
+We shall call c2s=κcs2=κ, so that we can write
+∂2χ∂x2=1c2s∂2χ∂t2.(47.14)(47.14)∂2χ∂x2=1cs2∂2χ∂t2.
+This is the wave equation which describes the behavior of sound in
+matter.
+47–4Solutions of the wave equation
+We now can see whether this equation really does describe the
+essential properties of sound waves in matter. We want to deduce that
+a sound pulse, or disturbance, will move with a constant speed. We
+want to verify that two different pulses can move through each
+other—the principle of superposition. We also want to verify that
+sound can go either to the right or to the left. All these properties
+should be contained in this one equation.
+We have remarked that any plane-wave disturbance which moves with a
+constant velocity vv has the form f(x−vt)f(x−vt). Now we have to see
+whether χ(x,t)=f(x−vt)χ(x,t)=f(x−vt) is a solution of the wave
+equation. When we calculate ∂χ/∂x∂χ/∂x, we get the derivative of
+the function, ∂χ/∂x=f′(x−vt)∂χ/∂x=f′(x−vt). Differentiating once
+more, we find
+∂2χ∂x2=f′′(x−vt).(47.15)(47.15)∂2χ∂x2=f″(x−vt).
+The differentiation of this same function with respect to tt gives
+−v−v times the derivative of the function, or ∂χ/∂t=−vf′(x−vt)∂χ/∂t=−vf′(x−vt), and the second time derivative is
+∂2χ∂t2=v2f′′(x−vt).(47.16)(47.16)∂2χ∂t2=v2f″(x−vt).
+It is evident that f(x−vt)f(x−vt) will satisfy the wave equation provided
+the wave velocity vv is equal to cscs.
+We find, therefore, from the laws of mechanics that any sound
+disturbance propagates with the velocity cscs, and in addition we
+find that
+cs=κ1/2=(dP/dρ)1/20,cs=κ1/2=(dP/dρ)01/2,
+and so we have related the wave velocity to a property of the
+medium.
+If we consider a wave travelling in the opposite direction, so that
+χ(x,t)=g(x+vt)χ(x,t)=g(x+vt), it is easy to see that such a disturbance
+also satisfies the wave equation. The only difference between such a
+wave and one travelling from left to right is in the sign of vv, but
+whether we have x+vtx+vt or x−vtx−vt as the variable in the function
+does not affect the sign of ∂2χ/∂t2∂2χ/∂t2, since it
+involves only v2v2. It follows that we have a solution for waves
+propagating in either direction with speed cscs.
+An extremely interesting question is that of superposition. Suppose
+one solution of the wave equation has been found, say χ1χ1. This
+means that the second derivative of χ1χ1 with respect to xx is
+equal to 1/c2s1/cs2 times the second derivative of χ1χ1 with
+respect to tt. Now any other solution χ2χ2 has this same
+property. If we superpose these two solutions, we have
+χ(x,t)=χ1(x,t)+χ2(x,t),(47.17)(47.17)χ(x,t)=χ1(x,t)+χ2(x,t),
+and we wish to verify that χ(x,t)χ(x,t) is also a wave, i.e., that
+χχ satisfies the wave equation. We can easily prove this result,
+since we have
+∂2χ∂x2=∂2χ1∂x2+∂2χ2∂x2(47.18)(47.18)∂2χ∂x2=∂2χ1∂x2+∂2χ2∂x2
+and, in addition,
+∂2χ∂t2=∂2χ1∂t2+∂2χ2∂t2.(47.19)(47.19)∂2χ∂t2=∂2χ1∂t2+∂2χ2∂t2.
+It follows that ∂2χ/∂x2=(1/c2s)∂2χ/∂t2∂2χ/∂x2=(1/cs2)∂2χ/∂t2, so we have verified the
+principle of superposition. The
+proof of the principle of superposition follows from the fact that the
+wave equation is linear in χχ.
+We can now expect that a plane light wave propagating in the
+xx-direction, polarized so that the electric field is in the
+yy-direction, will satisfy the wave equation
+∂2Ey∂x2=1c2∂2Ey∂t2,(47.20)(47.20)∂2Ey∂x2=1c2∂2Ey∂t2,
+where cc is the speed of light. This wave equation is one of the
+consequences of Maxwell’s equations. The equations of electrodynamics will lead to the wave
+equation for light just as the equations of mechanics lead to the wave
+equation for sound.
+47–5The speed of sound
+Our deduction of the wave equation for sound has given us a
+formula which connects the wave speed with the rate of change
+of pressure with the density at the normal pressure:
+c2s=(dPdρ)0.(47.21)(47.21)cs2=(dPdρ)0.
+In evaluating this rate of change, it is essential to know how the
+temperature varies. In a sound wave, we would expect that in the
+region of compression the temperature would be raised, and that in the
+region of rarefaction the temperature would be lowered.
+Newton was the first to calculate
+the rate of change of pressure with density, and he supposed that the
+temperature remained unchanged. He argued that the heat was conducted
+from one region to the other so rapidly that the temperature could not
+rise or fall. This argument gives the isothermal speed of sound, and it
+is wrong. The correct deduction was given later by
+Laplace, who put forward
+the opposite idea—that the pressure and temperature change
+adiabatically in a sound wave. The heat flow from the compressed region
+to the rarefied region is negligible so long as the wavelength is long
+compared with the mean free path. Under this condition the slight amount
+of heat flow in a sound wave does not affect the speed, although it
+gives a small absorption of the sound energy. We can expect correctly
+that this absorption increases as the wavelength approaches the mean
+free path, but these wavelengths are smaller by factors of about a
+million than the wavelengths of audible sound.
+The actual variation of pressure with density in a sound wave is the
+one that allows no heat flow. This corresponds to the adiabatic
+variation, which we found to be PVγ=constPVγ=const, where VV
+was the volume. Since the density ρρ varies inversely with VV,
+the adiabatic connection between PP and ρρ is
+P=constργ,(47.22)(47.22)P=constργ,
+from which we get dP/dρ=γP/ρdP/dρ=γP/ρ. We then have for the
+speed of sound the relation
+c2s=γPρ.(47.23)(47.23)cs2=γPρ.
+We can also write c2s=γPV/ρVcs2=γPV/ρV and make use of the
+relation PV=NkTPV=NkT. Further, we see that ρVρV is the mass of gas,
+which can also be expressed as NmNm, or as μμ per mole, where mm is the
+mass of a molecule and μμ is the molecular weight. In this way we
+find that
+c2s=γkTm=γRTμ,(47.24)(47.24)cs2=γkTm=γRTμ,
+from which it is evident that the speed of sound depends only on the
+gas temperature and not on the pressure or the density. We also have
+observed that
+kT=13m⟨v2⟩,(47.25)(47.25)kT=13m⟨v2⟩,
+where ⟨v2⟩⟨v2⟩ is the mean square of the speed of the molecules. It
+follows that c2s=(γ/3)⟨v2⟩cs2=(γ/3)⟨v2⟩, or
+cs=(γ3)1/2vav.(47.26)(47.26)cs=(γ3)1/2vav.
+This equation states that the speed of sound is some number which is
+roughly 1/(3)1/21/(3)1/2 times some average speed, vavvav, of
+the molecules (the square root of the mean square velocity). In other
+words, the speed of sound is of the same order of magnitude as the
+speed of the molecules, and is actually somewhat less than this
+average speed.
+Of course we could expect such a result, because a disturbance like a
+change in pressure is, after all, propagated by the motion of the
+molecules. However, such an argument does not tell us the precise
+propagation speed; it could have turned out that sound was carried
+primarily by the fastest molecules, or by the slowest molecules. It is
+reasonable and satisfying that the speed of sound is roughly
+1212 of the average molecular speed vavvav.
+With
+this choice of PrefPref, the PP is not the
+peak pressure in the sound wave but the “root-mean-square” pressure,
+which is 1/(2)1/21/(2)1/2 times the peak pressure.
+↩
+Copyright © 1963, 2006, 2013
+by the California Institute of Technology,
+Michael A. Gottlieb and Rudolf Pfeiffer
+47–1Waves47–2The propagation of sound47–3The wave equation47–4Solutions of the wave equation47–5The speed of sound

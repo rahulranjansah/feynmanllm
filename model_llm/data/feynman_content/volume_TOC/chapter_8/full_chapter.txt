@@ -1,0 +1,684 @@
+◄
+▲
+►
+A
+A
+A
+MATHJAX
+LOADING PAGE...
+Dear Reader,
+There are several reasons you might be seeing this page. In order to read the online edition of The Feynman Lectures on Physics, javascript must be supported by your browser and enabled. If you have have visited this website previously it's possible you may have a mixture of incompatible files (.js, .css, and .html) in your browser cache. If you use an ad blocker it may be preventing our pages from downloading necessary resources. So, please try the following: make sure javascript is enabled, clear your browser cache (at least of files from feynmanlectures.caltech.edu), turn off your browser extensions, and open this page:
+https://www.feynmanlectures.caltech.edu/I_01.html
+If it does not open, or only shows you this message again, then please let us know:
+which browser you are using (including version #)
+which operating system you are using (including version #)
+This type of problem is rare, and there's a good chance it can be fixed if we have some clues about the cause. So, if you can, after enabling javascript,
+clearing the cache and disabling extensions, please open your browser's javascript console, load the page above, and if this generates any messages (particularly errors or warnings) on the console, then please make a copy (text or screenshot) of those messages and send them with the above-listed information to the email address given below.
+By sending us information you will be helping not only yourself, but others who may be having similar problems accessing the online edition of The Feynman Lectures on Physics. Your time and consideration are greatly appreciated.
+Best regards,
+Mike Gottlieb
+feynmanlectures@caltech.edu
+Editor, The Feynman Lectures on Physics New Millennium Edition
+play
+stop
+mute
+max volume
+00:00
+1x
+57:40
+×#8 Motion (10/20/61)
+Update Required
+To play the media you will need to either update your browser to a recent version or update your Flash plugin.
+The recording of this lecture is missing from the Caltech Archives.
+8Motion
+Summary: Motion
+If s=distance,s=distance, v=velocity,v=velocity, a=accelerationa=acceleration,
+v=ds/dt;v=ds/dt; a=dv/dt=d2s/dt2;a=dv/dt=d2s/dt2; s=∫vdt;v=∫adts=∫vdt;v=∫adt
+In 33 dimensions,  (x,y,z)=coordinates of point(x,y,z)=coordinates of point,
+vx=dx/dt,vx=dx/dt, vy=dy/dt,vy=dy/dt, vz=dz/dt;vz=dz/dt;ax=dvx/dt=d2x/dt2;ax=dvx/dt=d2x/dt2; etc. y,zetc. y,z
+dfdt=limϵ→0f(t+ϵ)−f(t)ϵdfdt=limϵ→0f(t+ϵ)−f(t)ϵ
+8–1Description of motion
+In order to find the laws governing the various changes that
+take place in bodies as time goes on, we must be able to describe
+the changes and have some way to record them. The simplest change to
+observe in a body is the apparent change in its position with time,
+which we call motion. Let us consider some solid object with a permanent
+mark, which we shall call a point, that we can observe. We shall discuss
+the motion of the little marker, which might be the radiator cap of an
+automobile or the center of a falling ball, and shall try to describe
+the fact that it moves and how it moves.
+These examples may sound trivial, but many subtleties enter into the
+description of change. Some changes are more difficult to describe than
+the motion of a point on a solid object, for example the speed of drift
+of a cloud that is drifting very slowly, but rapidly forming or
+evaporating, or the change of a woman’s mind. We do not know a simple
+way to analyze a change of mind, but since the cloud can be represented
+or described by many molecules, perhaps we can describe the motion of
+the cloud in principle by describing the motion of all its individual
+molecules. Likewise, perhaps even the changes in the mind may have a
+parallel in changes of the atoms inside the brain, but we have no such
+knowledge yet.
+At any rate, that is why we begin with the motion of points; perhaps we
+should think of them as atoms, but it is probably better to be more rough
+in the beginning and simply to think of some kind of small
+objects—small, that is, compared with the distance moved. For
+instance, in describing the motion of a car that is going a hundred
+miles, we do not have to distinguish between the front and the back of
+the car. To be sure, there are slight differences, but for rough
+purposes we say “the car,” and likewise it does not matter that our
+points are not absolute points; for our present purposes it is not
+necessary to be extremely precise. Also, while we take a first look at
+this subject we are going to forget about the three dimensions of the
+world. We shall just concentrate on moving in one direction, as in a car
+on one road. We shall return to three dimensions after we see how to
+describe motion in one dimension. Now, you may say, “This is all some
+kind of trivia,” and indeed it is. How can we describe such a
+one-dimensional motion—let us say, of a car? Nothing could be simpler.
+Among many possible ways, one would be the following. To determine the
+position of the car at different times, we measure its distance from the
+starting point and record all the observations. In
+Table 8–1, ss represents the distance of the car, in
+feet, from the starting point, and tt represents the time in minutes.
+The first line in the table represents zero distance and zero time—the
+car has not started yet. After one minute it has started and has gone
+12001200 feet. Then in two minutes, it goes farther—notice that it
+picked up more distance in the second minute—it has accelerated; but
+something happened between 33 and 44 and even more so at 55—it
+stopped at a light perhaps? Then it speeds up again and goes
+13,00013,000 feet by the end of 66 minutes, 18,00018,000 feet at the end of
+77 minutes, and 23,50023,500 feet in 88 minutes; at 99 minutes it has
+advanced to only 24,00024,000 feet, because in the last minute it was
+stopped by a cop.
+Table 8–1
+tt (min)
+ss (ft)
+00
+0000000000
+11
+0120001200
+22
+0400004000
+33
+0900009000
+44
+0950009500
+55
+0960009600
+66
+1300013000
+77
+1800018000
+88
+2350023500
+99
+2400024000
+Fig. 8–1.Graph of distance versus time for the car.
+That is one way to describe the motion. Another way is by means of a
+graph. If we plot the time horizontally and the distance vertically, we
+obtain a curve something like that shown in Fig. 8–1. As the
+time increases, the distance increases, at first very slowly and then
+more rapidly, and very slowly again for a little while at 44 minutes;
+then it increases again for a few minutes and finally, at 99 minutes,
+appears to have stopped increasing. These observations can be made from
+the graph, without a table. Obviously, for a complete description one
+would have to know where the car is at the half-minute marks, too, but
+we suppose that the graph means something, that the car has some
+position at all the intermediate times.
+Table 8–2
+tt (sec)
+ss (ft)
+00
+000000
+11
+016016
+22
+064064
+33
+144144
+44
+256256
+55
+400400
+66
+576576
+Fig. 8–2.Graph of distance versus time for a falling body.
+The motion of a car is complicated. For another example we take
+something that moves in a simpler manner, following more simple laws: a
+falling ball. Table 8–2 gives the time in seconds and the
+distance in feet for a falling body. At zero seconds the ball starts out
+at zero feet, and at the end of 11 second it has fallen 1616 feet. At
+the end of 22 seconds, it has fallen 6464 feet, at the end of
+33 seconds, 144144 feet, and so on; if the tabulated numbers are
+plotted, we get the nice parabolic curve shown in Fig. 8–2.
+The formula for this curve can be written as
+s=16t2.(8.1)(8.1)s=16t2.
+This formula enables us to calculate the distances at any time. You
+might say there ought to be a formula for the first graph too. Actually,
+one may write such a formula abstractly, as
+s=f(t),(8.2)(8.2)s=f(t),
+meaning that ss is some quantity depending on tt or, in mathematical
+phraseology, ss is a function of tt. Since we do not know what the
+function is, there is no way we can write it in definite algebraic form.
+We have now seen two examples of motion, adequately described with very
+simple ideas, no subtleties. However, there are
+subtleties—several of them. In the first place, what do we mean by
+time and space? It turns out that these deep
+philosophical questions have to be analyzed very carefully in physics,
+and this is not so easy to do. The theory of relativity shows that our
+ideas of space and time are not as simple as one might think at first
+sight. However, for our present purposes, for the accuracy that we need
+at first, we need not be very careful about defining things precisely.
+Perhaps you say, “That’s a terrible thing—I learned that in science
+we have to define everything precisely.” We cannot define
+anything precisely! If we attempt to, we get into that paralysis
+of thought that comes to philosophers, who sit opposite each other, one
+saying to the other, “You don’t know what you are talking about!” The
+second one says, “What do you mean by know? What do you mean by
+talking? What do you mean by you?,” and so on. In order
+to be able to talk constructively, we just have to agree that we are
+talking about roughly the same thing. You know as much about time as we
+need for the present, but remember that there are some subtleties that
+have to be discussed; we shall discuss them later.
+Another subtlety involved, and already mentioned, is that it should be
+possible to imagine that the moving point we are observing is always
+located somewhere. (Of course when we are looking at it, there it is,
+but maybe when we look away it isn’t there.) It turns out that in the
+motion of atoms, that idea also is false—we cannot find a marker on an
+atom and watch it move. That subtlety we shall have to get around in
+quantum mechanics. But we are first going to learn what the problems are
+before introducing the complications, and then we shall be in a
+better position to make corrections, in the light of the more recent
+knowledge of the subject. We shall, therefore, take a simple point of
+view about time and space. We know what these concepts are in a rough
+way, and those who have driven a car know what speed means.
+8–2Speed
+Even though we know roughly what “speed” means, there are still some
+rather deep subtleties; consider that the learned Greeks were never able
+to adequately describe problems involving velocity. The subtlety comes
+when we try to comprehend exactly what is meant by “speed.” The Greeks
+got very confused about this, and a new branch of mathematics had to be
+discovered beyond the geometry and algebra
+of the Greeks, Arabs, and Babylonians. As an illustration of the
+difficulty, try to solve this problem by sheer
+algebra: A balloon is being inflated so that
+the volume of the balloon is increasing at the rate of 100100 cm³ per
+second; at what speed is the radius increasing when the volume is
+10001000 cm³? The Greeks were somewhat confused by such problems, being
+helped, of course, by some very confusing Greeks. To show that there
+were difficulties in reasoning about speed at the time,
+Zeno produced a large number
+of paradoxes, of which we shall mention one to illustrate his point that
+there are obvious difficulties in thinking about motion. “Listen,” he
+says, “to the following argument: Achilles runs 1010 times as fast as a
+tortoise, nevertheless he can never catch the tortoise. For, suppose
+that they start in a race where the tortoise is 100100 meters ahead of
+Achilles; then when Achilles has run the 100100 meters to the place where
+the tortoise was, the tortoise has proceeded 1010 meters, having run
+one-tenth as fast. Now, Achilles has to run another 1010 meters to catch
+up with the tortoise, but on arriving at the end of that run, he finds
+that the tortoise is still 11 meter ahead of him; running another
+meter, he finds the tortoise 1010 centimeters ahead, and so on, ad
+infinitum. Therefore, at any moment the tortoise is always ahead of
+Achilles and Achilles can never catch up with the tortoise.”
+What is
+wrong with that? It is that a finite amount of time can be divided into
+an infinite number of pieces, just as a length of line can be divided
+into an infinite number of pieces by dividing repeatedly by two. And so,
+although there are an infinite number of steps (in the argument) to the
+point at which Achilles reaches the tortoise, it doesn’t mean that there
+is an infinite amount of time. We can see from this example that
+there are indeed some subtleties in reasoning about speed.
+In order to get to the subtleties in a clearer fashion, we remind you of
+a joke which you surely must have heard. At the point where the lady in
+the car is caught by a cop, the cop comes up to her and says, “Lady,
+you were going 6060 miles an hour!” She says, “That’s impossible, sir,
+I was travelling for only seven minutes. It is ridiculous—how can I go
+6060 miles an hour when I wasn’t going an hour?”
+How would you answer
+her if you were the cop? Of course, if you were really the cop, then no
+subtleties are involved; it is very simple: you say, “Tell that to the
+judge!” But let us suppose that we do not have that escape and we make
+a more honest, intellectual attack on the problem, and try to explain to
+this lady what we mean by the idea that she was going 6060 miles an
+hour. Just what do we mean?
+We say, “What we mean, lady, is
+this: if you kept on going the same way as you are going now, in the
+next hour you would go 6060 miles.” She could say, “Well, my foot was
+off the accelerator and the car was slowing down, so if I kept on going
+that way it would not go 6060 miles.” Or consider the falling ball and
+suppose we want to know its speed at the time three seconds if the ball
+kept on going the way it is going. What does that mean—kept on
+accelerating, going faster? No—kept on going with the same
+velocity. But that is what we are trying to
+define! For if the ball keeps on going the way it is going, it will just
+keep on going the way it is going. Thus we need to define the velocity
+better. What has to be kept the same? The lady can also argue this way:
+“If I kept on going the way I’m going for one more hour, I would run
+into that wall at the end of the street!” It is not so easy to say what
+we mean.
+Many physicists think that measurement is the only definition of
+anything. Obviously, then, we should use the instrument that measures
+the speed—the speedometer—and say, “Look, lady, your speedometer
+reads 6060.” So she says, “My speedometer is broken and didn’t read at
+all.”
+Does that mean the car is standing still? We believe that there
+is something to measure before we build the speedometer. Only then can
+we say, for example, “The speedometer isn’t working right,” or “the
+speedometer is broken.” That would be a meaningless sentence if the
+velocity had no meaning independent of the speedometer. So we have in
+our minds, obviously, an idea that is independent of the speedometer,
+and the speedometer is meant only to measure this idea. So let us see if
+we can get a better definition of the idea. We say, “Yes, of course,
+before you went an hour, you would hit that wall, but if you went one
+second, you would go 8888 feet; lady, you were going 8888 feet per
+second, and if you kept on going, the next second it would be 8888 feet,
+and the wall down there is farther away than that.”
+She says, “Yes,
+but there’s no law against going 8888 feet per second!
+There is only a
+law against going 6060 miles an hour.”
+“But,” we reply, “it’s the
+same thing.” If it is the same thing, it should not be necessary
+to go into this circumlocution about 8888 feet per second. In fact, the
+falling ball could not keep going the same way even one second because
+it would be changing speed, and we shall have to define speed somehow.
+Now we seem to be getting on the right track; it goes something like
+this: If the lady kept on going for another 1/10001/1000 of an hour, she
+would go 1/10001/1000 of 6060 miles. In other words, she does not have to
+keep on going for the whole hour; the point is that for a moment
+she is going at that speed. Now what that means is that if she went just
+a little bit more in time, the extra distance she goes would be the same
+as that of a car that goes at a steady speed of 6060 miles an
+hour. Perhaps the idea of the 8888 feet per second is right; we see how
+far she went in the last second, divide by 8888 feet, and if it comes
+out 11 the speed was 6060 miles an hour. In other words, we can find
+the speed in this way: We ask, how far do we go in a very short time? We
+divide that distance by the time, and that gives the speed. But the time
+should be made as short as possible, the shorter the better, because
+some change could take place during that time. If we take the time of a
+falling body as an hour, the idea is ridiculous. If we take it as a
+second, the result is pretty good for a car, because there is not much
+change in speed, but not for a falling body; so in order to get the
+speed more and more accurately, we should take a smaller and smaller
+time interval. What we should do is take a millionth of a second, find
+out how far the car has gone, and
+divide that distance by a millionth of a second. The result gives the
+distance per second, which is what we mean by the velocity, so we can
+define it that way. That is a successful answer for the lady, or rather,
+that is the definition that we are going to use.
+The foregoing definition involves a new idea, an idea that was not
+available to the Greeks in a general form. That idea was to take an
+infinitesimal distance and the corresponding infinitesimal
+time, form the ratio, and watch what happens to that ratio as the time
+that we use gets smaller and smaller and smaller. In other words, take a
+limit of the distance travelled divided by the time required, as the
+time taken gets smaller and smaller, ad infinitum. This idea was
+invented by Newton and by
+Leibniz,
+independently, and is the beginning of a new branch of mathematics,
+called the differential calculus.
+Calculus was invented in order to describe motion, and its first
+application was to the problem of defining what is meant by going
+“6060 miles an hour.”
+Let us try to define velocity a little better. Suppose that in a short
+time, ϵϵ, the car or other body goes a short distance xx; then
+the velocity, vv, is defined as
+v=x/ϵ,v=x/ϵ,
+an approximation that becomes better and better as the ϵϵ is
+taken smaller and smaller. If a mathematical expression is desired, we
+can say that the velocity equals the limit as the ϵϵ is made to
+go smaller and smaller in the expression x/ϵx/ϵ, or
+v=limϵ→0xϵ.(8.3)(8.3)v=limϵ→0xϵ.
+We cannot do the same thing with the lady in the car, because the table
+is incomplete. We know only where she was at intervals of one minute; we
+can get a rough idea that she was going 50005000 ft/min during the
+77th minute, but we do not know, at exactly the moment 77 minutes,
+whether she had been speeding up and the speed was 49004900 ft/min at the
+beginning of the 66th minute, and is now 51005100 ft/min, or something
+else, because we do not have the exact details in between. So only if
+the table were completed with an infinite number of entries could we
+really calculate the velocity from such a table. On the other hand, when
+we have a complete mathematical formula, as in the case of a falling
+body (Eq. 8.1), then it is possible to calculate the
+velocity, because we can calculate the position at any time whatsoever.
+Let us take as an example the problem of determining the velocity of the
+falling ball at the particular time 55 seconds. One way to do
+this is to see from Table 8–2 what it did in the
+55th second; it went 400−256=144400−256=144 ft, so it is going 144144 ft/sec;
+however, that is wrong, because the speed is changing; on the
+average it is 144144 ft/sec during this interval, but the ball is
+speeding up and is really going faster than 144144 ft/sec. We want to
+find out exactly how fast. The technique involved in this process
+is the following: We know where the ball was at 55 sec. At 5.15.1 sec,
+the distance that it has gone all together is 16(5.1)2=416.1616(5.1)2=416.16 ft (see
+Eq. 8.1). At 55 sec it had already fallen 400400 ft; in the
+last tenth of a second it fell 416.16−400=16.16416.16−400=16.16 ft. Since 16.1616.16 ft
+in 0.10.1 sec is the same as 161.6161.6 ft/sec, that is the speed more or
+less, but it is not exactly correct. Is that the speed at 55, or
+at 5.15.1, or halfway between at 5.055.05 sec, or when is that the
+speed? Never mind—the problem was to find the speed at
+55 seconds, and we do not have exactly that; we have to do a better
+job. So, we take one-thousandth of a second more than 55 sec, or
+5.0015.001 sec, and calculate the total fall as
+s=16(5.001)2=16(25.010001)=400.160016 ft.s=16(5.001)2=16(25.010001)=400.160016 ft.
+In the last 0.0010.001 sec the ball fell 0.1600160.160016 ft, and if we divide
+this number by 0.0010.001 sec we obtain the speed as 160.016160.016 ft/sec. That
+is closer, very close, but it is still not exact. It should now
+be evident what we must do to find the speed exactly. To perform the
+mathematics we state the problem a little more abstractly: to find the
+velocity at a special time, t0t0, which in the original problem was
+55 sec. Now the distance at t0t0, which we call s0s0, is 16t2016t02,
+or 400400 ft in this case. In order to find the velocity, we ask, “At
+the time t0+(a little bit)t0+(a little bit), or t0+ϵt0+ϵ, where is the
+body?”
+The new position
+is 16(t0+ϵ)2=16t20+32t0ϵ+16ϵ216(t0+ϵ)2=16t02+32t0ϵ+16ϵ2. So it is
+farther along than it was before, because before it was only 16t2016t02.
+This distance we shall call s0+(a little bit more)s0+(a little bit more), or s0+xs0+x
+(if xx is the extra bit). Now if we subtract the distance at t0t0 from
+the distance at t0+ϵt0+ϵ, we get xx, the extra distance gone,
+as x=32t0⋅ϵ+16ϵ2x=32t0⋅ϵ+16ϵ2. Our first approximation to the
+velocity is
+v=xϵ=32t0+16ϵ.(8.4)(8.4)v=xϵ=32t0+16ϵ.
+The true velocity is the value of this ratio, x/ϵx/ϵ, when
+ϵϵ becomes vanishingly small. In other words, after forming the
+ratio, we take the limit as ϵϵ gets smaller and smaller, that
+is, approaches 00. The equation reduces to,
+v(at time t0)=32t0.v(at time t0)=32t0.
+In our problem, t0=5t0=5 sec, so the solution is
+v=v= 32×5=32×5= 160160 ft/sec. A few lines above, where we took ϵϵ
+as 0.10.1 and 0.0010.001 sec successively, the value we got for vv was a
+little more than this, but now we see that the actual velocity is
+precisely 160160 ft/sec.
+8–3Speed as a derivative
+The procedure we have just carried out is performed so often in
+mathematics that for convenience special notations have been assigned to
+our quantities ϵϵ and xx. In this notation, the ϵϵ used
+above becomes ΔtΔt and xx becomes ΔsΔs. This ΔtΔt
+means “an extra bit of tt,” and carries an implication that it can be
+made smaller. The prefix ΔΔ is not a multiplier, any more
+than sinθsin⁡θ
+means s⋅i⋅n⋅θs⋅i⋅n⋅θ—it simply
+defines a time increment, and reminds us of its special character.
+ΔsΔs has an analogous meaning for the distance ss. Since ΔΔ
+is not a factor, it cannot be cancelled in the ratio Δs/ΔtΔs/Δt
+to give s/ts/t, any more than the ratio sinθ/sin2θsin⁡θ/sin⁡2θ can be
+reduced to 1/21/2 by cancellation. In this notation, velocity is equal to
+the limit of Δs/ΔtΔs/Δt when ΔtΔt gets smaller, or
+v=limΔt→0ΔsΔt.(8.5)(8.5)v=limΔt→0ΔsΔt.
+This is really the same as our previous expression (8.3) with
+ϵϵ and xx, but it has the advantage of showing that something
+is changing, and it keeps track of what is changing.
+Incidentally, to a good approximation we have another law, which says
+that the change in distance of a moving point is the velocity times the
+time interval, or Δs=vΔtΔs=vΔt. This statement is true only if
+the velocity is not changing during that time interval, and this
+condition is true only in the limit as ΔtΔt goes to 00.
+Physicists like to write it ds=vdtds=vdt, because by dtdt they
+mean ΔtΔt in circumstances in which it is very small; with this
+understanding, the expression is valid to a close approximation.
+If ΔtΔt is too long, the velocity might change during the
+interval, and the approximation would become less accurate. For a
+time dtdt, approaching zero, ds=vdtds=vdt precisely. In this notation we
+can write (8.5) as
+v=limΔt→0ΔsΔt=dsdt.v=limΔt→0ΔsΔt=dsdt.
+The quantity ds/dtds/dt which we found above is called the “derivative
+of ss with respect to tt” (this language helps to keep track of what
+was changed), and the complicated process of finding it is called
+finding a derivative, or differentiating. The dsds’s and dtdt’s which
+appear separately are called differentials. To familiarize you
+with the words, we say we found the derivative of the function 16t216t2,
+or the derivative (with respect to tt) of 16t216t2 is 32t32t. When we get
+used to the words, the ideas are more easily understood. For practice,
+let us find the derivative of a more complicated function. We shall
+consider the formula s=At3+Bt+Cs=At3+Bt+C, which might describe the motion of a
+point. The letters AA, BB, and CC represent constant numbers, as in
+the familiar general form of a quadratic equation. Starting from the
+formula for the motion, we wish to find the velocity at any time. To
+find the velocity in the more elegant manner, we change tt to t+Δtt+Δt and note that ss is then changed to s+some Δss+some Δs; then
+we find the ΔsΔs in terms of ΔtΔt. That is to say,
+s+Δs=A(t+Δt)3+B(t+Δt)+C=At3+Bt+C+3At2Δt+BΔt=At3 +3At(Δt)2+A(Δt)3,s+Δs=A(t+Δt)3+B(t+Δt)+C=At3+Bt+C+3At2Δt+BΔt=At3 +3At(Δt)2+A(Δt)3,
+but since
+s=At3+Bt+C,s=At3+Bt+C,
+we find that
+Δs=3At2Δt+BΔt+3At(Δt)2+A(Δt)3.Δs=3At2Δt+BΔt+3At(Δt)2+A(Δt)3.
+But we do not want ΔsΔs—we want ΔsΔs divided by ΔtΔt. We divide the preceding equation by ΔtΔt, getting
+ΔsΔt=3At2+B+3At(Δt)+A(Δt)2.ΔsΔt=3At2+B+3At(Δt)+A(Δt)2.
+As ΔtΔt goes toward 00 the limit of Δs/ΔtΔs/Δt
+is ds/dtds/dt and is equal to
+dsdt=3At2+B.dsdt=3At2+B.
+This is the fundamental process of calculus, differentiating functions.
+The process is even more simple than it appears. Observe that when these
+expansions contain any term with a square or a cube or any higher power
+of ΔtΔt, such terms may be dropped at once, since they will go
+to 00 when the limit is taken. After a little practice the process gets
+easier because one knows what to leave out. There are many rules or
+formulas for differentiating various types of functions. These can be
+memorized, or can be found in tables. A short list is found in
+Table 8–3.
+Table 8–3A Short Table of Derivatives
+ss, uu, vv, ww are arbitrary functions of tt; aa, bb, cc,
+and nn are arbitrary constants
+Function
+Derivative
+s=tns=tn
+dsdt=ntn−1dsdt=ntn−1
+s=cus=cu
+dsdt=cdudtdsdt=cdudt
+s=u+v+w+⋯s=u+v+w+⋯
+dsdt=dudt+dvdt+dwdt+⋯dsdt=dudt+dvdt+dwdt+⋯
+s=cs=c
+dsdt=0dsdt=0
+s=uavbwc⋯s=uavbwc⋯
+dsdt=s(aududt+bvdvdt+cwdwdt+⋯)dsdt=s(aududt+bvdvdt+cwdwdt+⋯)
+8–4Distance as an integral
+Table 8–4Velocity of a Falling Ball
+tt (sec)
+vv (ft/sec)
+00
+000000
+11
+032032
+22
+064064
+33
+096096
+44
+128128
+Now we have to discuss the inverse problem. Suppose that instead of a
+table of distances, we have a table of speeds at different times,
+starting from zero. For the falling ball, such speeds and times are
+shown in Table 8–4. A similar table could be constructed for
+the velocity of the car, by recording the speedometer reading every
+minute or half-minute. If we know how fast the car is going at any time,
+can we determine how far it goes? This problem is just the inverse of
+the one solved above; we are given the velocity and asked to find the
+distance. How can we find the distance if we know the speed? If the
+speed of the car is not constant, and the lady goes sixty miles an hour
+for a moment, then slows down, speeds up, and so on, how can we
+determine how far she has gone? That is easy. We use the same idea, and
+express the distance in terms of infinitesimals. Let us say, “In the
+first second her speed was such and such, and from the formula Δs=vΔtΔs=vΔt we can calculate how far the car went the first second at
+that speed.” Now in the next second her speed is nearly the same, but
+slightly different; we can calculate how far she went in the next second
+by taking the new speed times the time. We proceed similarly for each
+second, to the end of the run. We now have a number of little distances,
+and the total distance will be the sum of all these little pieces. That
+is, the distance will be the sum of the velocities times the times,
+or s=∑vΔts=∑vΔt, where the Greek letter ∑∑ (sigma) is used
+to denote addition. To be more precise, it is the sum of the velocity at
+a certain time, let us say the ii-th time, multiplied by ΔtΔt.
+s=∑iv(ti)Δt.(8.6)(8.6)s=∑iv(ti)Δt.
+The rule for the times is that ti+1=ti+Δtti+1=ti+Δt. However, the
+distance we obtain by this method will not be correct, because the
+velocity changes during the time interval ΔtΔt. If we take the
+times short enough, the sum is precise, so we take them smaller and
+smaller until we obtain the desired accuracy. The true ss is
+s=limΔt→0∑iv(ti)Δt.(8.7)(8.7)s=limΔt→0∑iv(ti)Δt.
+The mathematicians have invented a symbol for this limit, analogous to
+the symbol for the differential. The ΔΔ turns into a dd to remind
+us that the time is as small as it can be; the velocity is then
+called vv at the time tt, and the addition is written as a sum with a
+great “ss,” ∫∫ (from the Latin summa), which has become
+distorted and is now unfortunately just called an integral sign. Thus we
+write
+s=∫v(t)dt.(8.8)(8.8)s=∫v(t)dt.
+This process of adding all these terms together is called integration,
+and it is the opposite process to differentiation. The derivative of
+this integral is vv, so one operator (dd) undoes the other (∫∫).
+One can get formulas for integrals by taking the formulas for
+derivatives and running them backwards, because they are related to each
+other inversely. Thus one can work out his own table of integrals by
+differentiating all sorts of functions. For every formula with a
+differential, we get an integral formula if we turn it around.
+Every function can be differentiated analytically, i.e., the process can
+be carried out algebraically, and leads to a definite function. But it
+is not possible in a simple manner to write an analytical value for any
+integral at will. You can calculate it, for instance, by doing the above
+sum, and then doing it again with a finer interval ΔtΔt and again
+with a finer interval until you have it nearly right. In general, given
+some particular function, it is not possible to find, analytically, what
+the integral is. One may always try to find a function which, when
+differentiated, gives some desired function; but one may not find it,
+and it may not exist, in the sense of being expressible in terms of
+functions that have already been given names.
+8–5Acceleration
+The next step in developing the equations of motion is to introduce
+another idea which goes beyond the concept of velocity to that of
+change of velocity, and we now ask, “How does the velocity
+change?” In previous chapters we have discussed cases in which
+forces produce changes in velocity. You may have heard with great
+excitement about some car that can get from rest to 6060 miles an hour
+in ten seconds flat. From such a performance we can see how fast the
+speed changes, but only on the average. What we shall now discuss is the
+next level of complexity, which is how fast the velocity is changing. In
+other words, by how many feet per second does the velocity change in a
+second, that is, how many feet per second, per second? We previously
+derived the formula for the velocity of a falling body as v=32tv=32t, which
+is charted in Table 8–4, and now we want to find out how
+much the velocity changes per second; this quantity is called the
+acceleration.
+Acceleration is defined as the time rate of change of velocity. From the
+preceding discussion we know enough already to write the acceleration as
+the derivative dv/dtdv/dt, in the same way that the velocity is the
+derivative of the distance. If we now differentiate the formula v=32tv=32t
+we obtain, for a falling body,
+a=dvdt=32.(8.9)(8.9)a=dvdt=32.
+[To differentiate the term 32t32t we can utilize the result obtained in a
+previous problem, where we found that the derivative of BtBt is
+simply BB (a constant). So by letting B=32B=32, we have at once that the
+derivative of 32t32t is 3232.] This means that the velocity of a falling
+body is changing by 3232 feet per second, per second always. We also see
+from Table 8–4 that the velocity increases by 3232 ft/sec in
+each second. This is a very simple case, for accelerations are usually
+not constant. The reason the acceleration is constant here is that the
+force on the falling body is constant, and Newton’s law says that the
+acceleration is proportional to the force.
+As a further example, let us find the acceleration in the problem we
+have already solved for the velocity. Starting with
+s=At3+Bt+Cs=At3+Bt+C
+we obtained, for v=ds/dtv=ds/dt,
+v=3At2+B.v=3At2+B.
+Since acceleration is the derivative of the velocity with respect to the
+time, we need to differentiate the last expression above. Recall the
+rule that the derivative of the two terms on the right equals the sum of
+the derivatives of the individual terms. To differentiate the first of
+these terms, instead of going through the fundamental process again we
+note that we have already differentiated a quadratic term when we
+differentiated 16t216t2, and the effect was to double the numerical
+coefficient and change the t2t2 to tt; let us assume that the same
+thing will happen this time, and you can check the result yourself. The
+derivative of 3At23At2 will then be 6At6At. Next we differentiate BB, a
+constant term; but by a rule stated previously, the derivative of BB is
+zero; hence this term contributes nothing to the acceleration. The final
+result, therefore, is a=a= dv/dt=dv/dt= 6At6At.
+For reference, we state two very useful formulas, which can be obtained
+by integration. If a body starts from rest and moves with a constant
+acceleration, gg, its velocity vv at any time tt is given by
+v=gt.v=gt.
+The distance it covers in the same time is
+s=12gt2.s=12gt2.
+Various mathematical notations are used in writing derivatives. Since
+velocity is ds/dtds/dt and acceleration is the time derivative of the
+velocity, we can also write
+a=ddt(dsdt)=d2sdt2,(8.10)(8.10)a=ddt(dsdt)=d2sdt2,
+which are common ways of writing a second derivative.
+We have another law that the velocity is equal to the integral of the
+acceleration. This is just the opposite of a=dv/dta=dv/dt; we have already
+seen that distance is the integral of the velocity, so distance can be
+found by twice integrating the acceleration.
+In the foregoing discussion the motion was in only one dimension, and
+space permits only a brief discussion of motion in three dimensions.
+Consider a particle PP which moves in three dimensions in any manner
+whatsoever. At the beginning of this chapter, we opened our discussion
+of the one-dimensional case of a moving car by observing the distance of
+the car from its starting point at various times. We then discussed
+velocity in terms of changes of these distances with time, and
+acceleration in terms of changes in velocity. We can treat
+three-dimensional motion analogously. It will be simpler to illustrate
+the motion on a two-dimensional diagram, and then extend the ideas to
+three dimensions. We establish a pair of axes at right angles to each
+other, and determine the position of the particle at any moment by
+measuring how far it is from each of the two axes. Thus each position is
+given in terms of an xx-distance and a yy-distance, and the motion can
+be described by constructing a table in which both these distances are
+given as functions of time. (Extension of this process to three
+dimensions requires only another axis, at right angles to the first two,
+and measuring a third distance, the zz-distance. The distances are now
+measured from coordinate planes instead of lines.)
+Having
+constructed a table with xx- and yy-distances, how can we determine
+the velocity? We first find the components of velocity in each
+direction. The horizontal part of the velocity, or xx-component, is the
+derivative of the xx-distance with respect to the time, or
+vx=dx/dt.(8.11)(8.11)vx=dx/dt.
+Similarly, the vertical part of the velocity, or
+yy-component, is
+vy=dy/dt.(8.12)(8.12)vy=dy/dt.
+In the third dimension,
+vz=dz/dt.(8.13)(8.13)vz=dz/dt.
+Now, given the components of velocity, how can we find the velocity
+along the actual path of motion? In the two-dimensional case, consider
+two successive positions of the particle, separated by a short
+distance ΔsΔs and a short time interval t2−t1=Δtt2−t1=Δt. In the
+time ΔtΔt the particle moves horizontally a distance Δx≈vxΔtΔx≈vxΔt, and vertically a distance Δy≈vyΔtΔy≈vyΔt. (The symbol “≈≈” is read “is approximately.”)
+The actual distance moved is approximately
+Δs≈(Δx)2+(Δy)2−−−−−−−−−−−−√,(8.14)(8.14)Δs≈(Δx)2+(Δy)2,
+as shown in Fig. 8–3. The approximate velocity during this
+interval can be obtained by dividing by ΔtΔt and by
+letting ΔtΔt go to 00, as at the beginning of the chapter. We
+then get the velocity as
+v=dsdt=(dx/dt)2+(dy/dt)2−−−−−−−−−−−−−−−−√=v2x+v2y−−−−−−√.(8.15)v=dsdt=(dx/dt)2+(dy/dt)2(8.15)=vx2+vy2.
+For three dimensions the result is
+v=v2x+v2y+v2z−−−−−−−−−−√.(8.16)(8.16)v=vx2+vy2+vz2.
+In the same way as we defined velocities, we can define accelerations:
+we have an xx-component of acceleration axax, which is the
+derivative of vxvx, the xx-component of the velocity (that is,
+ax=d2x/dt2ax=d2x/dt2, the second derivative of xx with respect to tt), and
+so on.
+Fig. 8–3.Description of the motion of a body in two dimensions and the
+computation of its velocity.
+Let us consider one nice example of compound motion in a plane. We shall
+take a motion in which a ball moves horizontally with a constant
+velocity uu, and at the same time goes vertically downward with a
+constant acceleration −g−g; what is the motion? We can
+say dx/dt=dx/dt= vx=vx= uu. Since the velocity vxvx is constant,
+x=ut,(8.17)(8.17)x=ut,
+and since the downward acceleration −g−g is constant, the distance yy
+the object falls can be written as
+y=−12gt2.(8.18)(8.18)y=−12gt2.
+What is the curve of its path, i.e., what is the relation between yy
+and xx? We can eliminate tt from Eq. (8.18), since t=x/ut=x/u.
+When we make this substitution we find that
+y=−g2u2x2.(8.19)(8.19)y=−g2u2x2.
+This relation between yy and xx may be considered as the equation of
+the path of the moving ball. When this equation is plotted we obtain a
+curve that is called a parabola; any freely falling body that is shot
+out in any direction will travel in a parabola, as shown in
+Fig. 8–4.
+Fig. 8–4.The parabola described by a falling body with an initial
+horizontal velocity.
+Copyright © 1963, 2006, 2013
+by the California Institute of Technology,
+Michael A. Gottlieb and Rudolf Pfeiffer
+8–1Description of motion8–2Speed8–3Speed as a derivative8–4Distance as an integral8–5Acceleration
