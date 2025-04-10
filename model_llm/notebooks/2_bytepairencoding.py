@@ -5,7 +5,7 @@
 # !pip install -q minbpe
 
 # %%
-with open("feynmanllm/model_llm/data/feynman_combined_text.txt", "r") as f:
+with open("../data/feynman_combined_text.txt", "r") as f:
     text_sequence = f.read()
 
 len(text_sequence)
@@ -24,7 +24,7 @@ sys.path.append('..')
 # Start by training the tokenizer on the text sequence that you saved in the previous notebook.
 
 # %%
-from feynmanllm.model_llm.minbpe import BasicTokenizer
+from minbpe import BasicTokenizer
 
 tokenizer = BasicTokenizer()
 tokenizer.train(text_sequence, vocab_size=1024)
@@ -72,7 +72,7 @@ estimated_total = int(tokens_per_char * len(text_sequence))
 print(f"Estimated total tokens: {estimated_total}")
 
 # %%
-tokenizer.save("feynmanllm/model_llm/output/tokenizer/my_tokenizer")
+tokenizer.save("../output/tokenizer/my_tokenizer")
 
 # %% [markdown]
 # Save the tokenizer
@@ -82,7 +82,7 @@ tokenizer.save("feynmanllm/model_llm/output/tokenizer/my_tokenizer")
 # from pathlib import Path
 
 # # Create the directory structure
-# save_dir = Path("feynmanllm/model_llm/output/tokenizer")
+# save_dir = Path("../output/tokenizer")
 # save_dir.mkdir(parents=True, exist_ok=True)
 
 # # Save tokenizer

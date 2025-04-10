@@ -9,7 +9,7 @@ sys.path.append('..')
 from feynmanllm.model_llm.minbpe import BasicTokenizer
 
 tokenizer = BasicTokenizer()
-tokenizer.load("feynmanllm/model_llm/output/tokenizer/my_tokenizer.model")
+tokenizer.load("../output/tokenizer/my_tokenizer.model")
 
 # %%
 def get_vocab_size(tokenizer: BasicTokenizer) -> int:
